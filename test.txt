@@ -1,0 +1,4547 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head lang="en-US">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" name="viewport"/>
+  <meta content="roIESoQyZmSjzpS002ewE0nQFS1M2Q207K4CBq1ejIY" name="google-site-verification"/>
+  <meta charset="utf-8"/>
+  <meta content="buy, car, Isuzu, Elf,Dropside,Cargo,Truck,,,New,Model,,TRUCK,FOR,SALE!, 2024, , sale, Manila, Philippines, new, used" name="keywords"/>
+  <meta content="DealerLogin.co" name="author"/>
+  <meta content="1 day" name="revisit-after"/>
+  <meta content="Dealer Login" name="dcterms.rightsHolder"/>
+  <meta content=" © 2024 Dealer Login" name="dcterms.rights"/>
+  <meta content="2024" name="dcterms.dateCopyrighted"/>
+  <meta content="ph" name="geo.country"/>
+  <meta content="Philippines" name="geo.placename"/>
+  <meta content="Philippines" name="geo.a2"/>
+  <meta content="https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717" property="og:url"/>
+  <meta content="https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" property="og:image"/>
+  <meta content="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! for sale in Quezon City. This vehicle has 100000 km and Diesel Engine." property="og:title"/>
+  <meta content="Available for sale on Philmotors.com with more details." property="og:description"/>
+  <title>
+   Used Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! | 2024 Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale | Quezon City Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! sales | Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! Price ₱12,345 | Trucks
+  </title>
+  <meta content="2024 Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale in Quezon City, Philippines. This vehicle has 100000 km and Diesel Engine. Pre-owned Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale. Second hand Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! car price in Philippines. Dealer in Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! vehicles for sale. - Truck Star Motor Sales Automobile Dealer. Isuzu cars." name="description"/>
+  <style>
+   body {display: none;}
+  </style>
+  <link href="/images/favicon.png" rel="icon" type="image/png"/>
+  <script>
+   var T_LANG = "en";
+		var DEF_LANG = "en";
+		var T_LANG_URL = "";
+    	var M = "cars";
+		var facebook_app_id = '1084916218204113';
+		var GoogleAnalyticsID = 'UA-767300-7';
+
+		window.lazySizesConfig = window.lazySizesConfig || {};
+		window.lazySizesConfig.loadMode = 1;
+		window.lazySizesConfig.loadHidden = false;
+
+		window.___gcfg = {
+	        lang: 'en-US'
+	      };
+
+		  var config = {
+			country: 'ph',
+			resources_host: 'https://i.philmotors.com',
+			phone_mask: '+63 X XXX XXXX',
+			second_phone_mask: '+63 XXX XXX XXXX'
+		};
+  </script>
+  <meta content="#FFFFFF" name="theme-color"/>
+  <meta content="Philmotors.com" name="apple-mobile-web-app-title"/>
+  <link href="/images/icon-iphone.png" rel="apple-touch-icon"/>
+  <meta content="C1C789F1EA44B874EE1A4F6CB787BB6E" name="msvalidate.01"/>
+  <link href="https://stats.g.doubleclick.net" rel="dns-prefetch"/>
+  <link href="https://www.google-analytics.com" rel="dns-prefetch"/>
+  <link href="https://pagead2.googlesyndication.com" rel="dns-prefetch"/>
+  <link href="https://googleads.g.doubleclick.net" rel="dns-prefetch"/>
+  <link href="https://connect.facebook.net" rel="dns-prefetch"/>
+  <link href="https://www.gstatic.com" rel="dns-prefetch"/>
+  <link href="https://adservice.google.com" rel="dns-prefetch"/>
+  <link href="https://fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="https://staticxx.facebook.com" rel="dns-prefetch"/>
+  <link href="https://tpc.googlesyndication.com" rel="dns-prefetch"/>
+  <link href="https://www.google.com" rel="dns-prefetch"/>
+ </head>
+ <body>
+  <div class="loadingBar hidden">
+  </div>
+  <div class="contentBlocker">
+  </div>
+  <nav class="sideMenu" style="display:none;">
+   <ul>
+    <li>
+     <a href="/sell">
+      <i class="sprite sprite-sale_ico">
+      </i>
+      Sell a vehicle
+     </a>
+    </li>
+    <li>
+     <a href="/edit">
+      <div class="aligner">
+       <i class="sprite sprite-edit">
+       </i>
+      </div>
+      Edit / Remove
+     </a>
+    </li>
+    <li>
+     <a href="/request">
+      <div class="aligner">
+       <i class="sprite sprite-request_ico">
+       </i>
+      </div>
+      Request a used car
+     </a>
+    </li>
+    <li>
+     <a href="/support">
+      <div class="aligner">
+       <i class="sprite sprite-contact_ico">
+       </i>
+      </div>
+      Support
+     </a>
+    </li>
+    <li>
+     <a href="http://www.dealerlogin.co/ph/" rel="noopener noreferrer external" target="_blank">
+      <div class="aligner">
+       <i class="sprite sprite-dl_ico">
+       </i>
+      </div>
+      Dealer Login
+     </a>
+    </li>
+    <li>
+     <a href="/favourite-cart " id="show_mobile_basket">
+      <div class="aligner">
+       <i class="sprite sprite-favorites_ico">
+       </i>
+      </div>
+      Favourite Cart:
+      <b class="basket_count">
+       0
+      </b>
+     </a>
+    </li>
+   </ul>
+   <div class="hidden" id="mobile_basket">
+    <img alt="Loading" class="lazyload" data-src="https://i.philmotors.com/images/4.gif" src="/image_preview.php?blank" style="margin:10px auto; display:block"/>
+   </div>
+   <div class="menuTabs">
+    <div class="tabHead" data-tab-name="dealers">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/icons/burger_menu/select_a_dealership.png">
+     </i>
+     Select a Dealership
+    </div>
+    <div class="menuList tab dealers hidden">
+     <span class="small">
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Private-Deal">
+       Private Deal
+      </a>
+     </div>
+     <span class="small">
+      Batangas
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/R21-Car-Exchange">
+       R21 Car Exchange
+      </a>
+     </div>
+     <span class="small">
+      Benguet
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Good-Wheel-Motors">
+       Good Wheel Motors
+      </a>
+     </div>
+     <span class="small">
+      Cavite
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Dano-Cars">
+       Dano Cars
+      </a>
+      <a class="ajaxurl big" href="/Elite-Aces-Trading-Inc">
+       Elite Aces Trading Inc
+      </a>
+      <a class="ajaxurl big" href="/Utopian-Car-Trading">
+       Utopian Car Trading
+      </a>
+      <a class="ajaxurl big" href="/Worthwhile-Marketing-Incorporated">
+       Worthwhile Marketing Incorporated
+      </a>
+     </div>
+     <span class="small">
+      Cebu
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/CCR-Car-Display">
+       CCR Car Display
+      </a>
+      <a class="ajaxurl big" href="/MGU-MOTORS-CEBU">
+       MGU MOTORS CEBU
+      </a>
+      <a class="ajaxurl big" href="/Queensland-Car-Mall">
+       Queensland Car Mall
+      </a>
+      <a class="ajaxurl big" href="/Truck-Specialists-Inc-">
+       Truck Specialists Inc.
+      </a>
+     </div>
+     <span class="small">
+      Isabela
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/PHIL-CAR-FOR-SALE-CO-">
+       PHIL CAR FOR SALE CO.
+      </a>
+     </div>
+     <span class="small">
+      La Union
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Car-Pro-La-Union">
+       Car Pro La Union
+      </a>
+     </div>
+     <span class="small">
+      Laguna
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/4-Wheels-Motors">
+       4 Wheels Motors
+      </a>
+      <a class="ajaxurl big" href="/Rorod-Autoworks-Trading">
+       Rorod Autoworks Trading
+      </a>
+     </div>
+     <span class="small">
+      Las Pinas City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/BetEp-Trading">
+       BetEp Trading
+      </a>
+     </div>
+     <span class="small">
+      Makati City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/387-Auto-Center">
+       387 Auto Center
+      </a>
+      <a class="ajaxurl big" href="/Good-Cars-Trading">
+       Good Cars Trading
+      </a>
+      <a class="ajaxurl big" href="/Riscars">
+       Riscars
+      </a>
+     </div>
+     <span class="small">
+      Manila
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/All-Range-Trucks-by-Sobida">
+       All Range Trucks by Sobida
+      </a>
+      <a class="ajaxurl big" href="/SOBIDA-Motor-Corporation">
+       SOBIDA Motor Corporation
+      </a>
+      <a class="ajaxurl big" href="/YM-MACHINERY-GROUP-CO-LTD">
+       YM MACHINERY GROUP CO., LTD
+      </a>
+     </div>
+     <span class="small">
+      Marikina City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Auto-Fair">
+       Auto Fair
+      </a>
+      <a class="ajaxurl big" href="/City-Cars">
+       City Cars
+      </a>
+      <a class="ajaxurl big" href="/Kotse-Network-Marikina">
+       Kotse Network Marikina
+      </a>
+      <a class="ajaxurl big" href="/MGU-MOTORS-MARIKINA-MANILA">
+       MGU MOTORS MARIKINA MANILA
+      </a>
+     </div>
+     <span class="small">
+      Misamis Oriental
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/MGU-MOTORS">
+       MGU MOTORS
+      </a>
+     </div>
+     <span class="small">
+      Muntinlupa City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Alabang-Auto-Exchange">
+       Alabang Auto Exchange
+      </a>
+     </div>
+     <span class="small">
+      Pampanga
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/All-About-Wheels">
+       All About Wheels
+      </a>
+      <a class="ajaxurl big" href="/Flywheelcars-Pampanga">
+       Flywheelcars Pampanga
+      </a>
+      <a class="ajaxurl big" href="/Invecs-Auto-Centrum">
+       Invecs Auto Centrum
+      </a>
+     </div>
+     <span class="small">
+      Paranaque City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Diann-Lapada">
+       Diann Lapada
+      </a>
+     </div>
+     <span class="small">
+      Pasay City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Car-Land">
+       Car Land
+      </a>
+     </div>
+     <span class="small">
+      Pasig City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/88-Meralco-Complex">
+       88 Meralco Complex
+      </a>
+      <a class="ajaxurl big" href="/Auto-Express">
+       Auto Express
+      </a>
+      <a class="ajaxurl big" href="/Autocamp">
+       Autocamp
+      </a>
+      <a class="ajaxurl big" href="/BC-Cars">
+       BC Cars
+      </a>
+      <a class="ajaxurl big" href="/Dave-Salonga">
+       Dave Salonga
+      </a>
+      <a class="ajaxurl big" href="/Metro-Cars-International-Exchange">
+       Metro Cars International Exchange
+      </a>
+      <a class="ajaxurl big" href="/Park-and-Sell">
+       Park and Sell
+      </a>
+     </div>
+     <span class="small">
+      Quezon
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Lucena-Auto-Mall">
+       Lucena Auto Mall
+      </a>
+     </div>
+     <span class="small">
+      Quezon City
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Axis-Auto-Network">
+       Axis Auto Network
+      </a>
+      <a class="ajaxurl big" href="/BSD-HOLDINGS-CORPORATION">
+       BSD HOLDINGS CORPORATION
+      </a>
+      <a class="ajaxurl big" href="/Cars-Unlimited-II">
+       Cars Unlimited II
+      </a>
+      <a class="ajaxurl big" href="/D-Truckspecialists-Inc-">
+       D Truckspecialists Inc.
+      </a>
+      <a class="ajaxurl big" href="/Kotse-Network-Fairview">
+       Kotse Network Fairview
+      </a>
+      <a class="ajaxurl big" href="/Kotse-Network-QC">
+       Kotse Network QC
+      </a>
+      <a class="ajaxurl big" href="/Lucky-32">
+       Lucky 32
+      </a>
+      <a class="ajaxurl big" href="/Lucky32-Car-Exchange">
+       Lucky32 Car Exchange
+      </a>
+      <a class="ajaxurl big" href="/Macky-s">
+       Macky's
+      </a>
+      <a class="ajaxurl big" href="/MCT-Cars">
+       MCT Cars
+      </a>
+      <a class="ajaxurl big" href="/Neo-Auto-Depot">
+       Neo Auto Depot
+      </a>
+      <a class="ajaxurl big" href="/North-Edsa-Cars">
+       North Edsa Cars
+      </a>
+      <a class="ajaxurl big" href="/P-K-2016-Global-Trading-Corporation">
+       P&amp;K 2016 Global Trading Corporation
+      </a>
+      <a class="ajaxurl big" href="/PK-GLOBAL-CORPORATION">
+       PK GLOBAL CORPORATION
+      </a>
+      <a class="ajaxurl big" href="/Speed-Lane-Plaza">
+       Speed Lane Plaza
+      </a>
+      <a class="ajaxurl big" href="/Streetcars-Auto-Exchange">
+       Streetcars Auto Exchange
+      </a>
+      <a class="ajaxurl big" href="/Super-MotorCart-Philippines">
+       Super MotorCart Philippines
+      </a>
+      <a class="ajaxurl big" href="/Truck-Finder-Philippines">
+       Truck Finder Philippines
+      </a>
+      <a class="ajaxurl big" href="/Truck-Star-Motor-Sales">
+       Truck Star Motor Sales
+      </a>
+      <a class="ajaxurl big" href="/United-Metro-Cars">
+       United Metro Cars
+      </a>
+     </div>
+     <span class="small">
+      Rizal
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/Autobase-Car-Exchange">
+       Autobase Car Exchange
+      </a>
+      <a class="ajaxurl big" href="/The-New-Car-Fair">
+       The New Car Fair
+      </a>
+     </div>
+     <span class="small">
+      Subic Bay
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/SUBIC-METRO-LANKA">
+       SUBIC METRO LANKA
+      </a>
+     </div>
+     <span class="small">
+      Taguig
+     </span>
+     <div class="submenu">
+      <a class="ajaxurl big" href="/HighEndCars-PH">
+       HighEndCars.PH
+      </a>
+     </div>
+    </div>
+    <div class="tabHead" data-tab-name="body">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/icons/burger_menu/browse_car_body.png">
+     </i>
+     Browse Vehicles by Type
+    </div>
+    <div class="menuList tab body hidden">
+     <a class="ajaxurl" href="/Coupe" title="Coupe cars">
+      Coupe
+      <i>
+       8
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Hatchback" title="Hatchback cars">
+      Hatchback
+      <i>
+       20
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Hybrid" title="Hybrid cars">
+      Hybrid
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/MPV" title="MPV cars">
+      MPV
+      <i>
+       17
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Modified" title="Modified cars">
+      Modified
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Panel-van" title="Panel van cars">
+      Panel van
+      <i>
+       4
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pick-up-Double-Cab" title="Pick-up Double Cab cars">
+      Pick-up Double Cab
+      <i>
+       43
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pick-up-Extended-Cab" title="Pick-up Extended Cab cars">
+      Pick-up Extended Cab
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pick-up-Single-Cab" title="Pick-up Single Cab cars">
+      Pick-up Single Cab
+      <i>
+       13
+      </i>
+     </a>
+     <a class="ajaxurl" href="/SUV" title="SUV cars">
+      SUV
+      <i>
+       165
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Sedan" title="Sedan cars">
+      Sedan
+      <i>
+       61
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Station-Wagon" title="Station Wagon cars">
+      Station Wagon
+      <i>
+       11
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Van" title="Van cars">
+      Van
+      <i>
+       63
+      </i>
+     </a>
+     <a class="ajaxurl" href="/4x4" title="4x4 cars">
+      4x4
+      <i>
+       51
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Motorcycle" title="Bikes for sale">
+      Motorbikes for sale
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Scooter" title="Scooters for sale">
+      Scooter
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Truck" title="Trucks">
+      Trucks for sale
+      <i>
+       348
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Boats" title="Boats and Jet Ski's for sale">
+      Boats &amp; Jet Ski's
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Commercial" title="Industrial Machineries">
+      Industrial Machineries
+      <i>
+       45
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Passenger-Bus" title="Buses">
+      New &amp; Used Buses
+      <i>
+       1
+      </i>
+     </a>
+    </div>
+    <div class="tabHead" data-tab-name="manufacturer">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/icons/burger_menu/cars_by_manufacturer.png">
+     </i>
+     Cars by Manufacturer
+    </div>
+    <div class="menuList tab manufacturer hidden">
+     <a class="brandMenuAjax" data-manufacturer="Audi" href="/Audi" title="Audi for sale">
+      Audi for sale
+      <i>
+       (3)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="BMW" href="/BMW" title="BMW for sale">
+      BMW for sale
+      <i>
+       (7)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Bentley" href="/Bentley" title="Bentley for sale">
+      Bentley for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Cadillac" href="/Cadillac" title="Cadillac for sale">
+      Cadillac for sale
+      <i>
+       (5)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Chery" href="/Chery" title="Chery for sale">
+      Chery for sale
+      <i>
+       (3)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Chevrolet" href="/Chevrolet" title="Chevrolet for sale">
+      Chevrolet for sale
+      <i>
+       (12)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Daewoo" href="/Daewoo" title="Daewoo for sale">
+      Daewoo for sale
+      <i>
+       (30)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Dodge" href="/Dodge" title="Dodge for sale">
+      Dodge for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Ferrari" href="/Ferrari" title="Ferrari for sale">
+      Ferrari for sale
+      <i>
+       (2)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Ford" href="/Ford" title="Ford for sale">
+      Ford for sale
+      <i>
+       (32)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Foton" href="/Foton" title="Foton for sale">
+      Foton for sale
+      <i>
+       (5)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="GMC" href="/GMC" title="GMC for sale">
+      GMC for sale
+      <i>
+       (10)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="GWM" href="/GWM" title="GWM for sale">
+      GWM for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Geely" href="/Geely" title="Geely for sale">
+      Geely for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Harley-Davidson" href="/Harley-Davidson" title="Harley-Davidson for sale">
+      Harley-Davidson for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Hino" href="/Hino" title="Hino for sale">
+      Hino for sale
+      <i>
+       (5)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Honda" href="/Honda" title="Honda for sale">
+      Honda for sale
+      <i>
+       (24)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Hyundai" href="/Hyundai" title="Hyundai for sale">
+      Hyundai for sale
+      <i>
+       (84)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="International" href="/International" title="International for sale">
+      International for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Isuzu" href="/Isuzu" title="Isuzu for sale">
+      Isuzu for sale
+      <i>
+       (233)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Jaguar" href="/Jaguar" title="Jaguar for sale">
+      Jaguar for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Jeep" href="/Jeep" title="Jeep for sale">
+      Jeep for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Kawasaki" href="/Kawasaki" title="Kawasaki for sale">
+      Kawasaki for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Kia" href="/Kia" title="Kia for sale">
+      Kia for sale
+      <i>
+       (3)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Lamborghini" href="/Lamborghini" title="Lamborghini for sale">
+      Lamborghini for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Land Rover" href="/Land-Rover" title="Land Rover for sale">
+      Land Rover for sale
+      <i>
+       (6)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Lexus" href="/Lexus" title="Lexus for sale">
+      Lexus for sale
+      <i>
+       (9)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Lincoln" href="/Lincoln" title="Lincoln for sale">
+      Lincoln for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="MG" href="/MG" title="MG for sale">
+      MG for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Mazda" href="/Mazda" title="Mazda for sale">
+      Mazda for sale
+      <i>
+       (9)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Mercedes-Benz" href="/Mercedes-Benz" title="Mercedes-Benz for sale">
+      Mercedes-Benz for sale
+      <i>
+       (26)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Mitsubishi" href="/Mitsubishi" title="Mitsubishi for sale">
+      Mitsubishi for sale
+      <i>
+       (57)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Nissan" href="/Nissan" title="Nissan for sale">
+      Nissan for sale
+      <i>
+       (26)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Porsche" href="/Porsche" title="Porsche for sale">
+      Porsche for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Range Rover" href="/Range-Rover" title="Range Rover for sale">
+      Range Rover for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Shacman" href="/Shacman" title="Shacman for sale">
+      Shacman for sale
+      <i>
+       (5)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Sinotruk" href="/Sinotruk" title="Sinotruk for sale">
+      Sinotruk for sale
+      <i>
+       (3)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Sobida" href="/Sobida" title="Sobida for sale">
+      Sobida for sale
+      <i>
+       (3)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Ssangyong" href="/Ssangyong" title="Ssangyong for sale">
+      Ssangyong for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Subaru" href="/Subaru" title="Subaru for sale">
+      Subaru for sale
+      <i>
+       (2)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Suzuki" href="/Suzuki" title="Suzuki for sale">
+      Suzuki for sale
+      <i>
+       (26)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Toyota" href="/Toyota" title="Toyota for sale">
+      Toyota for sale
+      <i>
+       (117)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Volkswagen" href="/Volkswagen" title="Volkswagen for sale">
+      Volkswagen for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Volvo" href="/Volvo" title="Volvo for sale">
+      Volvo for sale
+      <i>
+       (1)
+      </i>
+     </a>
+     <a class="brandMenuAjax" data-manufacturer="Yamaha" href="/Yamaha" title="Yamaha for sale">
+      Yamaha for sale
+      <i>
+       (2)
+      </i>
+     </a>
+    </div>
+    <div class="tabHead" data-tab-name="city">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/icons/burger_menu/car_by_city_town.png">
+     </i>
+     Cars for sale by City/Town
+    </div>
+    <div class="menuList tab city hidden">
+     <a class="ajaxurl" href="/Quezon-City-sales">
+      Quezon City
+      <i>
+       17
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Cavite-sales">
+      Cavite
+      <i>
+       3
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Laguna-sales">
+      Laguna
+      <i>
+       10
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Quezon-sales">
+      Quezon
+      <i>
+       35
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Makati-City-sales">
+      Makati City
+      <i>
+       18
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Marikina-City-sales">
+      Marikina City
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Muntinlupa-City-sales">
+      Muntinlupa City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Paranaque-City-sales">
+      Paranaque City
+      <i>
+       10
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pasig-City-sales">
+      Pasig City
+      <i>
+       87
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Quezon-City-sales">
+      Quezon City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Taguig-sales">
+      Taguig
+      <i>
+       86
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Isabela-sales">
+      Isabela
+      <i>
+       6
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pampanga-sales">
+      Pampanga
+      <i>
+       17
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Cebu-sales">
+      Cebu
+      <i>
+       9
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Misamis-Oriental-sales">
+      Misamis Oriental
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Batangas-sales">
+      Batangas
+      <i>
+       3
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Makati-City-sales">
+      Makati City
+      <i>
+       4
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Baguio-City-sales">
+      Baguio City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Valenzuela-City-sales">
+      Valenzuela City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Taguig-sales">
+      Taguig
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Manila-sales">
+      Manila
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Cebu-sales">
+      Cebu
+      <i>
+       12
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Quezon-City-sales">
+      Quezon City
+      <i>
+       7
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Negros-Occidental-sales">
+      Negros Occidental
+      <i>
+       4
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Paranaque-City-sales">
+      Paranaque City
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Bulacan-sales">
+      Bulacan
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Rizal-sales">
+      Rizal
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Laguna-sales">
+      Laguna
+      <i>
+       3
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pasig-City-sales">
+      Pasig City
+      <i>
+       22
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pampanga-sales">
+      Pampanga
+      <i>
+       4
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Malabon-City-sales">
+      Malabon City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Las-Pinas-City-sales">
+      Las Pinas City
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pangasinan-sales">
+      Pangasinan
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Cavite-sales">
+      Cavite
+      <i>
+       5
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Bohol-sales">
+      Bohol
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Leyte-sales">
+      Leyte
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Iloilo-sales">
+      Iloilo
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Nueva-Ecija-sales">
+      Nueva Ecija
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Agusan-Del-Norte-sales">
+      Agusan Del Norte
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/San-Juan-sales">
+      San Juan
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Pasay-City-sales">
+      Pasay City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Davao-Del-Sur-sales">
+      Davao Del Sur
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Antipolo-City-sales">
+      Antipolo City
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Calamba-sales">
+      Calamba
+      <i>
+       1
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Muntinlupa-City-sales">
+      Muntinlupa City
+      <i>
+       2
+      </i>
+     </a>
+    </div>
+    <div class="tabHead" data-tab-name="parts">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/icons/burger_menu/parts_and_equipment.png">
+     </i>
+     Parts &amp; Equipment
+    </div>
+    <div class="menuList tab parts hidden">
+     <a class="ajaxurl" href="/Car-Accessories" title="Accessories">
+      Accessories
+      <i>
+       80
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Camping-Equipment" title="Camping equipment">
+      Camping equipment
+      <i>
+       2
+      </i>
+     </a>
+     <a class="ajaxurl" href="/Trailers" title="">
+      New &amp; Used Trailers
+      <i>
+       15
+      </i>
+     </a>
+    </div>
+   </div>
+   <br class="clearBoth"/>
+   <div id="main_social_buttons_mobile">
+   </div>
+   <div class="infoBlock">
+    <div class="header">
+     1:15 Monday, November 11
+     <br/>
+     Manila, Philippines
+    </div>
+    <div class="currency">
+     <div>
+      <img alt="USD" src="https://i.philmotors.com/images/new/us-flag.png"/>
+      $1.0  =
+      <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
+      58.455
+     </div>
+     <div>
+      <img alt="EUR" src="https://i.philmotors.com/images/new/eu-flag.png"/>
+      €1.0  =
+      <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
+      62.655
+     </div>
+     <div>
+      <img alt="BTC" src="https://i.philmotors.com/images/new/btc-flag.png"/>
+      ฿1.0  =
+      <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
+      4 664 451
+     </div>
+     <!--
+			<div>
+				<img src='https://i.philmotors.com/images/new/gb-flag.png' alt='' /> &pound;1.0 &nbsp;=
+				<img src='https://i.philmotors.com/images/new/ph-flag.png' alt='' />  75.509			</div>
+-->
+    </div>
+    <div class="fuel">
+     <img alt="Brent/WTI" class="lazyload" data-src="https://i.philmotors.com/images/icons/fuel.svg" height="32" src="/image_preview.php?blank&amp;width=32&amp;height=32" width="32"/>
+     Brent: $75.63
+     <br/>
+     WTI: $72.00
+    </div>
+   </div>
+   <div class="coutriesList">
+    <a class="" href="https://www.savannacarhire.com.na" title="">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/flags/4x4 Rental Namibia.gif">
+     </i>
+     4x4 Rental Namibia
+    </a>
+    <a class="" href="https://www.namcars.net/index.php" title="">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/flags/Namibia.gif">
+     </i>
+     Used cars in Namibia
+    </a>
+    <a class="" href="https://www.autoguidebw.com" title="">
+     <i class="lazyload" data-bg="https://i.philmotors.com/images/flags/Botswana.gif">
+     </i>
+     Used cars in Botswana
+    </a>
+   </div>
+  </nav>
+  <img alt="Loading..." class="lazyload" data-src="https://i.philmotors.com/images/ajax_loader.svg" src="/image_preview.php?blank" style="display: none"/>
+  <div class="remodal" data-remodal-id="dialog_popup" data-remodal-options="hashTracking: false">
+   <button class="remodal-close" data-remodal-action="close">
+   </button>
+   <div class="dialog_content">
+    <img alt="Loading..." class="lazyload" data-src="https://i.philmotors.com/images/lightbox-ico-loading.gif" src="/image_preview.php?blank"/>
+   </div>
+  </div>
+  <div class="burgerMenu searchForm search transition" id="search_form_mobile">
+  </div>
+  <div class="mobile headerSpacer">
+  </div>
+  <div class="mobile mobileTopBar">
+   <a href="/">
+    <img alt="Philippines home" class="logo" src="/images/logo_net.png" title="New &amp; used cars for sale in Philippines"/>
+   </a>
+   <div class="burgerMenuButton" id="nav-icon3">
+    <span>
+    </span>
+    <span>
+    </span>
+    <span>
+    </span>
+    <span>
+    </span>
+    <div class="title">
+     Menu
+    </div>
+   </div>
+   <div class="searchMenuButton">
+    Search
+   </div>
+  </div>
+  <div class="head_box nomobile">
+   <div id="head_menu_box">
+    <ul id="head_menu">
+     <li>
+      <a href="/sell" style="margin-top:-5px;padding-bottom:4px;">
+       <i class="sprite sprite-sale_ico">
+       </i>
+       Sell a vehicle
+       <sup class="blink-text">
+        FREE
+       </sup>
+      </a>
+     </li>
+     <li>
+      <a href="/edit">
+       <i class="sprite sprite-edit">
+       </i>
+       Edit / Remove
+      </a>
+     </li>
+     <li>
+      <a href="/request">
+       <i class="sprite sprite-request_ico">
+       </i>
+       Request a used car
+      </a>
+     </li>
+     <li>
+      <a href="/support">
+       <i class="sprite sprite-contact_ico">
+       </i>
+       Support
+      </a>
+     </li>
+     <li>
+      <a href="https://www.dealerlogin.co/ph/" rel="noopener noreferrer external" target="_blank">
+       <i class="sprite sprite-dl_ico">
+       </i>
+       Dealer Login
+      </a>
+     </li>
+     <li>
+      <span id="menu-8">
+       <i class="sprite sprite-favorites_ico">
+       </i>
+       Favourite Cart:
+       <b class="basket_count">
+        0
+       </b>
+      </span>
+     </li>
+    </ul>
+   </div>
+   <table style="min-height:155px; margin:auto; padding-top:30px">
+    <tr>
+     <td style="width:300px; text-align:left">
+      <a class="mainLogo" href="/">
+       <img alt="Philippines home" class="lazyload" data-sizes="auto" data-src="/images/logo_net_desktop.png" data-srcset="/images/logo_net_desktop_2x.png 2x" src="/image_preview.php?blank" style="max-width:310px; " title="New &amp; used cars for sale in Philippines"/>
+       <div>
+        Cars &amp; vehicles for sale in the Philippines
+       </div>
+      </a>
+     </td>
+     <td style="width:500px;">
+      <div class="total_vehicles" style="margin:25px 0 0 0;">
+       <div id="dealer_select_div">
+        <select id="dealer_select" name="dealer_select" style="width:210px; margin:0;">
+         <option value="">
+          Select a dealership (65)
+         </option>
+         <optgroup label="">
+          <option value="/Private-Deal">
+           Private Deal
+          </option>
+         </optgroup>
+         <optgroup label="Batangas">
+          <option value="/R21-Car-Exchange">
+           R21 Car Exchange
+          </option>
+         </optgroup>
+         <optgroup label="Benguet">
+          <option value="/Good-Wheel-Motors">
+           Good Wheel Motors
+          </option>
+         </optgroup>
+         <optgroup label="Cavite">
+          <option value="/Dano-Cars">
+           Dano Cars
+          </option>
+          <option value="/Elite-Aces-Trading-Inc">
+           Elite Aces Trading Inc
+          </option>
+          <option value="/Utopian-Car-Trading">
+           Utopian Car Trading
+          </option>
+          <option value="/Worthwhile-Marketing-Incorporated">
+           Worthwhile Marketing Incorporated
+          </option>
+         </optgroup>
+         <optgroup label="Cebu">
+          <option value="/CCR-Car-Display">
+           CCR Car Display
+          </option>
+          <option value="/MGU-MOTORS-CEBU">
+           MGU MOTORS CEBU
+          </option>
+          <option value="/Queensland-Car-Mall">
+           Queensland Car Mall
+          </option>
+          <option value="/Truck-Specialists-Inc-">
+           Truck Specialists Inc.
+          </option>
+         </optgroup>
+         <optgroup label="Isabela">
+          <option value="/PHIL-CAR-FOR-SALE-CO-">
+           PHIL CAR FOR SALE CO.
+          </option>
+         </optgroup>
+         <optgroup label="La Union">
+          <option value="/Car-Pro-La-Union">
+           Car Pro La Union
+          </option>
+         </optgroup>
+         <optgroup label="Laguna">
+          <option value="/4-Wheels-Motors">
+           4 Wheels Motors
+          </option>
+          <option value="/Rorod-Autoworks-Trading">
+           Rorod Autoworks Trading
+          </option>
+         </optgroup>
+         <optgroup label="Las Pinas City">
+          <option value="/BetEp-Trading">
+           BetEp Trading
+          </option>
+         </optgroup>
+         <optgroup label="Makati City">
+          <option value="/387-Auto-Center">
+           387 Auto Center
+          </option>
+          <option value="/Good-Cars-Trading">
+           Good Cars Trading
+          </option>
+          <option value="/Riscars">
+           Riscars
+          </option>
+         </optgroup>
+         <optgroup label="Manila">
+          <option value="/All-Range-Trucks-by-Sobida">
+           All Range Trucks by Sobida
+          </option>
+          <option value="/SOBIDA-Motor-Corporation">
+           SOBIDA Motor Corporation
+          </option>
+          <option value="/YM-MACHINERY-GROUP-CO-LTD">
+           YM MACHINERY GROUP CO., LTD
+          </option>
+         </optgroup>
+         <optgroup label="Marikina City">
+          <option value="/Auto-Fair">
+           Auto Fair
+          </option>
+          <option value="/City-Cars">
+           City Cars
+          </option>
+          <option value="/Kotse-Network-Marikina">
+           Kotse Network Marikina
+          </option>
+          <option value="/MGU-MOTORS-MARIKINA-MANILA">
+           MGU MOTORS MARIKINA MANILA
+          </option>
+         </optgroup>
+         <optgroup label="Misamis Oriental">
+          <option value="/MGU-MOTORS">
+           MGU MOTORS
+          </option>
+         </optgroup>
+         <optgroup label="Muntinlupa City">
+          <option value="/Alabang-Auto-Exchange">
+           Alabang Auto Exchange
+          </option>
+         </optgroup>
+         <optgroup label="Pampanga">
+          <option value="/All-About-Wheels">
+           All About Wheels
+          </option>
+          <option value="/Flywheelcars-Pampanga">
+           Flywheelcars Pampanga
+          </option>
+          <option value="/Invecs-Auto-Centrum">
+           Invecs Auto Centrum
+          </option>
+         </optgroup>
+         <optgroup label="Paranaque City">
+          <option value="/Diann-Lapada">
+           Diann Lapada
+          </option>
+         </optgroup>
+         <optgroup label="Pasay City">
+          <option value="/Car-Land">
+           Car Land
+          </option>
+         </optgroup>
+         <optgroup label="Pasig City">
+          <option value="/88-Meralco-Complex">
+           88 Meralco Complex
+          </option>
+          <option value="/Auto-Express">
+           Auto Express
+          </option>
+          <option value="/Autocamp">
+           Autocamp
+          </option>
+          <option value="/BC-Cars">
+           BC Cars
+          </option>
+          <option value="/Dave-Salonga">
+           Dave Salonga
+          </option>
+          <option value="/Metro-Cars-International-Exchange">
+           Metro Cars International Exchange
+          </option>
+          <option value="/Park-and-Sell">
+           Park and Sell
+          </option>
+         </optgroup>
+         <optgroup label="Quezon">
+          <option value="/Lucena-Auto-Mall">
+           Lucena Auto Mall
+          </option>
+         </optgroup>
+         <optgroup label="Quezon City">
+          <option value="/Axis-Auto-Network">
+           Axis Auto Network
+          </option>
+          <option value="/BSD-HOLDINGS-CORPORATION">
+           BSD HOLDINGS CORPORATION
+          </option>
+          <option value="/Cars-Unlimited-II">
+           Cars Unlimited II
+          </option>
+          <option value="/D-Truckspecialists-Inc-">
+           D Truckspecialists Inc.
+          </option>
+          <option value="/Kotse-Network-Fairview">
+           Kotse Network Fairview
+          </option>
+          <option value="/Kotse-Network-QC">
+           Kotse Network QC
+          </option>
+          <option value="/Lucky-32">
+           Lucky 32
+          </option>
+          <option value="/Lucky32-Car-Exchange">
+           Lucky32 Car Exchange
+          </option>
+          <option value="/Macky-s">
+           Macky's
+          </option>
+          <option value="/MCT-Cars">
+           MCT Cars
+          </option>
+          <option value="/Neo-Auto-Depot">
+           Neo Auto Depot
+          </option>
+          <option value="/North-Edsa-Cars">
+           North Edsa Cars
+          </option>
+          <option value="/P-K-2016-Global-Trading-Corporation">
+           P&amp;K 2016 Global Trading Corporation
+          </option>
+          <option value="/PK-GLOBAL-CORPORATION">
+           PK GLOBAL CORPORATION
+          </option>
+          <option value="/Speed-Lane-Plaza">
+           Speed Lane Plaza
+          </option>
+          <option value="/Streetcars-Auto-Exchange">
+           Streetcars Auto Exchange
+          </option>
+          <option value="/Super-MotorCart-Philippines">
+           Super MotorCart Philippines
+          </option>
+          <option value="/Truck-Finder-Philippines">
+           Truck Finder Philippines
+          </option>
+          <option value="/Truck-Star-Motor-Sales">
+           Truck Star Motor Sales
+          </option>
+          <option value="/United-Metro-Cars">
+           United Metro Cars
+          </option>
+         </optgroup>
+         <optgroup label="Rizal">
+          <option value="/Autobase-Car-Exchange">
+           Autobase Car Exchange
+          </option>
+          <option value="/The-New-Car-Fair">
+           The New Car Fair
+          </option>
+         </optgroup>
+         <optgroup label="Subic Bay">
+          <option value="/SUBIC-METRO-LANKA">
+           SUBIC METRO LANKA
+          </option>
+         </optgroup>
+         <optgroup label="Taguig">
+          <option value="/HighEndCars-PH">
+           HighEndCars.PH
+          </option>
+         </optgroup>
+        </select>
+       </div>
+       <img alt="" src="https://i.philmotors.com/images/car_ico.gif"/>
+       <b>
+        829
+       </b>
+       vehicles for sale
+       <br/>
+      </div>
+     </td>
+     <td class="cellpadding2" id="top_search_form" style="padding:0; width:365px">
+      <i id="top_dealer_info">
+      </i>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div class="border_line">
+  </div>
+  <div class="content_box" id="content_box">
+   <div class="content_box pathBar nomobile">
+    <a href="/">
+     Cars PH
+    </a>
+    <a href="/Quezon-City-sales">
+     Used cars in Quezon City
+    </a>
+    <a href="/Isuzu">
+     Isuzu for sale
+    </a>
+    <strong>
+     2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+    </strong>
+   </div>
+   <div class="img_preview">
+   </div>
+   <div class="detailsBar loading">
+    <div class="active images">
+     <i>
+     </i>
+     <span>
+      Images
+     </span>
+    </div>
+    <div class="specs">
+     <i>
+     </i>
+     <span>
+      Specs
+     </span>
+    </div>
+    <div class="history">
+     <i>
+     </i>
+     <span>
+      History
+     </span>
+    </div>
+    <div class="contacts">
+     <i>
+     </i>
+     <span>
+      Contacts
+     </span>
+    </div>
+    <div class="sim">
+     <i>
+     </i>
+     <span>
+      Similar
+     </span>
+    </div>
+   </div>
+   <div itemscope="" itemtype="http://schema.org/Car">
+    <div class="" id="map_view" style="display:none">
+     <img alt="" src="https://i.philmotors.com/images/lightbox-ico-loading.gif"/>
+    </div>
+    <!--// details //-->
+    <div class="left_box detail_left">
+     <div>
+      <a class="addToCart mobile" style="margin:3px 22px 0 0">
+      </a>
+     </div>
+     <a class="commonButton mobile" href="/sell" style="float: right; width: 40px; text-align: center; margin: 5px 10px 0 5px; font-size: 13px; padding: 2px;">
+      Sell
+     </a>
+     <div class="social-sharing is-clean" data-permalink="https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717">
+      <a class="share-telegram" href="https://telegram.me/share/url?url=https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717" target="_blank">
+       <span class="icon icon-telegram">
+       </span>
+       <span class="share-title">
+        Send
+       </span>
+      </a>
+      <a class="share-whatsapp" data-action="share/whatsapp/share" href="whatsapp://send?text=%F0%9F%8F%B7%EF%B8%8F+2024+Isuzu+Elf+Dropside+Cargo+Truck+++New+Model++TRUCK+FOR+SALE%21%0D%0A%0D%0Ahttps%3A%2F%2Fwww.philmotors.com%2FIsuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE%21-83717%0D%0A%E2%A0%80%0D%0A%F0%9F%92%B0+Price%3A+%E2%82%B112%2C345%0D%0A%0D%0A">
+       <span class="icon icon-whatsapp">
+       </span>
+       <span class="share-title">
+        Send
+       </span>
+      </a>
+      <a class="share-facebook" href="https://www.facebook.com/dialog/share?app_id=1084916218204113&amp;display=popup&amp;href=https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717&amp;name=2024+Isuzu+Elf+Dropside+Cargo+Truck+++New+Model++TRUCK+FOR+SALE%21&amp;picture=https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg&amp;redirect_uri=https://www.philmotors.com/tpl/share-done.php" target="_blank">
+       <span class="icon icon-facebook">
+       </span>
+       <span class="share-title">
+        Share
+       </span>
+      </a>
+     </div>
+     <a class="showCalcButton mobileInline">
+      <span class="small-icon calc">
+      </span>
+      Finance Calculator
+     </a>
+     <div class="price_container">
+      <span class="mobileInline">
+       Price
+      </span>
+      <span id="price_chng" itemprop="price">
+       ₱12,345
+      </span>
+      <div style="display: table-cell; text-align: right; white-space: nowrap;">
+       <a href="?change_currency=USD" onclick="if (!confirm('The page will now reload to change and save your currency settings by making USD as default currency! Would you like to continue?')) return false;">
+        <img alt="Click to set up USD as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '$211'" src="https://i.philmotors.com/images/flags/currency_USD.png" srcset="https://i.philmotors.com/images/flags/currency_USD-2x.png 2x" title="Click to set up USD as default currency"/>
+       </a>
+       <a href="?change_currency=EUR" onclick="if (!confirm('The page will now reload to change and save your currency settings by making EUR as default currency! Would you like to continue?')) return false;">
+        <img alt="Click to set up EUR as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '€ 197'" src="https://i.philmotors.com/images/flags/currency_EUR.png" srcset="https://i.philmotors.com/images/flags/currency_EUR-2x.png 2x" title="Click to set up EUR as default currency"/>
+       </a>
+       <a href="?change_currency=PHP" onclick="if (!confirm('The page will now reload to change and save your currency settings by making PHP as default currency! Would you like to continue?')) return false;">
+        <img alt="Click to set up PHP as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '₱12,345'" src="https://i.philmotors.com/images/flags/currency_PHP.png" srcset="https://i.philmotors.com/images/flags/currency_PHP-2x.png 2x" title="Click to set up PHP as default currency"/>
+       </a>
+       <a href="?change_currency=BTC" onclick="if (!confirm('The page will now reload to change and save your currency settings by making BTC as default currency! Would you like to continue?')) return false;" style="margin-right:4px">
+        <img alt="Click to set up BTC as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '฿ 0.00'" src="https://i.philmotors.com/images/flags/currency_BTC.png" srcset="https://i.philmotors.com/images/flags/currency_BTC-2x.png 2x" title="Click to set up BTC as default currency"/>
+       </a>
+      </div>
+     </div>
+     <div class="mobile carMenu">
+      <a class="report-vehicle-button car-menu-button" style="display:none">
+       <i style="background-image:url(https://i.philmotors.com/images/report-spam.png)">
+       </i>
+       Report an issue ad
+      </a>
+     </div>
+     <div class="title-box info-title mobileTitle" id="images_block_start" itemprop="name">
+      <span style="display:none">
+       2024
+      </span>
+      <div class="small-icon car">
+      </div>
+      <span itemprop="manufacturer">
+       Isuzu
+      </span>
+      <span itemprop="model">
+       Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+      </span>
+     </div>
+     <div class="mobile carGallery" style="position:relative">
+      <div class="swiper-container">
+       <div class="swiper-wrapper">
+        <div class="swiper-slide">
+         <div class="videoPreviewPlay" data-id="XPdYlJB9l8g" onclick="load_youtube_video(this);">
+         </div>
+         <img class="lazyload" data-src="http://img.youtube.com/vi/XPdYlJB9l8g/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" src="/image_preview.php?blank"/>
+        </div>
+        <div class="swiper-slide">
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" src="/image_preview.php?blank"/>
+        </div>
+       </div>
+       <div class="swiper-pagination">
+       </div>
+       <div class="swiper-button-prev">
+       </div>
+       <div class="swiper-button-next">
+       </div>
+      </div>
+      <div class="refNo">
+       Ref No: 83717
+      </div>
+      <a class="viewAll" href="/images/all/83717">
+       <img alt="" src="https://i.philmotors.com/images/icons/gallery_icon.png" width="17"/>
+       Enlarge all 8  images
+      </a>
+     </div>
+     <div class="car-specs" id="specs_block_start">
+      <div class="row">
+       <a href="/2024-models">
+        2024 Year
+       </a>
+      </div>
+      <div class="row">
+       100,000 km mileage
+      </div>
+      <div class="row">
+       <a href="/Cars-for-sale-with-diesel-engine">
+        Diesel Fuel
+       </a>
+      </div>
+      <div class="row">
+       Loading capacity Ton: 4200
+      </div>
+      <div class="row">
+       Elf Dropside Cargo Truck   New Model
+       <br/>
+       TRUCK FOR SALE!
+       <br/>
+       <br/>
+       Specs and Features of
+       <br/>
+       TRUCK CODE: TRP.A04
+       <br/>
+       <br/>
+       ??Body Lenght:  10 FT.
+       <br/>
+       ??No. of Wheels: 4
+       <br/>
+       ??Engine: 4JJ1
+       <br/>
+       ??Horse Power: 131
+       <br/>
+       ??Transmission: Manual
+       <br/>
+       ??Registered: 2024
+       <br/>
+       <br/>
+       PM/DM   CALL   TEXT   VIBER   WHATSAPP:
+       <br/>
+       ?? Globe: 0915*318*8868
+       <br/>
+       ?? Direct Line: 8463*08*65
+       <br/>
+       <br/>
+       #ISUZU #ELF #FORWARD #GIGA #GIGAMAX #REFVAN #WINGVAN #CLOSEDVAN #DROPSIDECARGO #BOOMTRUCK #MINIDUMP #DUMPTRUCK #TANKER #SELFLOADER #TRACTORHEAD #TRAILER #TRUCKSTAR #REDMOAJEJR #japansurplus #directimporter #truckforsale #truckdealer #trucks #trucking #truckdriverlife
+      </div>
+     </div>
+     <div style="text-align:center; margin: 16px 0;">
+      <ins class="adsbygoogle" data-ad-client="ca-pub-9512292543519414" data-ad-slot="4825238446" style="display:inline-block;width:200px;height:200px">
+      </ins>
+     </div>
+     <div class="browsing-history desktop_hidden tabsBlock" id="history_block_start">
+      <div class="browsing-history-title mobileTitle tab" data-name="history">
+       <span class="small-icon history">
+       </span>
+       <span>
+        Browsing History
+       </span>
+      </div>
+      <div class="browsing-history-title mobileTitle tab unactive mobile" data-name="dealer_more">
+       <span class="small-icon dealer-more">
+       </span>
+       <span>
+        More from
+        <i>
+         this
+        </i>
+        dealer
+       </span>
+      </div>
+      <div class="tabContent" data-name="history">
+       <div class="browsing-history-list">
+       </div>
+       <div class="browsing-history-title clearBoth">
+        <a class="" id="clear_history_but">
+         <span class="small-icon clear">
+         </span>
+         Clear My History
+        </a>
+       </div>
+      </div>
+      <div class="tabContent hidden" data-name="dealer_more">
+       <div class="more-from-this-dealer-list">
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83718">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/232775_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-83724">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model  for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1965994_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Standard-TRUCK-FOR-SALE!-83732">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2318382_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83733">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/5815924_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83734">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9361532_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83735">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3999816_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83736">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/730039_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83737">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/5859808_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83738">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4054220_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3075141_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-Late-Model-|Standard-TRUCK-FOR-SALE!-83740">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7217116_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83741">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1626597_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83742">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/810557_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83743">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/8910845_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83744">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6175077_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Dropside-Cargo-Truck-|-New-Model-TRUCK-FOR-SALE!-83745">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Dropside Cargo Truck | New Model  TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Dropside Cargo Truck | New Model  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1604634_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83747">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/245976_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83749">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6637567_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83781">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/8413334_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83782">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Refrigerated Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4717756_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83783">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Closed Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9979682_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83803">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6014088_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83804">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/418923_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83805">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3226444_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83806">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7668921_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83807">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2354271_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83809">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7908144_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83810">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Wing Van Truck | New Model | Wide | Truck For Sale
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7407158_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Giga-max-Ref-Van-TRUCK-FOR-SALE!-83856">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Giga max Ref Van ???????? TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Giga max Ref Van ???????? TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2062185_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+        <a class="history_item_box" href="/Isuzu-Elf-Ref-Van-TRUCK-FOR-SALE!-Cash-and-Financing!-Truck-Code:-TRE.I02-83857">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Ref Van ???????? TRUCK FOR SALE! ???????? Cash and Financing! ???????? Truck Code: TRE.I02
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Ref Van ???????? TRUCK FOR SALE! ???????? Cash and Financing! ???????? Truck Code: TRE.I02 for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9342134_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
+       </div>
+       <br class="clearBoth"/>
+      </div>
+      <br/>
+     </div>
+     <br>
+      <br/>
+      <br/>
+      <div class="nomobile">
+      </div>
+     </br>
+    </div>
+    <!-- /left_box -->
+    <div class="right_box detail_right">
+     <div class="title-box dealer-title mobileTitle">
+      <span class="small-icon dealer">
+      </span>
+      Auto Dealer Information
+     </div>
+     <div itemscope="" itemtype="http://data-vocabulary.org/Organization">
+      <table class="dealer-info" id="contacts_block_start">
+       <tr>
+        <td>
+         <img alt="Truck Star Motor Sales Philippines" class="lazyload" data-src="/image/1201/dealerlogo/Truck-Star-Motor-Sales" itemprop="logo" src="/image_preview.php?blank" title="Used cars for sale"/>
+        </td>
+       </tr>
+       <tr>
+        <td class="info1">
+         <a href="/Truck-Star-Motor-Sales" itemprop="name url" title="Truck Star Motor Sales Philippines">
+          Truck Star Motor Sales
+         </a>
+         <br/>
+         <div itemprop="address">
+          <a href="/Quezon-City-sales" style="font-size:14px;font-weight:normal;" title="Used cars in Quezon City">
+           Quezon City
+          </a>
+          , Philippines
+          <br/>
+          Km. 22, Brgy. Pasong Putik, Quirino Highway, Lagro,
+         </div>
+         <div id="map-icon-url" style="display:none">
+          <a href="/inc/map.php?map_lat=0&amp;map_lng=0" id="show_map">
+           Show on Google Maps
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="info2">
+         <span>
+          Tel:
+         </span>
+         <a href="tel:09153188868" itemprop="telephone">
+          09153188868
+         </a>
+         <br/>
+         <span>
+          Tel:
+         </span>
+         <a href="tel:09209180933" itemprop="telephone">
+          09209180933
+         </a>
+         <br/>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div class="mobile">
+      <div class="form-wr">
+       <div class="form-container" id="form-container-mobile">
+        <div class="form-top" style="">
+         For more information please contact the used car dealership directly by telephone or by completing the form below:
+        </div>
+        <div class="form-body">
+         <form class="common_form" method="post">
+          <input name="contact_dealer" type="hidden" value="[contact_dealer]"/>
+          <input name="security_confirm" type="hidden" value="923681"/>
+          <input id="vehicle-id-mobile" name="car_id" type="hidden" value="83717"/>
+          <input id="is_form_mobile-mobile" name="is_form_mobile" type="hidden" value=""/>
+          <!-- used in non-ajax forms -->
+          <div class="form-row">
+           <label for="customer-name-mobile">
+            <span class="label">
+             Name
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-name-mobile" name="name" placeholder="Enter your Name" title="Please, enter your name!" type="text"/>
+           </label>
+          </div>
+          <div class="form-row">
+           <label for="customer-email-mobile">
+            <span class="label">
+             E-mail address
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-email-mobile" name="email" placeholder="Enter your E-mail" title="Please, enter E-mail address!" type="text"/>
+           </label>
+           <input class="form-input-confirm" name="email_confirm" placeholder="Confirm your E-mail" title="Confirm email!" type="text"/>
+          </div>
+          <div class="form-row">
+           <label for="customer-phone-mobile">
+            <span class="label">
+             Contact No
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-phone-mobile" name="phone" placeholder="Enter your Phone" title="Please, enter your phone number!" type="text"/>
+           </label>
+          </div>
+          <div class="form-row">
+           <textarea class="form-textarea" name="message" placeholder="Your message..."></textarea>
+          </div>
+          <div class="form-row captcha">
+           <!--
+                    <label for="customer-security"><span class="label">Please enter the security number <span>*</span> :</span>
+                    <br style='clear:both' />
+                    <img src="/inc/captcha.php?number=923681" alt="" class='img-capcha' />
+                    </label>
+                    <input type="text" name='security' title='Please, enter the security code!' class="form-input form-input-capcha" style="float:left" />
+-->
+           <button class="form-submit" name="submit_but" type="submit">
+            Submit
+           </button>
+           <!-- 	                <div style='clear:both'></div><a class='refresh_code' style="float:left">Refresh</a> -->
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="functional-buttons">
+      <a href="#" id="show-contact-form">
+      </a>
+      <a class="" id="show-calculator">
+      </a>
+     </div>
+     <div class="managers">
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/881.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:09686918747" itemprop="telephone">
+        09686918747
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/883.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:truckstarmotorsales@gmail.com" itemprop="telephone">
+        truckstarmotorsales@gmail.com
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/882.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:02-8463.08.65" itemprop="telephone">
+        02-8463.08.65
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/880.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:09153188868" itemprop="telephone">
+        09153188868
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+     </div>
+     <br class="clearBoth mobile"/>
+     <div class="">
+      <div class="title-box similar-title mobileTitle" id="similar_block_start">
+       <span class="small-icon similar mobileInline">
+       </span>
+       <span class="nomobile">
+        Similar used trucks for sale
+       </span>
+       <span class="mobileInline">
+        Similar used trucks for sale in Philippines
+       </span>
+      </div>
+      <div id="similar-tabs">
+       <span class="active" data-id="1">
+        All
+       </span>
+       <span data-id="2">
+        Year
+       </span>
+       <span data-id="5">
+        Engine
+       </span>
+       <span data-id="4">
+        Mileage
+       </span>
+       <span data-id="3">
+        Price
+       </span>
+      </div>
+      <div class="similar">
+       <div id="similar-results">
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83718" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/232775_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-83724" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model ">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/1965994_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model  for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Standard-TRUCK-FOR-SALE!-83732" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/2318382_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83733" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/5815924_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83734" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/9361532_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83735" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/3999816_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83736" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/730039_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83737" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/5859808_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83738" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/4054220_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/3075141_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-Late-Model-|Standard-TRUCK-FOR-SALE!-83740" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/7217116_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83741" itemprop="url" title="2024 Isuzu Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/1626597_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83742" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/810557_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83743" itemprop="url" title="2024 Isuzu Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/8910845_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83744" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!">
+          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/6175077_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
+       </div>
+      </div>
+      <br/>
+      <div style="text-align:center">
+       <ins class="adsbygoogle" data-ad-client="ca-pub-9512292543519414" data-ad-slot="4825238446" style="display:inline-block;width:200px;height:200px">
+       </ins>
+      </div>
+     </div>
+     <div class="more-from-this-dealer nomobile" style="width:236px">
+      <div class="more-from-this-dealer-title">
+       <span class="small-icon dealer-more" style="margin-right:10px">
+       </span>
+       <span>
+        More from
+        <i>
+         this
+        </i>
+        dealer
+       </span>
+      </div>
+      <div class="more-from-this-dealer-list">
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83718">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/232775_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-83724">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model  for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1965994_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Standard-TRUCK-FOR-SALE!-83732">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Standard TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2318382_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83733">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/5815924_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83734">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9361532_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83735">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3999816_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83736">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/730039_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Leafspring-TRUCK-FOR-SALE!-83737">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Leafspring TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/5859808_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83738">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4054220_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3075141_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-Late-Model-|Standard-TRUCK-FOR-SALE!-83740">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7217116_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83741">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1626597_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83742">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/810557_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83743">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/8910845_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83744">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6175077_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Dropside-Cargo-Truck-|-New-Model-TRUCK-FOR-SALE!-83745">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Dropside Cargo Truck | New Model  TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Dropside Cargo Truck | New Model  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/1604634_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83747">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/245976_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83749">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6637567_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83781">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/8413334_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83782">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Refrigerated Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4717756_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83783">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Closed Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Closed Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9979682_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83803">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/6014088_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83804">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/418923_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83805">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3226444_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83806">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7668921_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83807">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2354271_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83809">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7908144_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Wing-Van-Truck-|-New-Model-|-Wide-|-Truck-For-Sale-83810">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Wing Van Truck | New Model | Wide | Truck For Sale
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Wing Van Truck | New Model | Wide | Truck For Sale for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/7407158_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Giga-max-Ref-Van-TRUCK-FOR-SALE!-83856">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Giga max Ref Van ???????? TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Giga max Ref Van ???????? TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/2062185_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+       <a class="history_item_box" href="/Isuzu-Elf-Ref-Van-TRUCK-FOR-SALE!-Cash-and-Financing!-Truck-Code:-TRE.I02-83857">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Ref Van ???????? TRUCK FOR SALE! ???????? Cash and Financing! ???????? Truck Code: TRE.I02
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Ref Van ???????? TRUCK FOR SALE! ???????? Cash and Financing! ???????? Truck Code: TRE.I02 for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/9342134_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <!-- right_box -->
+    <div class="center_box detail_center">
+     <div class="cart_ref nomobile">
+      <div style="float:right;padding-right:14px">
+       <span style="display:inline-block">
+        Ref No:
+        <br/>
+        <span style="font-size:18px">
+         83717
+        </span>
+       </span>
+      </div>
+      <div id="car-menu-div">
+       <a class="car-menu-button addToCart">
+        <span style="background-image:url(https://i.philmotors.com/images/icons/favorites_ico.png)">
+         Add to favourites
+        </span>
+       </a>
+       <a class="report-vehicle-button car-menu-button" style="display:none">
+        <span style="background-image:url(https://i.philmotors.com/images/report-spam.png)">
+         Report an issue ad
+        </span>
+       </a>
+      </div>
+     </div>
+     <div style="text-align:center;margin:-4px 0 6px;">
+      <ins class="adsbygoogle" data-ad-client="ca-pub-9512292543519414" data-ad-slot="6488806014" style="display:inline-block;width:671px;height:130px">
+      </ins>
+     </div>
+     <div class="img-container nomobile" style="position:relative">
+      <div class="main-img" id="main-img">
+       <a id="image-1" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! Philippines">
+        <div class="videoPreviewPlay" data-id="XPdYlJB9l8g" onclick="load_youtube_video(this);">
+        </div>
+        <img alt="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! Philippines" class="lazyload" data-src="https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" id="image-2" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 2">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" id="image-3" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 3">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" id="image-4" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 4">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" id="image-5" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 5">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" id="image-6" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 6">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" id="image-7" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 7">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" id="image-8" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 8">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" id="image-9" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 9">
+        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       </a>
+       <a class="img-control img-control-left" id="btn_left">
+       </a>
+       <a class="img-control img-control-right" id="btn_right">
+       </a>
+      </div>
+      <div class="gallery-wr">
+       <input id="img_base_path" type="hidden" value="image_preview.php?filename=upload/1201/4540189_"/>
+       <input id="total_preview_count" type="hidden" value="9"/>
+       <a class="gallery-item" href="https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg">
+        <input name="pos" type="hidden" value="1"/>
+        <input name="num" type="hidden" value="1"/>
+        <div class="image lazyload" data-bg='"https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg"'>
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg">
+        <input name="pos" type="hidden" value="2"/>
+        <input name="num" type="hidden" value="2"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_1.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg">
+        <input name="pos" type="hidden" value="3"/>
+        <input name="num" type="hidden" value="3"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_2.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg">
+        <input name="pos" type="hidden" value="4"/>
+        <input name="num" type="hidden" value="4"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_3.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg">
+        <input name="pos" type="hidden" value="5"/>
+        <input name="num" type="hidden" value="5"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_4.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg">
+        <input name="pos" type="hidden" value="6"/>
+        <input name="num" type="hidden" value="6"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_5.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg">
+        <input name="pos" type="hidden" value="7"/>
+        <input name="num" type="hidden" value="7"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_6.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg">
+        <input name="pos" type="hidden" value="8"/>
+        <input name="num" type="hidden" value="8"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_7.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg">
+        <input name="pos" type="hidden" value="9"/>
+        <input name="num" type="hidden" value="9"/>
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_8.jpg&amp;width=366&amp;">
+        </div>
+       </a>
+       <br class="clearBoth"/>
+      </div>
+     </div>
+     <div class="nomobile">
+      <div class="form-wr">
+       <div class="form-container" id="form-container">
+        <div class="form-top" style="">
+         For more information please contact the used car dealership directly by telephone or by completing the form below:
+        </div>
+        <div class="form-body">
+         <form class="common_form" method="post">
+          <input name="contact_dealer" type="hidden" value="[contact_dealer]"/>
+          <input name="security_confirm" type="hidden" value="923681"/>
+          <input id="vehicle-id" name="car_id" type="hidden" value="83717"/>
+          <input id="is_form_mobile" name="is_form_mobile" type="hidden" value=""/>
+          <!-- used in non-ajax forms -->
+          <div class="form-row">
+           <label for="customer-name">
+            <span class="label">
+             Name
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-name" name="name" placeholder="Enter your Name" title="Please, enter your name!" type="text"/>
+           </label>
+          </div>
+          <div class="form-row">
+           <label for="customer-email">
+            <span class="label">
+             E-mail address
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-email" name="email" placeholder="Enter your E-mail" title="Please, enter E-mail address!" type="text"/>
+           </label>
+           <input class="form-input-confirm" name="email_confirm" placeholder="Confirm your E-mail" title="Confirm email!" type="text"/>
+          </div>
+          <div class="form-row">
+           <label for="customer-phone">
+            <span class="label">
+             Contact No
+             <span>
+              *
+             </span>
+             :
+            </span>
+            <input class="form-input" id="customer-phone" name="phone" placeholder="Enter your Phone" title="Please, enter your phone number!" type="text"/>
+           </label>
+          </div>
+          <div class="form-row">
+           <textarea class="form-textarea" name="message" placeholder="Your message..."></textarea>
+          </div>
+          <div class="form-row captcha">
+           <!--
+                    <label for="customer-security"><span class="label">Please enter the security number <span>*</span> :</span>
+                    <br style='clear:both' />
+                    <img src="/inc/captcha.php?number=923681" alt="" class='img-capcha' />
+                    </label>
+                    <input type="text" name='security' title='Please, enter the security code!' class="form-input form-input-capcha" style="float:left" />
+-->
+           <button class="form-submit" name="submit_but" type="submit">
+            Submit
+           </button>
+           <!-- 	                <div style='clear:both'></div><a class='refresh_code' style="float:left">Refresh</a> -->
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <br/>
+    </div>
+    <!-- center_box -->
+    <div class="seo_text nomobile">
+    </div>
+   </div>
+   <div class="pathBar mobile">
+    <a href="/">
+     Cars PH
+    </a>
+    <a href="/Quezon-City-sales">
+     Used cars in Quezon City
+    </a>
+    <a href="/Isuzu">
+     Isuzu for sale
+    </a>
+    <strong>
+     2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+    </strong>
+   </div>
+  </div>
+  <div class="footerDiv">
+   <div class="footer_box">
+    <div style="margin:auto">
+     Copyright © 2024 Philmotors.com
+     <br/>
+     Any unauthorized use or copying prohibited
+     <br/>
+     Product of
+     <a href="https://www.dealerlogin.co/" rel="noopener noreferrer external" target="_blank">
+      <b>
+       Dealer Login
+      </b>
+     </a>
+    </div>
+    <div class="terms">
+     <a href="/terms-of-use">
+      Terms of Use
+     </a>
+    </div>
+   </div>
+  </div>
+  <form class="form_usd" id="form_usd" method="post" name="form_usd">
+   <input id="change_currency" name="change_currency" type="hidden" value="USD"/>
+   <input id="current_currency" name="current_currency" type="hidden" value="PHP"/>
+  </form>
+  <div class="hidden" id="bubble">
+   <div class="logo lazyload" data-bg="/images/icon-iphone.png">
+   </div>
+   <span class="text">
+    Add Philmotors.com
+    <br/>
+    to your iPhone:
+    <br/>
+    Press
+    <span class="addToHomeShare">
+    </span>
+    and select
+    <strong>
+     Add to Home Screen
+    </strong>
+   </span>
+  </div>
+  <link href="https://i.philmotors.com/build/style.css?1726232776" rel="stylesheet"/>
+  <script src="https://i.philmotors.com/build/scripts.min.js?1726127667">
+  </script>
+  <script src="https://i.philmotors.com/build/cars_details.min.js?1726127668">
+  </script>
+  <script defer="" src="https://i.philmotors.com/js/3rd_parties.js?1717055804">
+  </script>
+ </body>
+</html>
