@@ -4,7 +4,7 @@
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" name="viewport"/>
   <meta content="roIESoQyZmSjzpS002ewE0nQFS1M2Q207K4CBq1ejIY" name="google-site-verification"/>
   <meta charset="utf-8"/>
-  <meta content="buy, car, Isuzu, Elf,Dropside,Cargo,Truck,,,New,Model,,TRUCK,FOR,SALE!, 2024, , sale, Manila, Philippines, new, used" name="keywords"/>
+  <meta content="buy, car, Isuzu, Elf,Refrigerated,Van,Truck,|,New,Model,|,Wide,TRUCK,FOR,SALE!, 2024, , sale, Manila, Philippines, new, used" name="keywords"/>
   <meta content="DealerLogin.co" name="author"/>
   <meta content="1 day" name="revisit-after"/>
   <meta content="Dealer Login" name="dcterms.rightsHolder"/>
@@ -13,14 +13,14 @@
   <meta content="ph" name="geo.country"/>
   <meta content="Philippines" name="geo.placename"/>
   <meta content="Philippines" name="geo.a2"/>
-  <meta content="https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717" property="og:url"/>
-  <meta content="https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" property="og:image"/>
-  <meta content="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! for sale in Quezon City. This vehicle has 100000 km and Diesel Engine." property="og:title"/>
+  <meta content="https://www.philmotors.com/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739" property="og:url"/>
+  <meta content="https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg" property="og:image"/>
+  <meta content="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in Quezon City. This vehicle has 100000 km and Diesel Engine." property="og:title"/>
   <meta content="Available for sale on Philmotors.com with more details." property="og:description"/>
   <title>
-   Used Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! | 2024 Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale | Quezon City Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! sales | Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! Price ₱12,345 | Trucks
+   Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! | 2024 Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale | Quezon City Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! sales | Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! Price ₱12,345 | Trucks
   </title>
-  <meta content="2024 Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale in Quezon City, Philippines. This vehicle has 100000 km and Diesel Engine. Pre-owned Elf Dropside Cargo Truck New Model TRUCK FOR SALE! for sale. Second hand Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! car price in Philippines. Dealer in Isuzu Elf Dropside Cargo Truck New Model TRUCK FOR SALE! vehicles for sale. - Truck Star Motor Sales Automobile Dealer. Isuzu cars." name="description"/>
+  <meta content="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in Quezon City, Philippines. This vehicle has 100000 km and Diesel Engine. Pre-owned Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale. Second hand Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! car price in Philippines. Dealer in Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! vehicles for sale. - Truck Star Motor Sales Automobile Dealer. Isuzu cars." name="description"/>
   <style>
    body {display: none;}
   </style>
@@ -492,7 +492,7 @@
      <a class="ajaxurl" href="/Pick-up-Double-Cab" title="Pick-up Double Cab cars">
       Pick-up Double Cab
       <i>
-       43
+       42
       </i>
      </a>
      <a class="ajaxurl" href="/Pick-up-Extended-Cab" title="Pick-up Extended Cab cars">
@@ -516,7 +516,7 @@
      <a class="ajaxurl" href="/Sedan" title="Sedan cars">
       Sedan
       <i>
-       61
+       60
       </i>
      </a>
      <a class="ajaxurl" href="/Station-Wagon" title="Station Wagon cars">
@@ -829,7 +829,7 @@
      <a class="brandMenuAjax" data-manufacturer="Toyota" href="/Toyota" title="Toyota for sale">
       Toyota for sale
       <i>
-       (117)
+       (115)
       </i>
      </a>
      <a class="brandMenuAjax" data-manufacturer="Volkswagen" href="/Volkswagen" title="Volkswagen for sale">
@@ -920,7 +920,7 @@
      <a class="ajaxurl" href="/Taguig-sales">
       Taguig
       <i>
-       86
+       85
       </i>
      </a>
      <a class="ajaxurl" href="/Isabela-sales">
@@ -950,7 +950,7 @@
      <a class="ajaxurl" href="/Batangas-sales">
       Batangas
       <i>
-       3
+       2
       </i>
      </a>
      <a class="ajaxurl" href="/Makati-City-sales">
@@ -1159,7 +1159,7 @@
    </div>
    <div class="infoBlock">
     <div class="header">
-     1:15 Monday, November 11
+     15:12 Tuesday, November 12
      <br/>
      Manila, Philippines
     </div>
@@ -1168,31 +1168,31 @@
       <img alt="USD" src="https://i.philmotors.com/images/new/us-flag.png"/>
       $1.0  =
       <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
-      58.455
+      58.821
      </div>
      <div>
       <img alt="EUR" src="https://i.philmotors.com/images/new/eu-flag.png"/>
       €1.0  =
       <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
-      62.655
+      62.586
      </div>
      <div>
       <img alt="BTC" src="https://i.philmotors.com/images/new/btc-flag.png"/>
       ฿1.0  =
       <img alt="PHP" src="https://i.philmotors.com/images/new/ph-flag.png"/>
-      4 664 451
+      5 202 194
      </div>
      <!--
 			<div>
 				<img src='https://i.philmotors.com/images/new/gb-flag.png' alt='' /> &pound;1.0 &nbsp;=
-				<img src='https://i.philmotors.com/images/new/ph-flag.png' alt='' />  75.509			</div>
+				<img src='https://i.philmotors.com/images/new/ph-flag.png' alt='' />  75.486			</div>
 -->
     </div>
     <div class="fuel">
      <img alt="Brent/WTI" class="lazyload" data-src="https://i.philmotors.com/images/icons/fuel.svg" height="32" src="/image_preview.php?blank&amp;width=32&amp;height=32" width="32"/>
-     Brent: $75.63
+     Brent: $73.87
      <br/>
-     WTI: $72.00
+     WTI: $70.55
     </div>
    </div>
    <div class="coutriesList">
@@ -1561,7 +1561,7 @@
        </div>
        <img alt="" src="https://i.philmotors.com/images/car_ico.gif"/>
        <b>
-        829
+        827
        </b>
        vehicles for sale
        <br/>
@@ -1588,7 +1588,7 @@
      Isuzu for sale
     </a>
     <strong>
-     2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+     2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
     </strong>
    </div>
    <div class="img_preview">
@@ -1643,22 +1643,22 @@
      <a class="commonButton mobile" href="/sell" style="float: right; width: 40px; text-align: center; margin: 5px 10px 0 5px; font-size: 13px; padding: 2px;">
       Sell
      </a>
-     <div class="social-sharing is-clean" data-permalink="https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717">
-      <a class="share-telegram" href="https://telegram.me/share/url?url=https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717" target="_blank">
+     <div class="social-sharing is-clean" data-permalink="https://www.philmotors.com/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739">
+      <a class="share-telegram" href="https://telegram.me/share/url?url=https://www.philmotors.com/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739" target="_blank">
        <span class="icon icon-telegram">
        </span>
        <span class="share-title">
         Send
        </span>
       </a>
-      <a class="share-whatsapp" data-action="share/whatsapp/share" href="whatsapp://send?text=%F0%9F%8F%B7%EF%B8%8F+2024+Isuzu+Elf+Dropside+Cargo+Truck+++New+Model++TRUCK+FOR+SALE%21%0D%0A%0D%0Ahttps%3A%2F%2Fwww.philmotors.com%2FIsuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE%21-83717%0D%0A%E2%A0%80%0D%0A%F0%9F%92%B0+Price%3A+%E2%82%B112%2C345%0D%0A%0D%0A">
+      <a class="share-whatsapp" data-action="share/whatsapp/share" href="whatsapp://send?text=%F0%9F%8F%B7%EF%B8%8F+2024+Isuzu+Elf+Refrigerated+Van+Truck+%7C+New+Model+%7C+Wide+TRUCK+FOR+SALE%21%0D%0A%0D%0Ahttps%3A%2F%2Fwww.philmotors.com%2FIsuzu-Elf-Refrigerated-Van-Truck-%7C-New-Model-%7C-Wide-TRUCK-FOR-SALE%21-83739%0D%0A%E2%A0%80%0D%0A%F0%9F%92%B0+Price%3A+%E2%82%B112%2C345%0D%0A%0D%0A">
        <span class="icon icon-whatsapp">
        </span>
        <span class="share-title">
         Send
        </span>
       </a>
-      <a class="share-facebook" href="https://www.facebook.com/dialog/share?app_id=1084916218204113&amp;display=popup&amp;href=https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717&amp;name=2024+Isuzu+Elf+Dropside+Cargo+Truck+++New+Model++TRUCK+FOR+SALE%21&amp;picture=https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg&amp;redirect_uri=https://www.philmotors.com/tpl/share-done.php" target="_blank">
+      <a class="share-facebook" href="https://www.facebook.com/dialog/share?app_id=1084916218204113&amp;display=popup&amp;href=https://www.philmotors.com/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739&amp;name=2024+Isuzu+Elf+Refrigerated+Van+Truck+%7C+New+Model+%7C+Wide+TRUCK+FOR+SALE%21&amp;picture=https://www.philmotors.com/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg&amp;redirect_uri=https://www.philmotors.com/tpl/share-done.php" target="_blank">
        <span class="icon icon-facebook">
        </span>
        <span class="share-title">
@@ -1680,7 +1680,7 @@
       </span>
       <div style="display: table-cell; text-align: right; white-space: nowrap;">
        <a href="?change_currency=USD" onclick="if (!confirm('The page will now reload to change and save your currency settings by making USD as default currency! Would you like to continue?')) return false;">
-        <img alt="Click to set up USD as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '$211'" src="https://i.philmotors.com/images/flags/currency_USD.png" srcset="https://i.philmotors.com/images/flags/currency_USD-2x.png 2x" title="Click to set up USD as default currency"/>
+        <img alt="Click to set up USD as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '$210'" src="https://i.philmotors.com/images/flags/currency_USD.png" srcset="https://i.philmotors.com/images/flags/currency_USD-2x.png 2x" title="Click to set up USD as default currency"/>
        </a>
        <a href="?change_currency=EUR" onclick="if (!confirm('The page will now reload to change and save your currency settings by making EUR as default currency! Would you like to continue?')) return false;">
         <img alt="Click to set up EUR as default currency" onmouseout="document.getElementById('price_chng').innerHTML = '₱12,345'" onmouseover="document.getElementById('price_chng').innerHTML = '€ 197'" src="https://i.philmotors.com/images/flags/currency_EUR.png" srcset="https://i.philmotors.com/images/flags/currency_EUR-2x.png 2x" title="Click to set up EUR as default currency"/>
@@ -1710,40 +1710,37 @@
        Isuzu
       </span>
       <span itemprop="model">
-       Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+       Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
       </span>
      </div>
      <div class="mobile carGallery" style="position:relative">
       <div class="swiper-container">
        <div class="swiper-wrapper">
         <div class="swiper-slide">
-         <div class="videoPreviewPlay" data-id="XPdYlJB9l8g" onclick="load_youtube_video(this);">
+         <div class="videoPreviewPlay" data-id="K9qUwEHrBmk?si=sH0CDkiP5FmR62J" onclick="load_youtube_video(this);">
          </div>
-         <img class="lazyload" data-src="http://img.youtube.com/vi/XPdYlJB9l8g/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
+         <img class="lazyload" data-src="http://img.youtube.com/vi/K9qUwEHrBmk?si=sH0CDkiP5FmR62J/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_2.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_3.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_4.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_5.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_6.jpg" src="/image_preview.php?blank"/>
         </div>
         <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" src="/image_preview.php?blank"/>
-        </div>
-        <div class="swiper-slide">
-         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" src="/image_preview.php?blank"/>
+         <img alt="" class="prevent_menu_open lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_7.jpg" src="/image_preview.php?blank"/>
         </div>
        </div>
        <div class="swiper-pagination">
@@ -1754,11 +1751,11 @@
        </div>
       </div>
       <div class="refNo">
-       Ref No: 83717
+       Ref No: 83739
       </div>
-      <a class="viewAll" href="/images/all/83717">
+      <a class="viewAll" href="/images/all/83739">
        <img alt="" src="https://i.philmotors.com/images/icons/gallery_icon.png" width="17"/>
-       Enlarge all 8  images
+       Enlarge all 7  images
       </a>
      </div>
      <div class="car-specs" id="specs_block_start">
@@ -1779,19 +1776,22 @@
        Loading capacity Ton: 4200
       </div>
       <div class="row">
-       Elf Dropside Cargo Truck   New Model
+       Finance: Available
+      </div>
+      <div class="row">
+       Elf Refrigerated Van Truck | New Model | Wide
        <br/>
        TRUCK FOR SALE!
        <br/>
        <br/>
        Specs and Features of
        <br/>
-       TRUCK CODE: TRP.A04
+       TRUCK CODE: TRP.S04
        <br/>
        <br/>
-       ??Body Lenght:  10 FT.
+       ??Body Lenght:  14 FT.
        <br/>
-       ??No. of Wheels: 4
+       ??No. of Wheels: 6
        <br/>
        ??Engine: 4JJ1
        <br/>
@@ -1802,12 +1802,13 @@
        ??Registered: 2024
        <br/>
        <br/>
-       PM/DM   CALL   TEXT   VIBER   WHATSAPP:
+       PM/DM | CALL | TEXT | VIBER | WHATSAPP | TELEGRAM SIR RED:
        <br/>
        ?? Globe: 0915*318*8868
        <br/>
        ?? Direct Line: 8463*08*65
        <br/>
+       VIEW PROFILE FOR MORE AVAILABLE TRUCKS: /redhottrucksforsale
        <br/>
        #ISUZU #ELF #FORWARD #GIGA #GIGAMAX #REFVAN #WINGVAN #CLOSEDVAN #DROPSIDECARGO #BOOMTRUCK #MINIDUMP #DUMPTRUCK #TANKER #SELFLOADER #TRACTORHEAD #TRAILER #TRUCKSTAR #REDMOAJEJR #japansurplus #directimporter #truckforsale #truckdealer #trucks #trucking #truckdriverlife
       </div>
@@ -1848,6 +1849,37 @@
       </div>
       <div class="tabContent hidden" data-name="dealer_more">
        <div class="more-from-this-dealer-list">
+        <a class="history_item_box" href="/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717">
+         <div class="header">
+          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+           <strong>
+            2024 Isuzu
+           </strong>
+           <br/>
+           Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+          </span>
+         </div>
+         <div class="images_item">
+          <span>
+           <img alt="Pre-owned Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4540189_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+          </span>
+         </div>
+         <div class="detail">
+          <span class="price" itemprop="price">
+           ₱12,345
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="mileage">
+           100,000 km
+          </span>
+          <span class="delimiter">
+          </span>
+          <span class="transmission">
+           Diesel
+          </span>
+         </div>
+        </a>
         <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83718">
          <div class="header">
           <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
@@ -2109,37 +2141,6 @@
          <div class="images_item">
           <span>
            <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4054220_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
-          </span>
-         </div>
-         <div class="detail">
-          <span class="price" itemprop="price">
-           ₱12,345
-          </span>
-          <span class="delimiter">
-          </span>
-          <span class="mileage">
-           100,000 km
-          </span>
-          <span class="delimiter">
-          </span>
-          <span class="transmission">
-           Diesel
-          </span>
-         </div>
-        </a>
-        <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739">
-         <div class="header">
-          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
-           <strong>
-            2024 Isuzu
-           </strong>
-           <br/>
-           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
-          </span>
-         </div>
-         <div class="images_item">
-          <span>
-           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3075141_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
           </span>
          </div>
          <div class="detail">
@@ -2854,8 +2855,8 @@
         <div class="form-body">
          <form class="common_form" method="post">
           <input name="contact_dealer" type="hidden" value="[contact_dealer]"/>
-          <input name="security_confirm" type="hidden" value="923681"/>
-          <input id="vehicle-id-mobile" name="car_id" type="hidden" value="83717"/>
+          <input name="security_confirm" type="hidden" value="506919"/>
+          <input id="vehicle-id-mobile" name="car_id" type="hidden" value="83739"/>
           <input id="is_form_mobile-mobile" name="is_form_mobile" type="hidden" value=""/>
           <!-- used in non-ajax forms -->
           <div class="form-row">
@@ -2902,7 +2903,7 @@
            <!--
                     <label for="customer-security"><span class="label">Please enter the security number <span>*</span> :</span>
                     <br style='clear:both' />
-                    <img src="/inc/captcha.php?number=923681" alt="" class='img-capcha' />
+                    <img src="/inc/captcha.php?number=506919" alt="" class='img-capcha' />
                     </label>
                     <input type="text" name='security' title='Please, enter the security code!' class="form-input form-input-capcha" style="float:left" />
 -->
@@ -2924,41 +2925,7 @@
      </div>
      <div class="managers">
       <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
-       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/881.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
-       <span>
-        <b itemprop="name">
-         Red Moaje Jr
-        </b>
-        <br/>
-       </span>
-       <br class="clearBoth nomobile"/>
-       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
-       <a href="tel:09686918747" itemprop="telephone">
-        09686918747
-       </a>
-       <br class="clearBoth mobile"/>
-       <br class="mobile"/>
-      </div>
-      <br class="clearBoth nomobile"/>
-      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
-       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/883.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
-       <span>
-        <b itemprop="name">
-         Red Moaje Jr
-        </b>
-        <br/>
-       </span>
-       <br class="clearBoth nomobile"/>
-       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
-       <a href="tel:truckstarmotorsales@gmail.com" itemprop="telephone">
-        truckstarmotorsales@gmail.com
-       </a>
-       <br class="clearBoth mobile"/>
-       <br class="mobile"/>
-      </div>
-      <br class="clearBoth nomobile"/>
-      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
-       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/882.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/882.jpg&amp;2885659" itemprop="image" src="/image_preview.php?blank"/>
        <span>
         <b itemprop="name">
          Red Moaje Jr
@@ -2975,7 +2942,24 @@
       </div>
       <br class="clearBoth nomobile"/>
       <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
-       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/880.jpg&amp;2885432" itemprop="image" src="/image_preview.php?blank"/>
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/883.jpg&amp;2885659" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:truckstarmotorsales@gmail.com" itemprop="telephone">
+        truckstarmotorsales@gmail.com
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/880.jpg&amp;2885659" itemprop="image" src="/image_preview.php?blank"/>
        <span>
         <b itemprop="name">
          Red Moaje Jr
@@ -2986,6 +2970,23 @@
        <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
        <a href="tel:09153188868" itemprop="telephone">
         09153188868
+       </a>
+       <br class="clearBoth mobile"/>
+       <br class="mobile"/>
+      </div>
+      <br class="clearBoth nomobile"/>
+      <div class="seller-avatar" itemscope="" itemtype="http://schema.org/Person">
+       <img alt="Vehicle manager" class="lazyload photo" data-src="/image_preview.php?width=160&amp;fixed_asp=0.75&amp;filename=upload/1201/managers/881.jpg&amp;2885659" itemprop="image" src="/image_preview.php?blank"/>
+       <span>
+        <b itemprop="name">
+         Red Moaje Jr
+        </b>
+        <br/>
+       </span>
+       <br class="clearBoth nomobile"/>
+       <img alt="Seller phone number" class="phone nomobile" src="https://i.philmotors.com/images/phone.png" srcset="https://i.philmotors.com/images/phone-2x.png 2x"/>
+       <a href="tel:09686918747" itemprop="telephone">
+        09686918747
        </a>
        <br class="clearBoth mobile"/>
        <br class="mobile"/>
@@ -3023,6 +3024,26 @@
       </div>
       <div class="similar">
        <div id="similar-results">
+        <!--// /similar item //-->
+        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
+         <span itemprop="name" style="display:none">
+          2024
+          <span itemprop="manufacturer">
+           Isuzu
+          </span>
+          <span itemprop="model">
+           Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+          </span>
+         </span>
+         <a class="similar_preview" href="Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717" itemprop="url" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!">
+          2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/4540189_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
+         </a>
+         <div class="price" itemprop="price">
+          ₱12,345
+         </div>
+        </div>
+        <!--// /similar item //-->
         <!--// /similar item //-->
         <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
          <span itemprop="name" style="display:none">
@@ -3211,26 +3232,6 @@
            Isuzu
           </span>
           <span itemprop="model">
-           Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
-          </span>
-         </span>
-         <a class="similar_preview" href="Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739" itemprop="url" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!">
-          2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
-          <input type="hidden" value="&lt;img src='image_preview.php?width=120&amp;filename=upload/1201/3075141_1.jpg'&gt;&lt;br /&gt;Used Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale&lt;br /&gt; 100,000 km,  - Diesel"/>
-         </a>
-         <div class="price" itemprop="price">
-          ₱12,345
-         </div>
-        </div>
-        <!--// /similar item //-->
-        <!--// /similar item //-->
-        <div itemprop="isSimilarTo" itemscope="" itemtype="http://schema.org/Car">
-         <span itemprop="name" style="display:none">
-          2024
-          <span itemprop="manufacturer">
-           Isuzu
-          </span>
-          <span itemprop="model">
            Elf Closed Van Truck | Late Model |Standard TRUCK FOR SALE!
           </span>
          </span>
@@ -3344,6 +3345,37 @@
        </span>
       </div>
       <div class="more-from-this-dealer-list">
+       <a class="history_item_box" href="/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717">
+        <div class="header">
+         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
+          <strong>
+           2024 Isuzu
+          </strong>
+          <br/>
+          Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+         </span>
+        </div>
+        <div class="images_item">
+         <span>
+          <img alt="Pre-owned Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4540189_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
+         </span>
+        </div>
+        <div class="detail">
+         <span class="price" itemprop="price">
+          ₱12,345
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="mileage">
+          100,000 km
+         </span>
+         <span class="delimiter">
+         </span>
+         <span class="transmission">
+          Diesel
+         </span>
+        </div>
+       </a>
        <a class="history_item_box" href="/Isuzu-Elf-Closed-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83718">
         <div class="header">
          <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
@@ -3605,37 +3637,6 @@
         <div class="images_item">
          <span>
           <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/4054220_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
-         </span>
-        </div>
-        <div class="detail">
-         <span class="price" itemprop="price">
-          ₱12,345
-         </span>
-         <span class="delimiter">
-         </span>
-         <span class="mileage">
-          100,000 km
-         </span>
-         <span class="delimiter">
-         </span>
-         <span class="transmission">
-          Diesel
-         </span>
-        </div>
-       </a>
-       <a class="history_item_box" href="/Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-83739">
-        <div class="header">
-         <span style="color: #644141;   font-size: 14px;   padding: 0;  text-align: center; text-decoration:none">
-          <strong>
-           2024 Isuzu
-          </strong>
-          <br/>
-          Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
-         </span>
-        </div>
-        <div class="images_item">
-         <span>
-          <img alt="Pre-owned Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! for sale in " class="lazyload" data-src="/image_preview.php?filename=upload/1201/3075141_1.jpg&amp;width=368&amp;fixed_asp=1.33333333&amp;" src="/image_preview.php?blank"/>
          </span>
         </div>
         <div class="detail">
@@ -4285,7 +4286,7 @@
         Ref No:
         <br/>
         <span style="font-size:18px">
-         83717
+         83739
         </span>
        </span>
       </div>
@@ -4308,34 +4309,31 @@
      </div>
      <div class="img-container nomobile" style="position:relative">
       <div class="main-img" id="main-img">
-       <a id="image-1" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! Philippines">
-        <div class="videoPreviewPlay" data-id="XPdYlJB9l8g" onclick="load_youtube_video(this);">
+       <a id="image-1" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! Philippines">
+        <div class="videoPreviewPlay" data-id="K9qUwEHrBmk?si=sH0CDkiP5FmR62J" onclick="load_youtube_video(this);">
         </div>
-        <img alt="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! Philippines" class="lazyload" data-src="https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
+        <img alt="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! Philippines" class="lazyload" data-src="https://img.youtube.com/vi/K9qUwEHrBmk?si=sH0CDkiP5FmR62J/0.jpg" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" id="image-2" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 2">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg" id="image-2" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 2">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" id="image-3" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 3">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_2.jpg" id="image-3" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 3">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_2.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_2_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" id="image-4" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 4">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_3.jpg" id="image-4" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 4">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_3.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_3_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" id="image-5" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 5">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_4.jpg" id="image-5" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 5">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_4.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_4_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" id="image-6" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 6">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_5.jpg" id="image-6" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 6">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_5.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_5_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" id="image-7" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 7">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_6.jpg" id="image-7" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 7">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_6.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_6_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" id="image-8" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 8">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
-       </a>
-       <a href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" id="image-9" style="display:none" target="_blank" title="2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! - 9">
-        <img alt="Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
+       <a href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_7.jpg" id="image-8" style="display:none" target="_blank" title="2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! - 8">
+        <img alt="Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE! in Philippines" class="lazyload" data-src="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_7.jpg" data-srcset="/Philippines/used-cars/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_7_retina.jpg 2x" itemprop="image" src="/image_preview.php?blank"/>
        </a>
        <a class="img-control img-control-left" id="btn_left">
        </a>
@@ -4343,60 +4341,54 @@
        </a>
       </div>
       <div class="gallery-wr">
-       <input id="img_base_path" type="hidden" value="image_preview.php?filename=upload/1201/4540189_"/>
-       <input id="total_preview_count" type="hidden" value="9"/>
-       <a class="gallery-item" href="https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg">
+       <input id="img_base_path" type="hidden" value="image_preview.php?filename=upload/1201/3075141_"/>
+       <input id="total_preview_count" type="hidden" value="8"/>
+       <a class="gallery-item" href="https://img.youtube.com/vi/K9qUwEHrBmk?si=sH0CDkiP5FmR62J/0.jpg">
         <input name="pos" type="hidden" value="1"/>
         <input name="num" type="hidden" value="1"/>
-        <div class="image lazyload" data-bg='"https://img.youtube.com/vi/XPdYlJB9l8g/0.jpg"'>
+        <div class="image lazyload" data-bg='"https://img.youtube.com/vi/K9qUwEHrBmk?si=sH0CDkiP5FmR62J/0.jpg"'>
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_1.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_1.jpg">
         <input name="pos" type="hidden" value="2"/>
         <input name="num" type="hidden" value="2"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_1.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_1.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_2.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_2.jpg">
         <input name="pos" type="hidden" value="3"/>
         <input name="num" type="hidden" value="3"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_2.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_2.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_3.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_3.jpg">
         <input name="pos" type="hidden" value="4"/>
         <input name="num" type="hidden" value="4"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_3.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_3.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_4.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_4.jpg">
         <input name="pos" type="hidden" value="5"/>
         <input name="num" type="hidden" value="5"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_4.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_4.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_5.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_5.jpg">
         <input name="pos" type="hidden" value="6"/>
         <input name="num" type="hidden" value="6"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_5.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_5.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_6.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_6.jpg">
         <input name="pos" type="hidden" value="7"/>
         <input name="num" type="hidden" value="7"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_6.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_6.jpg&amp;width=366&amp;">
         </div>
        </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_7.jpg">
+       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Refrigerated-Van-Truck-|-New-Model-|-Wide-TRUCK-FOR-SALE!-1201-3075141_7.jpg">
         <input name="pos" type="hidden" value="8"/>
         <input name="num" type="hidden" value="8"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_7.jpg&amp;width=366&amp;">
-        </div>
-       </a>
-       <a class="gallery-item" href="/image/2024-Isuzu-Elf-Dropside-Cargo-Truck---New-Model--TRUCK-FOR-SALE!-1201-4540189_8.jpg">
-        <input name="pos" type="hidden" value="9"/>
-        <input name="num" type="hidden" value="9"/>
-        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/4540189_8.jpg&amp;width=366&amp;">
+        <div class="image lazyload" data-bg="image_preview.php?filename=upload/1201/3075141_7.jpg&amp;width=366&amp;">
         </div>
        </a>
        <br class="clearBoth"/>
@@ -4411,8 +4403,8 @@
         <div class="form-body">
          <form class="common_form" method="post">
           <input name="contact_dealer" type="hidden" value="[contact_dealer]"/>
-          <input name="security_confirm" type="hidden" value="923681"/>
-          <input id="vehicle-id" name="car_id" type="hidden" value="83717"/>
+          <input name="security_confirm" type="hidden" value="506919"/>
+          <input id="vehicle-id" name="car_id" type="hidden" value="83739"/>
           <input id="is_form_mobile" name="is_form_mobile" type="hidden" value=""/>
           <!-- used in non-ajax forms -->
           <div class="form-row">
@@ -4459,7 +4451,7 @@
            <!--
                     <label for="customer-security"><span class="label">Please enter the security number <span>*</span> :</span>
                     <br style='clear:both' />
-                    <img src="/inc/captcha.php?number=923681" alt="" class='img-capcha' />
+                    <img src="/inc/captcha.php?number=506919" alt="" class='img-capcha' />
                     </label>
                     <input type="text" name='security' title='Please, enter the security code!' class="form-input form-input-capcha" style="float:left" />
 -->
@@ -4490,7 +4482,7 @@
      Isuzu for sale
     </a>
     <strong>
-     2024 Isuzu Elf Dropside Cargo Truck   New Model  TRUCK FOR SALE!
+     2024 Isuzu Elf Refrigerated Van Truck | New Model | Wide TRUCK FOR SALE!
     </strong>
    </div>
   </div>
