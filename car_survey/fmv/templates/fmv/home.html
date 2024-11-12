@@ -1,0 +1,8 @@
+{% extends "fmv/base.html" %}
+{% block content %}
+    {% for vehicle in vehicles %}
+        <h1>{{vehicle.maker}} - {{vehicle.model}}</h1>
+        <p>Odometer reading: {{vehicle.odometer}}</p>
+        <p>FMV: {{vehicle.price}}</p>
+    {% endfor %}
+{% endblock %}
