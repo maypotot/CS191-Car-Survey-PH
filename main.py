@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 from urllib import request 
 
 
-url = "https://www.philmotors.com/Isuzu-Elf-Dropside-Cargo-Truck-New-Model-TRUCK-FOR-SALE!-83717"
+url = "https://www.zigwheels.ph/best-motorcycles"
+parsed_data = dict()
+
 resp = request.urlopen(url)
 html = resp.read().decode('utf-8')
-
 
 parsed_html = BeautifulSoup(html, 'html.parser')
 with open("test.txt", "w", encoding='utf-8') as file:
@@ -15,6 +16,16 @@ with open("test.txt", "w", encoding='utf-8') as file:
         file.write(parsed_html.prettify())
     except Exception as e:
         print(e)
+
+print(parsed_html.prettify())   
+# price = parsed_html.find(class_="pcd-price")
+# vehicle_name = parsed_html.find(id="vehicle-title")
+# specifications = parsed_html.find(class_="pcd-specs")  
+
+# parsed_data["price"] = price.text.strip()
+# parsed_data["vehicle name"] = vehicle_name.text.strip()
+
+# print(specifications)
 # print(parsed_html.prettify())
 
 
@@ -31,20 +42,3 @@ with open("test.txt", "w", encoding='utf-8') as file:
 #     if span.attrs["class"] == ['transmission']:
 #         print(span.text.strip())
 
-car_specs = parsed_html.find(class_="car-specs")
-price = parsed_html.find(id="price_chng")
-
-print(price.prettify())
-
-car_specs_contents = car_specs.contents[-2]
-
-parsed_data = dict()
-
-for content in car_specs_contents:
-    if content == "\n":
-        continue
-    if ":" in content.text:
-        parsed_content = content.text.split(":")
-        parsed_data[parsed_content[0].strip().replace("?", "")] = parsed_content[1].strip()  
-print(parsed_data)
-       
