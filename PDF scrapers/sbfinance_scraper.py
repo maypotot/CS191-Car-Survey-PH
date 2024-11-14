@@ -3,7 +3,7 @@ import re
 import json
 
 def extract_text():
-    pdfFile = open(r"CS191-Car-Survey-PH-main\pdfscraping\Sb-finance-Repo-Units-as-of-November-2024.pdf", 'rb')
+    pdfFile = open(r"CS191-Car-Survey-PH-main\PDF scrapers\Sb-finance-Repo-Units-as-of-November-2024.pdf", 'rb')
     pdf_reader = PyPDF2.PdfReader(pdfFile)
     text = ""
     for page_num in range(len(pdf_reader.pages)):
