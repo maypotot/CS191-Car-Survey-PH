@@ -53,18 +53,17 @@ def interp_func(new_year: list[int], odometer, quality):
 # Predict FMV for new mileage values
 
     
-    
 def get_fmv(input_year: int, odometer: int, quality: int):
     final = dict()
     new_year = np.array([2010, 2011, 2012, 2013, 2014, 2015, 2021, 2022, 2023])
     predicted_fmv = interp_func(new_year, odometer, quality)
     for i in range(len(new_year)):
-        final[int(new_year[i])] = float(predicted_fmv[i])
+        final[int(new_year[i])] = int(float(predicted_fmv[i]) * 1000000)
     for i in range(len(year)):
-        final[int(year[i])] = float(fmv[i])
-        
+        final[int(year[i])] = int(float(fmv[i]) * 1000000)
+
     return final, final[input_year]
-    
+
 print(get_fmv(2020, 1000, 5))
 
 # year_interp = np.linspace(new_year[0], new_year[-1], 100)
