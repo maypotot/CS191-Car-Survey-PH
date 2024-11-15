@@ -18,7 +18,7 @@ def home(request):
 
     fmv_dict, fmv = get_fmv(int(year), int(odometer), 5)
 
-    value = {'value_price': fmv, "highest_value": fmv_dict[int(year) - 1], "lowest_value": fmv_dict[int(year) + 1]}
+    value = {'value_price': fmv, "highest_value": fmv_dict[int(year) + 1], "lowest_value": fmv_dict[int(year) - 1]}
     return JsonResponse(value)
 
 def data(request):
