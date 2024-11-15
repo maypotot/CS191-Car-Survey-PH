@@ -9,14 +9,12 @@ def home(request):
     transmission = request.GET.get('transmission', 'Any Transmission')
     year = request.GET.get('year', 'Unknown Year')
     odometer = request.GET.get('odometer', 'Unknown Odometer')
-    price = request.GET.get('price', 'Unknown Price')
 
     userinput = {"maker": maker, 
              "model": model, 
              "transmission": transmission,
              "year": year,
-             "odometer": odometer,
-             "price": price}
+             "odometer": odometer}
 
     fmv_dict, fmv = get_fmv(int(year), int(odometer), 5)
 
