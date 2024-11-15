@@ -17,8 +17,5 @@ def home(request):
                  "odometer": odometer,
                  "price": price}
 
-    return JsonResponse(userinput)
-
-def results(request):
     value = {'depreciation': ""}
     return JsonResponse(value)

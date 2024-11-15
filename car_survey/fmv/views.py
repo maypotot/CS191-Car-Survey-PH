@@ -18,12 +18,9 @@ def home(request):
              "odometer": odometer,
              "price": price}
 
-    return JsonResponse(userinput)
+    value = {'value_price': "", "highest_value": "", "lowest_value": ""}
+    return JsonResponse(value)
 
 def data(request):
     context = {'vehicles': Vehicle.objects.all()}
     return render(request, 'fmv/data.html', context)
-
-def results(request):
-    value = {'value_price': "", "highest_value": "", "lowest_value": ""}
-    return JsonResponse(value)
