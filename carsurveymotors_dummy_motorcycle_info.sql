@@ -25,6 +25,8 @@ DROP TABLE IF EXISTS `motorcycle_info`;
 CREATE TABLE `motorcycle_info` (
   `maker` varchar(100) DEFAULT NULL,
   `model` varchar(100) DEFAULT NULL,
+  `transmission` varchar(100) DEFAULT NULL,
+  `year` int DEFAULT NULL,
   `odometer_reading` int DEFAULT NULL,
   `price` int DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -36,7 +38,15 @@ CREATE TABLE `motorcycle_info` (
 
 LOCK TABLES `motorcycle_info` WRITE;
 /*!40000 ALTER TABLE `motorcycle_info` DISABLE KEYS */;
-INSERT INTO `motorcycle_info` VALUES ('BAJAJ RE','C1AU02',10093,159110),('HONDA ','ADV 160',17582,132880),('HONDA ','RS125',3586,61520),('YAMAHA ',' MIO FAZZIO',9969,73238),('YAMAHA','MIO FAZZIO',6089,73238),('HONDA','CLICK 125i',17075,59676),('HONDA','CLICK 125i',20936,59676),('HONDA','CLICK 125i',14642,66307);
+INSERT INTO `motorcycle_info` VALUES 
+('BAJAJ RE','C1AU02','Manual',2020, 10093,159110),
+('HONDA ','ADV 160','Automatic', 2017, 17582,132880),
+('HONDA ','RS125','Automatic', 2022, 3586,61520),
+('YAMAHA ',' MIO FAZZIO','Manual',2018, 9969,73238),
+('YAMAHA','MIO FAZZIO','Automatic', 2023, 6089,73238),
+('HONDA','CLICK 125i','Automatic', 2010, 17075,59676),
+('HONDA','CLICK 125i', 'Manual', 2015, 20936,59676),
+('HONDA','CLICK 125i','Automatic', 2018, 14642,66307);
 /*!40000 ALTER TABLE `motorcycle_info` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
