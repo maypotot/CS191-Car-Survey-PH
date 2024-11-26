@@ -43,4 +43,5 @@ if spec_container:
 # Print out each specifications
 print("Motorcycle Specifications:")
 for key, value in motorcycle_specs.items():
-    print(f"{key}: {value}")
+    if(key == "Brand" or key == "Model" or key == "Year" or key == "Mileage" ): 
+        print(f"{key}: {value}")
