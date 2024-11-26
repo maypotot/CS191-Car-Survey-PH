@@ -19,7 +19,7 @@ with open("motor.txt", "w", encoding='utf-8') as file:
     except Exception as e:
         print("Error writing to file:", e)
 
-spec_containers = parsed_html.find_all('div', class_='D_aGI M_aBs', style='grid-template-columns:1fr 1fr 1fr')
+spec_containers = parsed_html.find_all('div', style='grid-template-columns:1fr 1fr 1fr')
 
 # There are two divs with the same properties in the html, the second one contains the information we need
 if len(spec_containers) > 1:

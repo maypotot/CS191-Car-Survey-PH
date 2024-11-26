@@ -3,24 +3,21 @@ import re
 import json
 
 def extract_text():
-    pdfFile = open(r"CS191-Car-Survey-PH-main\PDF scrapers\Sb-finance-Repo-Units-as-of-November-2024.pdf", 'rb')
+    pdfFile = open(r"pdfscraping/Repo-Units-for-Bidding-as-of-Sept-20-2024_v2_compressed.pdf", 'rb')
     pdf_reader = PyPDF2.PdfReader(pdfFile)
     text = ""
     for page_num in range(len(pdf_reader.pages)):
         page = pdf_reader.pages[page_num]
         text += page.extract_text()
-
     return text
 
 def parse_motorcycle_info(text):
     # Updated regex pattern to capture Brand and Model separately
     pattern = re.compile(
-        r'(?P<skuid>[\w-]+)\s+'                # SKUID
-        r'(?P<location>[A-Z\s]+)\s+'           # Location
         r'(?P<mileage>\d+(\.\d+)?)\s+'         # Mileage
         r'(?P<price>[\d,]+\.\d{2})\s+'         # Price with decimal
         r'(?P<brand>[A-Z]+)\s+'                # Brand (one uppercase word)
-        r'(?P<model>[A-Za-z0-9\s|()/]+)'       # Model (additional words, numbers, and symbols)
+        r'(?P<model>[^\n]*)'       # Model (additional words, numbers, and symbols)
     )
 
     motorcycles = []
