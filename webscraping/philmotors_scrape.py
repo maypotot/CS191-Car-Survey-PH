@@ -65,6 +65,6 @@ for i in range(len(truck_links)):
 
 with open("philmotors_data.json", "w") as file:
     try:
-        json.dump(final_data, file)
+        json.dumps(final_data, file)
     except Exception as e:
         print(e)

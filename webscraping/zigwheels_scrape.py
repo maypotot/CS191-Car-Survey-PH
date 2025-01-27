@@ -11,14 +11,18 @@ from selenium.webdriver.common.action_chains import ActionChains
 import json
 
 
-final_data = dict()
+final_data = list()
 
 def collect_specs(parsed_html: BeautifulSoup, parsed_data: dict, id: str):
+    needed_motor_specs = ["Fuel Type", "Transmission Type"]
     specs = parsed_html.find(id="tab-feature" + id + "-panel")
     li_list = specs.find_all("li")
     for li in li_list:
         details = li.find_all("span")
-        parsed_data[details[0].text.strip()] = details[1].text.strip()
+        key = details[0].text.strip()
+        data = details[1].text.strip()
+        if key in needed_motor_specs: 
+            parsed_data[key] = data
         
 def get_info(url: str, driver: webdriver.Chrome):
     parsed_data = dict()
@@ -49,20 +53,28 @@ def get_info(url: str, driver: webdriver.Chrome):
     
     collect_specs(parsed_html, parsed_data, "0")
     
-    for i in range(1, 6):
-        specs_button = driver.find_element(By.ID, "tab-feature" + str(i))
-        specs_button.click()
+    for i in range(1, 7):
+        if i == 6 or i == 2:
+            try:
+                specs_button = driver.find_element(By.ID, "tab-feature" + str(i))
+                specs_button.click()    
+            except Exception as e:
+                print(e)
         
         collect_specs(parsed_html, parsed_data, str(i))
-        
-    final_data[parsed_data["vehicle_name"]] = parsed_data
+
+    final_data.append(parsed_data)
+    json_data = json.dumps(final_data, indent=4)
+    
+    with open("zigwheels_data.json", "w") as file:
+        try:
+            file.write(json_data)
+        except Exception as e:
+            print(e)
+    file.close()
     
 
     
-
-
-            
-
 def navigate():
     thumbnails: list = []
     service = Service(executable_path="chromedriver.exe")
@@ -90,10 +102,5 @@ def navigate():
         except Exception as e:
             print(e)
 
+open('file.txt', 'w').close()
 navigate()
-print(final_data)
-with open("zigwheels_data.json", "w") as file:
-    try:
-        json.dump(final_data, file)
-    except Exception as e:
-        print(e)
