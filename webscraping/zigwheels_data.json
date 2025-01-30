@@ -1,56 +1,284 @@
 [
     {
         "vehicle_name": "Honda Click 125i",
-        "vehicle_price": "\u20b181,400",
+        "vehicle_price": "81,400",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Honda Click 125i",
-        "vehicle_price": "\u20b181,400",
+        "vehicle_price": "81,400",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Yamaha Aerox 155",
-        "vehicle_price": "\u20b1124,000 - 145,000",
+        "vehicle_price": "124,000 - 145,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Honda ADV160",
+        "vehicle_price": "166,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Suzuki Raider R150 Fi",
-        "vehicle_price": "\u20b1121,900",
+        "vehicle_price": "121,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual"
     },
     {
         "vehicle_name": "Yamaha Nmax",
-        "vehicle_price": "\u20b1151,900",
+        "vehicle_price": "151,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Suzuki Burgman Street",
-        "vehicle_price": "\u20b183,400",
+        "vehicle_price": "83,400",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Honda Click 160",
-        "vehicle_price": "\u20b1116,900",
+        "vehicle_price": "116,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
+        "vehicle_name": "Honda PCX160",
+        "vehicle_price": "131,900 - 149,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Sniper 155",
+        "vehicle_price": "125,900 - 145,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
         "vehicle_name": "Honda BeAT",
-        "vehicle_price": "\u20b170,900 - 73,400",
+        "vehicle_price": "70,900 - 73,400",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
     },
     {
         "vehicle_name": "Yamaha Mio Fazzio",
-        "vehicle_price": "\u20b193,900",
+        "vehicle_price": "93,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Xmax",
+        "vehicle_price": "306,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Mio Gear",
+        "vehicle_price": "79,400 - 82,400",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Mio i 125",
+        "vehicle_price": "77,900 - 80,400",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Suzuki Burgman Street 125 EX",
+        "vehicle_price": "92,400",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Kawasaki Dominar 400",
+        "vehicle_price": "199,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Kawasaki Rouser RS200",
+        "vehicle_price": "149,500",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Kawasaki Ninja 400",
+        "vehicle_price": "340,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Honda TMX125 Alpha",
+        "vehicle_price": "56,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "MotorStar Xplorer 250R",
+        "vehicle_price": "69,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "KTM Duke 200",
+        "vehicle_price": "178,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha MT-15",
+        "vehicle_price": "178,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha Mio Gravis",
+        "vehicle_price": "92,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "KTM RC 200",
+        "vehicle_price": "162,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha YZF R15M",
+        "vehicle_price": "203,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Honda CB650R",
+        "vehicle_price": "524,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Kymco Like 125 Italia",
+        "vehicle_price": "92,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Suzuki V-Strom 250SX",
+        "vehicle_price": "229,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "CFMoto 400 NK",
+        "vehicle_price": "219,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha YZF-R3",
+        "vehicle_price": "290,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha XSR155",
+        "vehicle_price": "182,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Kawasaki Ninja ZX-25R",
+        "vehicle_price": "406,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Vespa S 125",
+        "vehicle_price": "160,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "KTM Duke 390",
+        "vehicle_price": "289,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Honda CBR150R",
+        "vehicle_price": "183,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Suzuki Gixxer FI",
+        "vehicle_price": "104,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "SYM Jet X150",
+        "vehicle_price": "135,800",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Mio Soul i 125",
+        "vehicle_price": "79,900 - 83,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Yamaha Mio Sporty",
+        "vehicle_price": "73,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Honda Rebel",
+        "vehicle_price": "399,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Yamaha YTX 125",
+        "vehicle_price": "57,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "MotorStar Cafe 400",
+        "vehicle_price": "140,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Honda CRF150L",
+        "vehicle_price": "147,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
+    },
+    {
+        "vehicle_name": "Honda Airblade160",
+        "vehicle_price": "125,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Vespa Primavera",
+        "vehicle_price": "210,000 - 235,000",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "CVT"
+    },
+    {
+        "vehicle_name": "Honda TMX Supremo",
+        "vehicle_price": "78,900",
+        "Fuel Type": "Gasoline",
+        "Transmission Type": "Manual"
     }
 ]
