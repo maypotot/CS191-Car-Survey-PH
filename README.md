@@ -1,5 +1,5 @@
 # Car Survey PH
-This repository is for the software development of Car Sruvey PH for the CS191 subject in University of the Philippines Diliman
+This repository is for the software development of Car Survey PH for the CS 191 & CS 192 subjects in the University of the Philippines Diliman.
 
 ## Web Scraper :writing_hand:
 The folder named *webscraping* contains python scripts that scrape specific website for data about trucks and motorcycles
