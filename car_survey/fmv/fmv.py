@@ -1,79 +1,74 @@
-from math import exp
 import numpy as np
-from scipy.interpolate import CubicSpline
 import matplotlib.pyplot as plt
-import random
-import sys
-import statistics
 from scipy.interpolate import interp1d
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+import psycopg2
 
-"""
-Sample Car:
 
-Make: Audi
-Model: A1
-Engine Capacity: 1400cc
-Fuel Type: Gas
-Transmission: A/T (Automatic Transmission)
-Drive Type: FWD (Front-Wheel Drive)
-Body Type: Hatchback
-Seating Capacity: 5-seater
-Doors: 3-door
+def predict_fmv(input_maker: str, input_model: str, input_year: int):
+    # Getting from Database
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
+    cur = conn.cursor()
 
-PIRA data is taken from https://www.peoplesgen.com/images/pdf/fairmarketvaluecar2022.pdf
-"""
+    cur.execute("""
+        SELECT model, maker, year, price FROM motors;      
+        """)
 
-# example data from webscraping; not yet implemented
-scraped_data = []
-random.seed(42)
-for i in range(5):
-    scraped_data.append(statistics.median([random.uniform(0.6, 1.5) for _ in range(100)]) + (2 ** i) * 0.4)
+    model, maker, model_year, price = (None, None, None, None)
 
-# print(scraped_data)
-# sys.exit()
-
-# Example data from webscraping
-year = np.array([2016, 2017, 2018, 2019, 2020])
-fmv = np.array(scraped_data) #in millions of pesos
-
-# Fit cubic spline
-def findMiddle(input_list):
-    middle = float(len(input_list))/2
-    if middle % 2 != 0:
-        return input_list[int(middle - .5)]
-    else:
-        return input_list[int(middle-1)]
-
-def interp_func(new_year: list[int], odometer, quality):
-    final = []
-    for i in range(len(new_year)):
-        final.append(scraped_data[0] - 0.6 + 0.06 * (exp((new_year[i] - new_year[0]) * 0.475)) - 0.0004 * odometer + 0.02 * quality)
-    return final
-
-# Predict FMV for new mileage values
-
+    for row in cur.fetchall():
+        model, maker, model_year, price = row
+        if model == input_model and maker == input_maker:
+            break
     
-def get_fmv(input_year: int, odometer: int, quality: int):
-    final = dict()
-    new_year = np.array([2010, 2011, 2012, 2013, 2014, 2015, 2021, 2022, 2023])
-    predicted_fmv = interp_func(new_year, odometer, quality)
-    for i in range(len(new_year)):
-        final[int(new_year[i])] = int(float(predicted_fmv[i]) * 1000000)
-    for i in range(len(year)):
-        final[int(year[i])] = int(float(fmv[i]) * 1000000)
+    np.random.seed(42)
+    years = np.arange(model_year, 2025)
+    fmv_data = {}
 
-    return final, final[input_year]
-    
-print(get_fmv(2020, 1000, 5))
+    for year in years:
+        base_price = price * np.exp(0.2 * (year - model_year))  
+        fmv_data[year] = np.round(np.absolute(np.random.normal(loc=base_price, scale=30000, size=100)), 2)
 
-# year_interp = np.linspace(new_year[0], new_year[-1], 100)
-# predicted_fmv_interp = interp_func(year_interp, 1000, 5)
+    X = np.repeat(years, 100).reshape(-1, 1)
+    y = np.concatenate([fmv_data[year] for year in years])  
 
-# Plot original data and spline interpolation
-# plt.plot(year, fmv, "o", label='Data points')
-# plt.plot(new_year, predicted_fmv, "x", label='Predicted FMV')
-# plt.plot(year_interp, predicted_fmv_interp, label='Predicted FMV')
-# plt.xlabel('Model Year')
-# plt.ylabel('FMV')
-# plt.legend()
-# plt.show()
+    degree = 3 
+    poly = PolynomialFeatures(degree=degree)
+    X_poly = poly.fit_transform(X)
+
+    model = LinearRegression()
+    model.fit(X_poly, y)
+
+    years_interp = np.linspace(model_year, 2025, 300).reshape(-1, 1) 
+
+    X_interp_poly = poly.transform(years_interp) 
+    fmv_interp = model.predict(X_interp_poly)
+    predicted_year = model.predict(poly.fit_transform([[input_year]]))
+
+    # plt.figure(figsize=(10, 6))
+    # for i, year in enumerate(years):
+    #     plt.scatter(np.full_like(fmv_data[year], year), fmv_data[year], alpha=0.3, s=8)
+
+
+    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+
+    # plt.xlabel("Year")
+    # plt.ylabel("FMV")
+    # plt.title("Interpolated Fair Market Value of Trucks (Polynomial Regression)")
+    # plt.legend()
+    # plt.grid(True, linestyle="--", alpha=0.5)
+
+    # plt.show()
+    return predicted_year[0], fmv_interp
+
+
+input_maker = "Honda"
+input_model = "Click 160"
+input_year = 2024
+
+predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model, input_year)
+print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+
+
+

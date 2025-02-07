@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse, HttpResponse
 from .models import Vehicle
-from .fmv import get_fmv
+from .fmv import predict_fmv
 
 def home(request):
     maker = request.GET.get('maker', 'Unknown Maker')
@@ -16,9 +16,9 @@ def home(request):
              "year": year,
              "odometer": odometer}
 
-    fmv_dict, fmv = get_fmv(int(year), int(odometer), 5)
+    predicted_fmv, predicted_fmv_lst, = predict_fmv(maker, model, int(year))
 
-    value = {'value_price': fmv, "highest_value": fmv_dict[int(year) + 1], "lowest_value": fmv_dict[int(year) - 1]}
+    value = {'maker': maker, 'model': model,'value_price': predicted_fmv, "highest_value": predicted_fmv_lst.max(), "lowest_value": predicted_fmv_lst.min()}
     return JsonResponse(value)
 
 def data(request):

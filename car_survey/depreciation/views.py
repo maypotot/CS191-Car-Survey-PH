@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from .models import Vehicle, Value
+from .depreciation import predict_depreciation
 
 def home(request):
     maker = request.GET.get('maker', 'Unknown Maker')
@@ -15,5 +16,11 @@ def home(request):
                  "year": year,
                  "odometer": odometer}
 
-    value = {'depreciation': ""}
+    predicted_depreciation, predicted_depreciation_lst = predict_depreciation(maker, model, int(year))
+
+    value = {'depreciation_value': predicted_depreciation, "highest_value": predicted_depreciation_lst.max(), "lowest_value": predicted_depreciation_lst.min()}
     return JsonResponse(value)
+
+def data(request):
+    context = {'vehicles': Vehicle.objects.all()}
+    return render(request, 'fmv/data.html', context)
