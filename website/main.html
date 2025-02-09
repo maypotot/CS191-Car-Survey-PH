@@ -1,9 +1,36 @@
+<script>
+  function updateAction() {
+    const urlInput = document.getElementById("urlInput").value;
+    const maker = document.getElementById("maker").value;
+    const model = document.getElementById("model").value;
+    const year = document.getElementById("year").value;
+
+    
+    apiUrl = "http://localhost:8000/fmv/?maker=Honda&model=Click+160&year=2023"
+    console.log(apiUrl);
+
+    fetch(apiUrl)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(userData => {
+        // Process the retrieved user data
+        console.log('User Data:', userData);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+  }
+
+</script>
+
 <div class="formbold-main-wrapper">
     <!-- Author: FormBold Team -->
     <!-- Learn More: https://formbold.com -->
     <div class="formbold-form-wrapper">
-  
-      <form action="http://127.0.0.1:8000/fmv/" method="GET">
         <div class="formbold-form-title">
           <h2 class="">Register now</h2>
           <p>
@@ -49,9 +76,17 @@
               />
             </div>  
           </div>
+        <div class="formbold-input-group">
+          <label class="formbold-form-label">
+            FMV or Depreciation?
+          </label>          
+            <select id="urlInput" class="formbold-form-select">
+              <option value="fmv">FMV</option>
+              <option value="depreciation">Depreciation</option>
+            </select>
+        </div>
   
-        <button class="formbold-btn">Submit</button>
-      </form>
+        <button class="formbold-btn" onclick="updateAction()">Submit</button>
     </div>
   </div>
   <style>
