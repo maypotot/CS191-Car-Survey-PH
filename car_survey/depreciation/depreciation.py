@@ -6,8 +6,8 @@ import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str, input_year: int, vehicle_type: str = "motors"):
     
-    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
