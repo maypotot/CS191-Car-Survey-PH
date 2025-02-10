@@ -8,7 +8,7 @@ import psycopg2
 
 def predict_fmv(input_maker: str, input_model: str, input_year: int):
     # Getting from Database
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
     cur = conn.cursor()
 
     cur.execute("""
