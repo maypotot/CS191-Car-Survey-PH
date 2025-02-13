@@ -7,9 +7,8 @@ import psycopg2
 
 
 def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_type: str = "motors"):
-    # Getting from Database
+    # Getting data from database
     conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
-    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -54,7 +53,6 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
     for i, year in enumerate(years):
         plt.scatter(np.full_like(fmv_data[year], year), fmv_data[year], alpha=0.3, s=8)
 
-
     plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
     plt.xlabel("Year")
@@ -65,7 +63,6 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
 
     plt.show()
     return predicted_year[0], fmv_interp
-
 
 # input_maker = "Honda"
 # input_model = "Click 160"
