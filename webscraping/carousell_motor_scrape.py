@@ -1,47 +1,70 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
 import re
 from bs4 import BeautifulSoup
-from urllib import request 
 
-url = "https://www.carousell.ph/p/motorcycle-for-sale-honda-tmx-125-alpha-used-1316509257/"
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36'
-}
+service = Service(executable_path="webscraping/chromedriver.exe")
+driver = webdriver.Chrome(service=service)
 
-req = request.Request(url, headers=headers)
-resp = request.urlopen(req)
-html = resp.read().decode('utf-8')
+driver.get("https://www.carousell.ph/motorcycles-for-sale/h-2652/")
 
-parsed_html = BeautifulSoup(html, 'html.parser')
+show_listings = driver.find_element(By.CSS_SELECTOR, "[role='submitButton'][type='submit']")
+show_listings.click()
 
-with open("motor.txt", "w", encoding='utf-8') as file:
+WebDriverWait(driver, 5).until(
+    EC.presence_of_element_located((By.CLASS_NAME, "D_pt"))
+)
+
+num_listings = len(driver.find_elements(By.CLASS_NAME, "D_pt"))
+scraped_data = []  # Store scraped motorcycle data
+
+for i in range(num_listings):
+    # Re-fetch the listing elements to avoid stale element reference
+    listing_cards = driver.find_elements(By.CLASS_NAME, "D_pt")
+    
+    if i >= len(listing_cards):  # If the number of listings changed
+        break
     try:
-        file.write(parsed_html.prettify())
+        listing_cards[i].click()
+        time.sleep(5)  # Wait for the listing page to load
+
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+
+        spec_containers = soup.find_all('div', class_='D_aNU')
+        spec_container = spec_containers[1] if len(spec_containers) > 1 else None
+
+        motorcycle_specs = {}  # Dictionary to store specs
+
+        if spec_container:
+            for spec in spec_container.find_all("div", recursive=False):
+                spec_type = spec.find('p').text.strip() if spec.find('p') else "Unknown Spec"
+                spec_value = spec.find('span').text.strip() if spec.find('span') else "Unknown Value"
+                motorcycle_specs[spec_type] = spec_value
+        else:
+            print("spec container not found")
+
+        # Store data
+        scraped_data.append(motorcycle_specs)
+        print(f"Scraped Listing {i+1}: {motorcycle_specs}")
+
+        driver.back()
+        time.sleep(3)  # Wait for the listings page to reload
     except Exception as e:
-        print("Error writing to file:", e)
+        print(f"Error navigating listing {i+1}: {e}")
 
-spec_containers = parsed_html.find_all('div', style='grid-template-columns:1fr 1fr 1fr')
+print("\nFinal Scraped Data:")
+for idx, data in enumerate(scraped_data):
+    print(f"Listing {idx+1}: {data}")
 
-# There are two divs with the same properties in the html, the second one contains the information we need
-if len(spec_containers) > 1:
-    spec_container = spec_containers[1]  # Select the second div
-else:
-    spec_container = None
-    print("Second spec container not found!")
+show_listings = driver.find_element(By.CLASS_NAME, "D_kr D_kM D_kE D_kz D_kQ D_KI")
+show_listings.click()
 
-# Initialize a list to store the spec values
-motorcycle_specs = {}
+time.sleep(10)
+driver.quit()
 
-# Extract the spec values
-if spec_container:
-    for spec in spec_container.find_all("div", recursive=False):
-        spec_type = spec.find('p', style=re.compile(r'color:#57585a')).text.strip()
-        spec_value = spec.find('span', style=re.compile(r'color:#57585a')).text.strip()
-
-        motorcycle_specs[spec_type] = spec_value
-        
-
-# Print out each specifications
-print("Motorcycle Specifications:")
-for key, value in motorcycle_specs.items():
-    if(key == "Brand" or key == "Model" or key == "Year" or key == "Mileage" ): 
-        print(f"{key}: {value}")
+#D_kr D_kM D_kE D_kz D_kQ D_KI
