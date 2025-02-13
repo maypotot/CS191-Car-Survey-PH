@@ -49,19 +49,19 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
     fmv_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    plt.figure(figsize=(10, 6))
-    for i, year in enumerate(years):
-        plt.scatter(np.full_like(fmv_data[year], year), fmv_data[year], alpha=0.3, s=8)
+    # plt.figure(figsize=(10, 6))
+    # for i, year in enumerate(years):
+    #     plt.scatter(np.full_like(fmv_data[year], year), fmv_data[year], alpha=0.3, s=8)
 
-    plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    plt.xlabel("Year")
-    plt.ylabel("FMV")
-    plt.title("Interpolated Fair Market Value of Trucks (Polynomial Regression)")
-    plt.legend()
-    plt.grid(True, linestyle="--", alpha=0.5)
+    # plt.xlabel("Year")
+    # plt.ylabel("FMV")
+    # plt.title("Interpolated Fair Market Value of Trucks (Polynomial Regression)")
+    # plt.legend()
+    # plt.grid(True, linestyle="--", alpha=0.5)
 
-    plt.show()
+    # plt.show()
     return predicted_year[0], fmv_interp
 
 # input_maker = "Honda"
