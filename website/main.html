@@ -1,12 +1,14 @@
 <script>
   function updateAction() {
     const urlInput = document.getElementById("urlInput").value;
-    const maker = document.getElementById("maker").value;
-    const model = document.getElementById("model").value;
+    const vehicleInput = document.getElementById("vehicleInput").value;
+    const maker = document.getElementById("maker").value.replace(" ", "+");
+    const model = document.getElementById("model").value.replace(" ", "+");
     const year = document.getElementById("year").value;
 
     
-    apiUrl = "http://localhost:8000/fmv/?maker=Honda&model=Click+160&year=2023"
+    apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + 
+            "&model=" + model + "&year=" + year + "&vehicle=" + vehicleInput;
     console.log(apiUrl);
 
     fetch(apiUrl)
@@ -38,7 +40,15 @@
             eiusmod tempor incididunt.
           </p>
         </div>
-  
+        <div class="formbold-input-group">
+          <label class="formbold-form-label">
+            Motor or Truck?
+          </label>          
+            <select id="vehicleInput" class="formbold-form-select">
+              <option value="motors">Motor</option>
+              <option value="trucks">Truck</option>
+            </select>
+        </div>
         <div class="formbold-input-flex">
           <div>
             <label for="maker" class="formbold-form-label"> 
