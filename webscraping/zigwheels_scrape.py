@@ -207,7 +207,6 @@ def navigate():
                 time.sleep(1)
                 WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "view-more-btn")))
                 next_button = driver.find_element(By.ID, "view-more-btn")
-                actions = ActionChains(driver)
                 actions.move_to_element(next_button).perform()
                 next_button.click() 
             except Exception as e:
