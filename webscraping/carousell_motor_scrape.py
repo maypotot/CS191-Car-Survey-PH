@@ -6,8 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from bs4 import BeautifulSoup
 import json
+import gc
 
-showmorelistings_selector = ".D_lj.D_lE.D_lw.D_lr.D_lI.D_Ke"
+showmorelistings_selector = ".D_kS.D_lo.D_lg.D_la.D_ls.D_KL"
 thumbnailclass = "D_p_"
 
 service = Service(executable_path="webscraping/chromedriver.exe")
@@ -20,111 +21,83 @@ WebDriverWait(driver, 10).until(
     EC.element_to_be_clickable((By.CSS_SELECTOR, "[role='submitButton'][type='submit']"))
 ).click()
 
-time.sleep(3)  # Wait for initial listings to load
+time.sleep(3)
 
 # Scroll amount
 scrollamt = 4420
 
 def load_all_listings():
-    global scrollamt  # Ensure scrollamt is used from the global scope
-
+    global scrollamt  
     while True:
         try:
-            # Scroll down
             driver.execute_script(f"window.scrollTo(0, {scrollamt});")
-            time.sleep(2)  # Wait for content to load
+            time.sleep(2)  
 
-            # Wait for the "Show More" button to be clickable
             show_more_listings = WebDriverWait(driver, 5).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, showmorelistings_selector))
             )
-
             show_more_listings.click()
-            time.sleep(3)  # Wait for new listings to load
+            time.sleep(3)  
 
-            # Increase scroll position
             scrollamt += 4420
         except:
             print("No more 'Load More' button found.")
             break
 
-# Run function
 load_all_listings()
 
 driver.execute_script("window.scrollTo(0, 0);")
-time.sleep(10)
-
-#def load_all_listings():
-#    while True:
-#        try:
-#            driver.execute_script("window.scrollTo(0, 500)")
-#            time.sleep(10)
-#        except:
-#            print("No more 'Load More' button found.")
-#            break
-
-
-#WebDriverWait(driver, 5).until(
-#    EC.presence_of_element_located((By.CLASS_NAME, showmorelistingsclass))
-#)
-#
-#show_more_listings = driver.find_element(By.CLASS_NAME, showmorelistingsclass)
-#show_more_listings.click()
+time.sleep(5)
 
 WebDriverWait(driver, 5).until(
     EC.presence_of_element_located((By.CLASS_NAME, thumbnailclass))
 )
 
-num_listings = len(driver.find_elements(By.CLASS_NAME, thumbnailclass))
-scraped_data = []  # Store scraped motorcycle data
+scraped_data = []
 
-for i in range(num_listings):
-    # Re-fetch the listing elements to avoid stale element reference
-    listing_cards = driver.find_elements(By.CLASS_NAME, thumbnailclass)
-    
-    if i >= len(listing_cards):  # If the number of listings changed
-        break
+listing_cards = driver.find_elements(By.CLASS_NAME, "D_iU")
+listing_urls = [listing.get_attribute("href") for listing in listing_cards if listing.get_attribute("href")]
+
+for i, url in enumerate(listing_urls):
     try:
-        listing_cards[i].click()
-        time.sleep(5)  # Wait for the listing page to load
-
-        html = driver.page_source
-        soup = BeautifulSoup(html, 'html.parser')
-
-        spec_containers = soup.find_all('div', class_='D_aLP')
-        spec_container = spec_containers[1] if len(spec_containers) > 1 else None
-        price = soup.find('p', class_='D_kf D_kg D_kk D_kn D_kq D_ks D_bfl D_kz').text.strip()
-        motorcycle_specs = {}  # Dictionary to store specs
-
-        if spec_container:
-            for spec in spec_container.find_all("div", recursive=False):
-                spec_type = spec.find('p').text.strip() if spec.find('p') else "Unknown Spec"
-                spec_value = spec.find('span').text.strip() if spec.find('span') else "Unknown Value"
-                
-                motorcycle_specs[spec_type] = spec_value
-                motorcycle_specs["Price"] = price
+        if (i <= 10):
+            continue
+        elif (i%2 == 1):
+            continue
         else:
-            print("spec container not found")
+            driver.get(url)  # Open listing directly
+            time.sleep(2)  
 
-        # Store data
-        scraped_data.append(motorcycle_specs)
-        print(f"Scraped Listing {i+1}: {motorcycle_specs}")
+            html = driver.page_source
+            soup = BeautifulSoup(html, 'html.parser')
 
-        driver.back()
-        time.sleep(3)  # Wait for the listings page to reload
+            spec_containers = soup.find_all('div', class_='D_aLh')
+            spec_container = spec_containers[1] if len(spec_containers) > 1 else None
+            price_element = soup.find('p', class_='D_iW D_iX D_jb D_jf D_ji D_jk D_beF D_jr')
+            price = price_element.text.strip() if price_element else "Unknown Price"
+
+            motorcycle_specs = {}
+
+            if spec_container:
+                for spec in spec_container.find_all("div", recursive=False):
+                    spec_type = spec.find('p').text.strip() if spec.find('p') else "Unknown Spec"
+                    spec_value = spec.find('span').text.strip() if spec.find('span') else "Unknown Value"
+                    motorcycle_specs[spec_type] = spec_value
+
+            motorcycle_specs["Price"] = price
+            scraped_data.append(motorcycle_specs)
+            print(f"Scraped Listing {i+1}: {motorcycle_specs}")
+
+            gc.collect()
+            driver.delete_all_cookies()  # Free memory
     except Exception as e:
         print(f"Error navigating listing {i+1}: {e}")
 
-
-json_data = json.dumps(scraped_data, indent=4)
-    
-with open("carousell_data.json", "w") as file:
-    try:
-        file.write(json_data)
-    except Exception as e:
-        print(e)
-file.close()
-
-time.sleep(10)
 driver.quit()
 
+json_data = json.dumps(scraped_data, indent=4)
+
+with open("carousell_data.json", "w") as file:
+    file.write(json_data)
+
+print("✅ Scraping Completed Successfully!")
