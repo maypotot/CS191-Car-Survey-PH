@@ -73,8 +73,10 @@ for i, url in enumerate(listing_urls):
 
             spec_containers = soup.find_all('div', class_='D_aLh')
             spec_container = spec_containers[1] if len(spec_containers) > 1 else None
-            price_element = soup.find('p', class_='D_iW D_iX D_jb D_jf D_ji D_jk D_beF D_jr')
+            
+            price_element = soup.find('p', {'data-testid': 'new-listing-details-page-desktop-text-price'})
             price = price_element.text.strip() if price_element else "Unknown Price"
+
 
             motorcycle_specs = {}
 
