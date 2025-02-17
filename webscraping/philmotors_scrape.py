@@ -138,7 +138,7 @@ def navigate():
         
         
         driver.get("https://www.philmotors.com/Truck/sale-" + str(i))
-        print("Next page")
+        print("Page" + str(i))
 
 
 navigate()

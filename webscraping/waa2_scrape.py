@@ -1,6 +1,4 @@
 import time
-from typing import final
-from flask import g
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -80,7 +78,7 @@ def get_data(url: str):
     final_data.append(parsed_data)    
     json_data = json.dumps(final_data, indent=4)
     
-    with open("philmotors_data.json", "w") as file:
+    with open("waa2_data.json", "w") as file:
         try:
             file.write(json_data)
         except Exception as e:
@@ -120,23 +118,29 @@ def navigate():
     assert len(driver.window_handles) == 1
     
     for i in range(2, 20):
-        WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "picture")))
-        images = driver.find_elements(By.CLASS_NAME, "picture")
-        for image in images:
-            try:
-                WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "picture")))
-                actions.move_to_element(image).perform()
-                image.click()
-                wait.until(EC.number_of_windows_to_be(2))
-                driver.switch_to.window(driver.window_handles[1])
-                curr_url = str(driver.current_url)
-                get_data(curr_url)
-                driver.switch_to.window(driver.window_handles[0])
-            except Exception as e:
-                driver.switch_to.window(driver.window_handles[0])
-                print(e)
-        driver.switch_to.window(driver.window_handles[0])
-        driver.get("https://cars.waa2.ph/search?q=truck&list_type=row&page=" + str(i))
+        try:
+            WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "picture")))
+            images = driver.find_elements(By.CLASS_NAME, "picture")
+            for image in images:
+                try:
+                    WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "picture")))
+                    actions.move_to_element(image).perform()
+                    image.click()
+                    wait.until(EC.number_of_windows_to_be(2))
+                    driver.switch_to.window(driver.window_handles[1])
+                    curr_url = str(driver.current_url)
+                    get_data(curr_url)
+                    driver.switch_to.window(driver.window_handles[0])
+                except Exception as e:
+                    driver.switch_to.window(driver.window_handles[0])
+                    print(e)
+            driver.switch_to.window(driver.window_handles[0])
+            driver.get("https://cars.waa2.ph/search?q=truck&list_type=row&page=" + str(i))
+        except Exception as e:
+            driver.switch_to.window(driver.window_handles[0])
+            driver.get("https://cars.waa2.ph/search?q=truck&list_type=row&page=" + str(i))
+            i -= 1
+            print(e)
         print("I am on page " + str(i))
 
 
