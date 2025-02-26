@@ -20,7 +20,7 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
     data_rows = cur.fetchall()
     for row in data_rows:
         model, maker, model_year, price = row
-        if model == input_model and maker == input_maker:
+        if model.lower() == input_model.lower() and maker.lower() == input_maker.lower():
             break
         if row == data_rows[-1] and len(data_rows) > 0:
             return "No data found for this vehicle."
