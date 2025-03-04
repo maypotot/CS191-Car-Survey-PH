@@ -6,25 +6,40 @@
     const model = document.getElementById("model").value.replace(" ", "+");
     const year = document.getElementById("year").value;
 
-    
-    apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + 
-            "&model=" + model + "&year=" + year + "&vehicle=" + vehicleInput;
-    console.log(apiUrl);
+    const apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year + "&vehicle=" + vehicleInput;
 
-    fetch(apiUrl)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
+    console.log("Requesting:", apiUrl);
+
+    // Call the async function to handle the fetch request
+    fetchData(apiUrl);
+  }
+
+  async function fetchData(apiUrl) {
+    try {
+      const response = await fetch(apiUrl, {
+        method: "GET",
+        headers: {
+          "Authorization": "Token 64742cf68ca506dd42b1e45a92b4eed59f1505da", 
+          "Content-Type": "application/json"
         }
-        return response.json();
-      })
-      .then(userData => {
-        // Process the retrieved user data
-        console.log('User Data:', userData);
-      })
-      .catch(error => {
-        console.error('Error:', error);
       });
+
+      if (!response.ok) {
+        throw new Error("Network response was not ok. Status: " + response.status);
+      }
+
+      const userData = await response.json();
+      console.log("User Data:", userData);
+
+      // Display the response in an alert
+      alert("Value Price: " + userData.value_price +
+        "\nHighest Value: " + userData.highest_value +
+        "\nLowest Value: " + userData.lowest_value);
+
+    } catch (error) {
+      console.error("Error:", error);
+      alert("Failed to fetch data. Check console for details.");
+    }
   }
 
 </script>

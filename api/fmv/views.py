@@ -3,6 +3,20 @@ from django.shortcuts import render
 from django.http import JsonResponse, HttpResponse
 from .models import Vehicle
 from .fmv import predict_fmv
+from rest_framework.decorators import api_view, authentication_classes, permission_classes
+from rest_framework.response import Response
+from rest_framework.authentication import TokenAuthentication
+from rest_framework.permissions import IsAuthenticated
+
+@api_view(['GET'])
+@authentication_classes([TokenAuthentication])  # Require token authentication
+@permission_classes([IsAuthenticated])  # Require login
+def secure_data(request):
+    return Response({"message": "This is a protected API!"})
+
+@api_view(['GET'])
+@authentication_classes([TokenAuthentication])  # Require token authentication
+@permission_classes([IsAuthenticated])  # Require login
 
 def home(request):
     maker = request.GET.get('maker', 'Unknown Maker')
