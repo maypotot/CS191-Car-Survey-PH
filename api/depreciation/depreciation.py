@@ -5,7 +5,8 @@ import numpy as np
 import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str, input_year: int, vehicle_type: str = "motors"):
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -41,19 +42,19 @@ def predict_depreciation(input_maker: str, input_model: str, input_year: int, ve
     predicted_values = model.predict(X_log)
     predicted_year = model.predict(np.log1p([[input_year-model_year]]))
 
-    # plt.figure(figsize=(8, 5))
-    # plt.plot(years_repeated, predicted_values, color='r', linewidth=2, label="Logarithmic Regression")
-    # plt.xlabel("Years")
-    # plt.ylabel("Value (PHP)")
-    # plt.title("Truck Depreciation with Logarithmic Regression")
-    # plt.grid(True, linestyle="--", alpha=0.7)
-    # plt.legend()
-    # plt.show()
+    plt.figure(figsize=(8, 5))
+    plt.plot(years_repeated, predicted_values, color='r', linewidth=2, label="Logarithmic Regression")
+    plt.xlabel("Years")
+    plt.ylabel("Value (PHP)")
+    plt.title("Truck Depreciation with Logarithmic Regression")
+    plt.grid(True, linestyle="--", alpha=0.7)
+    plt.legend()
+    plt.show()
 
     return predicted_year[0], sorted(list(set(predicted_values.tolist())), reverse=True)
 
-# input_maker = "Honda"
-# input_model = "Click 160"
-# input_year = 2024
+input_maker = "Honda"
+input_model = "Click 160"
+input_year = 2024
 
-# print(predict_depreciation(input_maker, input_model, input_year))
+print(predict_depreciation(input_maker, input_model, input_year))
