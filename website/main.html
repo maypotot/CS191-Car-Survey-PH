@@ -11,10 +11,10 @@
     console.log("Requesting:", apiUrl);
 
     // Call the async function to handle the fetch request
-    fetchData(apiUrl);
+    fetchData(apiUrl, urlInput);
   }
 
-  async function fetchData(apiUrl) {
+  async function fetchData(apiUrl, requestType) {
     try {
       const response = await fetch(apiUrl, {
         method: "GET",
