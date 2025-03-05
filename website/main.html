@@ -19,7 +19,7 @@
       const response = await fetch(apiUrl, {
         method: "GET",
         headers: {
-          "Authorization": "Token d6d5477e279d8e1d4113cceec1405eb76bc60a40", 
+          "Authorization": "Token 9a3e3587ff901fc2663c21d8bcf3c7d0153110cb", 
           "Content-Type": "application/json"
         }
       });
@@ -31,10 +31,18 @@
       const userData = await response.json();
       console.log("User Data:", userData);
 
-      // Display the response in an alert
-      alert("Value Price: " + userData.value_price +
-        "\nHighest Value: " + userData.highest_value +
-        "\nLowest Value: " + userData.lowest_value);
+      // Check if FMV or Depreciation is selected
+      let message = "";
+      if (requestType === "fmv") {
+        message = `Value Price: ${userData.value_price}\n` +
+          `Highest Value: ${userData.highest_value}\n` +
+          `Lowest Value: ${userData.lowest_value}`;
+      } else if (requestType === "depreciation") {
+        message = `Depreciation Value: ${userData.depreciation_value}\n` +
+          `Values: ${userData.values.join(", ")}`;
+      }
+
+      alert(message);
 
     } catch (error) {
       console.error("Error:", error);
