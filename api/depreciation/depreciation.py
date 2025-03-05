@@ -51,7 +51,7 @@ def predict_depreciation(input_maker: str, input_model: str, input_year: int, ve
     plt.legend()
     plt.show()
 
-    return predicted_year[0].sorted(2), [i.round(2) for i in sorted(list(set(predicted_values.tolist())), reverse=True)]
+    return round(predicted_year[0], 2), [round(i, 2) for i in sorted(list(set(predicted_values.tolist())), reverse=True)]
 
 input_maker = "Honda"
 input_model = "Click 160"
