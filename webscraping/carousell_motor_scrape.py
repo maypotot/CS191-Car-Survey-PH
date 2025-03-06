@@ -8,9 +8,9 @@ from bs4 import BeautifulSoup
 import json
 import gc
 
-showmorelistings_selector = ".D_kS.D_lo.D_lg.D_la.D_ls.D_KL"
-thumbnailclass = "D_p_"
-
+showmorelistings_selector = ".D_ko.D_kJ.D_kA.D_kw.D_kN.D_Lm"
+thumbnailclass = "D_o_"
+linkclass = "D_in "
 service = Service(executable_path="webscraping/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
@@ -55,7 +55,7 @@ WebDriverWait(driver, 5).until(
 
 scraped_data = []
 
-listing_cards = driver.find_elements(By.CLASS_NAME, "D_iU")
+listing_cards = driver.find_elements(By.CLASS_NAME, linkclass)
 listing_urls = [listing.get_attribute("href") for listing in listing_cards if listing.get_attribute("href")]
 
 for i, url in enumerate(listing_urls):
@@ -71,7 +71,7 @@ for i, url in enumerate(listing_urls):
             html = driver.page_source
             soup = BeautifulSoup(html, 'html.parser')
 
-            spec_containers = soup.find_all('div', class_='D_aLh')
+            spec_containers = soup.find_all('div', class_='D_aLp')
             spec_container = spec_containers[1] if len(spec_containers) > 1 else None
             
             price_element = soup.find('p', {'data-testid': 'new-listing-details-page-desktop-text-price'})
