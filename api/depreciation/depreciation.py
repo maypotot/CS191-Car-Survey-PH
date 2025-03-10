@@ -6,7 +6,6 @@ import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str, input_year: int, vehicle_type: str = "motors"):
     conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
-    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -51,10 +50,10 @@ def predict_depreciation(input_maker: str, input_model: str, input_year: int, ve
     plt.legend()
     plt.show()
 
-    return round(predicted_year[0], 2), [round(i, 2) for i in sorted(list(set(predicted_values.tolist())), reverse=True)]
+    return predicted_year[0], sorted(list(set(predicted_values.tolist())), reverse=True)
 
-input_maker = "Honda"
-input_model = "Click 160"
-input_year = 2024
+# input_maker = "Honda"
+# input_model = "Click 160"
+# input_year = 2024
 
 print(predict_depreciation(input_maker, input_model, input_year))

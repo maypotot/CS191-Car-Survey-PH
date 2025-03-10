@@ -8,7 +8,6 @@ import psycopg2
 
 def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_type: str = "motors"):
     # Getting data from database
-    # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
     cur = conn.cursor()
 
@@ -32,6 +31,7 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
     years = np.arange(model_year, 2025)
     fmv_data = {}
 
+    # random temp data
     for year in years:
         base_price = price * np.exp(0.12 * (year - model_year))  
         fmv_data[year] = np.round(np.absolute(np.random.normal(loc=base_price, scale=30000, size=100)), 2)
@@ -56,23 +56,23 @@ def predict_fmv(input_maker: str, input_model: str, input_year: int, vehicle_typ
     for i, year in enumerate(years):
         plt.scatter(np.full_like(fmv_data[year], year), fmv_data[year], alpha=0.3, s=8)
 
-    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    # plt.xlabel("Year")
-    # plt.ylabel("FMV")
-    # plt.title("Interpolated Fair Market Value of Trucks (Polynomial Regression)")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
+    plt.xlabel("Year")
+    plt.ylabel("FMV")
+    plt.title("Interpolated Fair Market Value of Trucks (Polynomial Regression)")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
 
     # plt.show()
-    return predicted_year[0].round(2), np.asarray([i.round(2) for i in fmv_interp])
+    return predicted_year[0], fmv_interp
 
-input_maker = "Kawasaki"
-input_model = "Ninja ZX-25R"
-input_year = 2023
+# input_maker = "Honda"
+# input_model = "Click 160"
+# input_year = 2024
 
-predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model, input_year)
-print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model, input_year)
+# print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 
 
 
