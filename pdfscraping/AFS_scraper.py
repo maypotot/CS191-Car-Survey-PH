@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-csv_file = "AFS.csv"  # Change this to your file name
+csv_file = "pdfscraping/AFS.csv"
 df = pd.read_csv(csv_file)
 
 # Convert to JSON

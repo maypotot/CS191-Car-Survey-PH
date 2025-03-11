@@ -1,0 +1,7135 @@
+[
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":11459.0,
+        "Price":"117,703"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 KICK",
+        "Mileage":10082.0,
+        "Price":"46,294"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11229.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":3185.0,
+        "Price":"46,301"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CRF 150L",
+        "Mileage":4878.0,
+        "Price":"116,006"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":10630.0,
+        "Price":"69,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":13141.0,
+        "Price":"96,566"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":9969.0,
+        "Price":"73,238"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":6089.0,
+        "Price":"73,238"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":8486.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"40,544"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":2371.0,
+        "Price":"86,189"
+    },
+    {
+        "Year":2024,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":4115.0,
+        "Price":"74,872"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":null,
+        "Price":"82,952"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":3325.0,
+        "Price":"93,208"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":4637.0,
+        "Price":"54,017"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":4000.0,
+        "Price":"67,400"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser NS160",
+        "Mileage":32.0,
+        "Price":"78,682"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"WAVE RSX (DRUM)",
+        "Mileage":7253.0,
+        "Price":"52,243"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":3001.0,
+        "Price":"134,783"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":4653.0,
+        "Price":"67,406"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":7653.0,
+        "Price":"70,284"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":27000.0,
+        "Price":"60,246"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":8932.0,
+        "Price":"60,333"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":5267.0,
+        "Price":"59,313"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":8277.0,
+        "Price":"33,971"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":9425.0,
+        "Price":"55,881"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S (BJN3)",
+        "Mileage":14217.0,
+        "Price":"40,939"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":38133.0,
+        "Price":"34,194"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9466.0,
+        "Price":"44,615"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":3503.0,
+        "Price":"23,425"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":10588.0,
+        "Price":"45,233"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":14963.0,
+        "Price":"18,940"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser NS160",
+        "Mileage":17251.0,
+        "Price":"17,912"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DRUM\/SPOKES",
+        "Mileage":6933.0,
+        "Price":"29,894"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":" SMASH FI (SPOKES\/DRUM)",
+        "Mileage":6372.0,
+        "Price":"30,669"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":19210.0,
+        "Price":"86,639"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":19062.0,
+        "Price":"53,797"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SZ",
+        "Mileage":null,
+        "Price":"22,008"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD)",
+        "Mileage":3446.0,
+        "Price":"25,738"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R3",
+        "Mileage":37972.0,
+        "Price":"163,885"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"AIR BLADE160",
+        "Mileage":3584.0,
+        "Price":"44,337"
+    },
+    {
+        "Year":2020,
+        "Brand":"HONDA",
+        "Model":"Air Blade150",
+        "Mileage":23286.0,
+        "Price":"34,191"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"Air Blade150",
+        "Mileage":16491.0,
+        "Price":"44,304"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":6031.0,
+        "Price":"74,872"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":12222.0,
+        "Price":"51,578"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":35778.0,
+        "Price":"69,824"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION) ",
+        "Mileage":1775.0,
+        "Price":"61,776"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION) ",
+        "Mileage":17248.0,
+        "Price":"58,991"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17075.0,
+        "Price":"59,676"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":20936.0,
+        "Price":"59,676"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14642.0,
+        "Price":"66,307"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4539.0,
+        "Price":"60,726"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":35113.0,
+        "Price":"59,676"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT100 w\/ MCP",
+        "Mileage":null,
+        "Price":"27,215"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT100B w\/ MCP",
+        "Mileage":23558.0,
+        "Price":"38,117"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":null,
+        "Price":"41,573"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":null,
+        "Price":"37,416"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":37154.0,
+        "Price":"65,603"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"LIKE 125 ITALIA E3",
+        "Mileage":6465.0,
+        "Price":"42,246"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":17977.0,
+        "Price":"104,537"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":14341.0,
+        "Price":"40,853"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":16961.0,
+        "Price":"58,627"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":19547.0,
+        "Price":"60,726"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":7939.0,
+        "Price":"47,953"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":4334.0,
+        "Price":"53,028"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":3898.0,
+        "Price":"39,407"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":14390.0,
+        "Price":"44,408"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":19164.0,
+        "Price":"100,989"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":14448.0,
+        "Price":"45,745"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS) ",
+        "Mileage":27059.0,
+        "Price":"87,670"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":14919.0,
+        "Price":"92,569"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":8084.0,
+        "Price":"39,275"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":14603.0,
+        "Price":"89,770"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":320.0,
+        "Price":"34,857"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX SUPREMO (TMXS2J)",
+        "Mileage":1650.0,
+        "Price":"58,277"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":9600.0,
+        "Price":"43,580"
+    },
+    {
+        "Year":2023,
+        "Brand":"CFMOTO",
+        "Model":"400NK",
+        "Mileage":7626.0,
+        "Price":"140,686"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":7001.0,
+        "Price":"67,385"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR)",
+        "Mileage":3627.0,
+        "Price":"56,520"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":" BEAT (ACH110CBFR3)",
+        "Mileage":1254.0,
+        "Price":"57,298"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":11354.0,
+        "Price":"32,817"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":570.0,
+        "Price":"32,817"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX SUPREMO (TMXS2J)",
+        "Mileage":1805.0,
+        "Price":"31,334"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":547.0,
+        "Price":"46,022"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"30,358"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"CT100 w\/ MCP",
+        "Mileage":null,
+        "Price":"41,630"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":null,
+        "Price":"38,660"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":16734.0,
+        "Price":"101,224"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"33,755"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DRUM\/SPOKES",
+        "Mileage":1085.0,
+        "Price":"45,438"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R MONSTER",
+        "Mileage":59009.0,
+        "Price":"77,664"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"12,916"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":2862.0,
+        "Price":"54,223"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":29249.0,
+        "Price":"45,795"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":7946.0,
+        "Price":"23,855"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":51402.0,
+        "Price":"44,383"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":38602.0,
+        "Price":"45,005"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":26000.0,
+        "Price":"54,844"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":28929.0,
+        "Price":"72,850"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":9520.0,
+        "Price":"73,006"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":19223.0,
+        "Price":"41,250"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":22828.0,
+        "Price":"46,301"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":20364.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":13401.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":36914.0,
+        "Price":"54,844"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":5302.0,
+        "Price":"51,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":9729.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14480.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":27858.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":6090.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":32434.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2020,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i-STD (CBS",
+        "Mileage":35629.0,
+        "Price":"37,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":12643.0,
+        "Price":"46,645"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"DAZZ 110 PRIME",
+        "Mileage":10201.0,
+        "Price":"47,648"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"Dominar400 UG",
+        "Mileage":21000.0,
+        "Price":"139,170"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":19000.0,
+        "Price":"91,102"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":7730.0,
+        "Price":"102,377"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":3185.0,
+        "Price":"73,238"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":5504.0,
+        "Price":"50,293"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"49,049"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":3452.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"53,462"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":7777.0,
+        "Price":"42,998"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":null,
+        "Price":"53,403"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":9071.0,
+        "Price":"53,403"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":15692.0,
+        "Price":"59,966"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":4121.0,
+        "Price":"66,629"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":7852.0,
+        "Price":"44,615"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":3605.0,
+        "Price":"55,417"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":15986.0,
+        "Price":"25,488"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":18519.0,
+        "Price":"35,075"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":12432.0,
+        "Price":"39,752"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":1606.0,
+        "Price":"58,916"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":15403.0,
+        "Price":"84,810"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":30951.0,
+        "Price":"86,709"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":3063.0,
+        "Price":"96,645"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":20774.0,
+        "Price":"86,709"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":45706.0,
+        "Price":"63,138"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":25516.0,
+        "Price":"103,298"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS (w\/ Y-Connect)",
+        "Mileage":2390.0,
+        "Price":"108,605"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":18863.0,
+        "Price":"91,661"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":15262.0,
+        "Price":"94,608"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS) ",
+        "Mileage":19753.0,
+        "Price":"103,565"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":12000.0,
+        "Price":"92,169"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":5515.0,
+        "Price":"64,763"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":5397.0,
+        "Price":"75,712"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":21444.0,
+        "Price":"72,377"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":674.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":null,
+        "Price":"30,053"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Supra GTR 150",
+        "Mileage":755.0,
+        "Price":"60,908"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":4164.0,
+        "Price":"40,720"
+    },
+    {
+        "Year":2019,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"12,771"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":10417.0,
+        "Price":"18,616"
+    },
+    {
+        "Year":2023,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI",
+        "Mileage":null,
+        "Price":"112,148"
+    },
+    {
+        "Year":2018,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":19198.0,
+        "Price":"13,331"
+    },
+    {
+        "Year":2022,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI ",
+        "Mileage":null,
+        "Price":"64,335"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":5090.0,
+        "Price":"47,811"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":3462.0,
+        "Price":"87,960"
+    },
+    {
+        "Year":2023,
+        "Brand":"BAJAJ",
+        "Model":"MAXIMA Z-A",
+        "Mileage":32668.0,
+        "Price":"116,523"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":5825.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":6477.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":15222.0,
+        "Price":"49,360"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":4153.0,
+        "Price":"61,574"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9489.0,
+        "Price":"55,417"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":19749.0,
+        "Price":"84,810"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"TFX 150 (BY62)",
+        "Mileage":22533.0,
+        "Price":"67,965"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":15384.0,
+        "Price":"52,159"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":12764.0,
+        "Price":"52,761"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BeAT Playful ",
+        "Mileage":960.0,
+        "Price":"51,218"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":4815.0,
+        "Price":"66,240"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17276.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":5836.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":5581.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":9861.0,
+        "Price":"52,159"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11869.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":10162.0,
+        "Price":"46,645"
+    },
+    {
+        "Year":2024,
+        "Brand":"KYMCO",
+        "Model":"LIKE 125 ITALIA E3",
+        "Mileage":8084.0,
+        "Price":"52,968"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX (B1W3\/B1W6)",
+        "Mileage":37631.0,
+        "Price":"39,618"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9984.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":12860.0,
+        "Price":"55,417"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":13248.0,
+        "Price":"59,337"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":11278.0,
+        "Price":"66,240"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":5824.0,
+        "Price":"54,153"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":8857.0,
+        "Price":"53,667"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MT-15",
+        "Mileage":3915.0,
+        "Price":"94,920"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":14589.0,
+        "Price":"86,709"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":11187.0,
+        "Price":"76,840"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":4364.0,
+        "Price":"86,751"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS (w\/ Y-Connect)",
+        "Mileage":4818.0,
+        "Price":"77,785"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":15447.0,
+        "Price":"96,327"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":2693.0,
+        "Price":"94,538"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser RS200 ABS",
+        "Mileage":6356.0,
+        "Price":"105,526"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DISC\/MAGS",
+        "Mileage":2562.0,
+        "Price":"29,941"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":3728.0,
+        "Price":"70,459"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":2306.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":4744.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2023,
+        "Brand":"FEKON",
+        "Model":"3GP 300",
+        "Mileage":10670.0,
+        "Price":"123,861"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":2292.0,
+        "Price":"130,781"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":14771.0,
+        "Price":"74,016"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BeAT Premium",
+        "Mileage":2697.0,
+        "Price":"52,268"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION) ",
+        "Mileage":4346.0,
+        "Price":"59,616"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":5631.0,
+        "Price":"58,991"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":7668.0,
+        "Price":"57,886"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":3853.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":2912.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":26459.0,
+        "Price":"51,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":10630.0,
+        "Price":"57,263"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14247.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15000.0,
+        "Price":"19,545"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11544.0,
+        "Price":"64,607"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":41373.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":69481.0,
+        "Price":"54,498"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":13376.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"Dominar400 UG",
+        "Mileage":24472.0,
+        "Price":"135,784"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":1248.0,
+        "Price":"66,629"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":13847.0,
+        "Price":"50,556"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":null,
+        "Price":"52,470"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":14352.0,
+        "Price":"53,116"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":21000.0,
+        "Price":"88,562"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":21476.0,
+        "Price":"78,038"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"NMAX",
+        "Mileage":18459.0,
+        "Price":"94,234"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":15245.0,
+        "Price":"105,876"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":13000.0,
+        "Price":"95,394"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":25188.0,
+        "Price":"105,993"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":25712.0,
+        "Price":"80,464"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":16410.0,
+        "Price":"66,156"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH FI (SPOKES\/DRUM)",
+        "Mileage":741.0,
+        "Price":"48,969"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":11609.0,
+        "Price":"97,344"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":3549.0,
+        "Price":"90,059"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":22443.0,
+        "Price":"84,220"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":9000.0,
+        "Price":"91,823"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":18418.0,
+        "Price":"102,010"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Smash 115 Spoke (FW110D)",
+        "Mileage":21302.0,
+        "Price":"41,711"
+    },
+    {
+        "Year":2023,
+        "Brand":"CFMOTO",
+        "Model":"300NK",
+        "Mileage":3855.0,
+        "Price":"129,600"
+    },
+    {
+        "Year":2023,
+        "Brand":"CFMOTO",
+        "Model":"300SR",
+        "Mileage":4602.0,
+        "Price":"84,973"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":10537.0,
+        "Price":"64,063"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":7014.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2024,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI",
+        "Mileage":10814.0,
+        "Price":"155,655"
+    },
+    {
+        "Year":2022,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI",
+        "Mileage":24135.0,
+        "Price":"67,383"
+    },
+    {
+        "Year":2023,
+        "Brand":"KTM",
+        "Model":"DUKE 200",
+        "Mileage":4069.0,
+        "Price":"139,413"
+    },
+    {
+        "Year":2024,
+        "Brand":"BAJAJ",
+        "Model":"MAXIMA Z-A",
+        "Mileage":2256.0,
+        "Price":"168,783"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":19646.0,
+        "Price":"98,390"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MT-15",
+        "Mileage":18823.0,
+        "Price":"139,413"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":24939.0,
+        "Price":"93,966"
+    },
+    {
+        "Year":2022,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":26449.0,
+        "Price":"36,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":9919.0,
+        "Price":"65,094"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":7781.0,
+        "Price":"83,874"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":6753.0,
+        "Price":"97,733"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":21640.0,
+        "Price":"84,220"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":6119.0,
+        "Price":"114,451"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"XRM 125 MOTARD Fi",
+        "Mileage":5076.0,
+        "Price":"63,286"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R15M (ICON PERFORMANCE)",
+        "Mileage":23247.0,
+        "Price":"96,213"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"Air Blade150",
+        "Mileage":52096.0,
+        "Price":"80,488"
+    },
+    {
+        "Year":2023,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI ",
+        "Mileage":19974.0,
+        "Price":"123,380"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":2639.0,
+        "Price":"43,380"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser RS200 ABS",
+        "Mileage":78075.0,
+        "Price":"89,235"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3)",
+        "Mileage":1939.0,
+        "Price":"60,098"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":24337.0,
+        "Price":"34,171"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":16399.0,
+        "Price":"77,727"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":17063.0,
+        "Price":"61,085"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":70269.0,
+        "Price":"41,771"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":8928.0,
+        "Price":"52,051"
+    },
+    {
+        "Year":2019,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE Fi",
+        "Mileage":22508.0,
+        "Price":"79,624"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8913.0,
+        "Price":"70,984"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT 150 (Boxer) ",
+        "Mileage":null,
+        "Price":"35,557"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":1768.0,
+        "Price":"44,016"
+    },
+    {
+        "Year":2022,
+        "Brand":"BAJAJ",
+        "Model":"MAXIMA CARGO",
+        "Mileage":2962.0,
+        "Price":"75,453"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":27527.0,
+        "Price":"40,933"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":20404.0,
+        "Price":"22,724"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":10016.0,
+        "Price":"84,898"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"XRM 125 DUAL SPORT EXTREME (CFT125MRJ)",
+        "Mileage":3889.0,
+        "Price":"37,557"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"XRM 125 DUAL SPORT Fi",
+        "Mileage":11684.0,
+        "Price":"52,268"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R15M (Anniversary White)",
+        "Mileage":44920.0,
+        "Price":"121,272"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO III DUAL START",
+        "Mileage":2038.0,
+        "Price":"79,149"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":11166.0,
+        "Price":"57,171"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":16738.0,
+        "Price":"58,991"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":" CLICK 125 (SPECIAL EDITION)",
+        "Mileage":8692.0,
+        "Price":"59,616"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":4312.0,
+        "Price":"57,866"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":4516.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":10222.0,
+        "Price":"58,452"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4787.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":19400.0,
+        "Price":"64,947"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":13155.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":10996.0,
+        "Price":"41,633"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4754.0,
+        "Price":"46,301"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":22911.0,
+        "Price":"64,947"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17336.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4575.0,
+        "Price":"64,947"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15388.0,
+        "Price":"58,452"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":28241.0,
+        "Price":"66,114"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":6235.0,
+        "Price":"59,502"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":7283.0,
+        "Price":"58,452"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":16453.0,
+        "Price":"64,947"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12058.0,
+        "Price":"58,452"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":19506.0,
+        "Price":"58,452"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":17758.0,
+        "Price":"77,353"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":18751.0,
+        "Price":"87,846"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":2831.0,
+        "Price":"45,499"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":15341.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":12175.0,
+        "Price":"62,614"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":19015.0,
+        "Price":"47,424"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":10769.0,
+        "Price":"41,750"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":null,
+        "Price":"97,422"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":14012.0,
+        "Price":"120,157"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":9203.0,
+        "Price":"120,157"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":2442.0,
+        "Price":"99,743"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":9544.0,
+        "Price":"70,113"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":25956.0,
+        "Price":"69,650"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":7447.0,
+        "Price":"118,602"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":30102.0,
+        "Price":"75,599"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":19857.0,
+        "Price":"84,696"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":2166.0,
+        "Price":"69,095"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":6954.0,
+        "Price":"93,067"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":8025.0,
+        "Price":"42,318"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":12266.0,
+        "Price":"77,975"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":20559.0,
+        "Price":"103,050"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":null,
+        "Price":"28,248"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":10973.0,
+        "Price":"46,285"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":17453.0,
+        "Price":"51,598"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8724.0,
+        "Price":"58,596"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11488.0,
+        "Price":"48,001"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":28953.0,
+        "Price":"58,596"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8179.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":9935.0,
+        "Price":"66,995"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9101.0,
+        "Price":"45,458"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":5725.0,
+        "Price":"51,948"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":2663.0,
+        "Price":"94,234"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":24239.0,
+        "Price":"29,265"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":13527.0,
+        "Price":"32,486"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":6223.0,
+        "Price":"28,426"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":20120.0,
+        "Price":"40,501"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":20379.0,
+        "Price":"55,881"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17306.0,
+        "Price":"65,851"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":21884.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"LIKE 125 ITALIA E3",
+        "Mileage":6021.0,
+        "Price":"33,051"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"36,474"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":17651.0,
+        "Price":"39,503"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GRAVIS (W\/ Y-CONNECT)",
+        "Mileage":3120.0,
+        "Price":"75,182"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":9852.0,
+        "Price":"37,720"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":10662.0,
+        "Price":"83,874"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":12549.0,
+        "Price":"47,493"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SZ",
+        "Mileage":13612.0,
+        "Price":"37,505"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":24875.0,
+        "Price":"28,768"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":23640.0,
+        "Price":"59,616"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":14433.0,
+        "Price":"20,963"
+    },
+    {
+        "Year":2023,
+        "Brand":"BAJAJ",
+        "Model":"Bajaj RE 4s FI ",
+        "Mileage":5343.0,
+        "Price":"154,100"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":6032.0,
+        "Price":"58,300"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":7748.0,
+        "Price":"41,753"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":null,
+        "Price":"28,666"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":5230.0,
+        "Price":"70,917"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":8311.0,
+        "Price":"45,635"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":6471.0,
+        "Price":"44,511"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":7280.0,
+        "Price":"39,876"
+    },
+    {
+        "Year":2022,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":3472.0,
+        "Price":"58,534"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":8463.0,
+        "Price":"36,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":27008.0,
+        "Price":"77,097"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":13412.0,
+        "Price":"27,089"
+    },
+    {
+        "Year":2020,
+        "Brand":"KYMCO",
+        "Model":"SUPER 8 150 EURO 3",
+        "Mileage":null,
+        "Price":"20,235"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"TMX SUPREMO (TMXS2J)",
+        "Mileage":null,
+        "Price":"19,632"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"KLX 150",
+        "Mileage":1454.0,
+        "Price":"76,639"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":7807.0,
+        "Price":"68,744"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"55,097"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":17743.0,
+        "Price":"40,710"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":7948.0,
+        "Price":"57,547"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":10079.0,
+        "Price":"78,892"
+    },
+    {
+        "Year":2024,
+        "Brand":"CFMOTO",
+        "Model":"450SR",
+        "Mileage":373.0,
+        "Price":"234,202"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3)",
+        "Mileage":6808.0,
+        "Price":"37,006"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":16858.0,
+        "Price":"50,006"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17664.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":3036.0,
+        "Price":"27,611"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":18575.0,
+        "Price":"46,301"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":22721.0,
+        "Price":"50,604"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15399.0,
+        "Price":"55,891"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":22801.0,
+        "Price":"55,881"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":3279.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12902.0,
+        "Price":"64,607"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17008.0,
+        "Price":"64,607"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":2496.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":12950.0,
+        "Price":"69,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":3988.0,
+        "Price":"102,377"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":13312.0,
+        "Price":"53,042"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":5160.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":1628.0,
+        "Price":"56,467"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":6345.0,
+        "Price":"56,467"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":20156.0,
+        "Price":"42,000"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":18632.0,
+        "Price":"44,615"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":13218.0,
+        "Price":"39,752"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":25626.0,
+        "Price":"45,938"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":8591.0,
+        "Price":"58,916"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S (B6B3)",
+        "Mileage":24222.0,
+        "Price":"53,462"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":29803.0,
+        "Price":"45,316"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":14121.0,
+        "Price":"58,464"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MT-15",
+        "Mileage":11966.0,
+        "Price":"121,272"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":22802.0,
+        "Price":"84,810"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":28000.0,
+        "Price":"90,791"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":3264.0,
+        "Price":"86,189"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":17843.0,
+        "Price":"117,640"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":21556.0,
+        "Price":"119,117"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":" SMASH FI (SPOKES\/DRUM)",
+        "Mileage":3902.0,
+        "Price":"26,000"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":25030.0,
+        "Price":"77,975"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":5994.0,
+        "Price":"90,786"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Supra GTR 150",
+        "Mileage":11619.0,
+        "Price":"74,889"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":9889.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":4283.0,
+        "Price":"36,296"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"WAVE RSX (DISC)",
+        "Mileage":13016.0,
+        "Price":"46,319"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":16127.0,
+        "Price":"32,874"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO III DUAL START",
+        "Mileage":8116.0,
+        "Price":"79,149"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":6186.0,
+        "Price":"62,352"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17288.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8591.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4948.0,
+        "Price":"58,146"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":16261.0,
+        "Price":"58,566"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14088.0,
+        "Price":"58,146"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":16533.0,
+        "Price":"47,986"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":2734.0,
+        "Price":"48,045"
+    },
+    {
+        "Year":2024,
+        "Brand":"KTM",
+        "Model":"DUKE 200",
+        "Mileage":6295.0,
+        "Price":"85,881"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":25131.0,
+        "Price":"55,821"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":4877.0,
+        "Price":"67,286"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":10930.0,
+        "Price":"45,739"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":12353.0,
+        "Price":"56,467"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":15171.0,
+        "Price":"37,940"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":489.0,
+        "Price":"58,566"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":11038.0,
+        "Price":"58,916"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":4049.0,
+        "Price":"86,980"
+    },
+    {
+        "Year":2022,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":15009.0,
+        "Price":"54,223"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":7558.0,
+        "Price":"82,838"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":2000.0,
+        "Price":"61,476"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DISC\/MAGS",
+        "Mileage":43118.0,
+        "Price":"46,204"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":9212.0,
+        "Price":"94,622"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":7814.0,
+        "Price":"97,344"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":5000.0,
+        "Price":"55,937"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":null,
+        "Price":"28,266"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":null,
+        "Price":"25,646"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":11501.0,
+        "Price":"26,219"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":6868.0,
+        "Price":"33,323"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Z400 (Standard)",
+        "Mileage":4469.0,
+        "Price":"185,308"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":24569.0,
+        "Price":"129,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":22577.0,
+        "Price":"117,703"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3) ",
+        "Mileage":5733.0,
+        "Price":"41,525"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3) ",
+        "Mileage":4916.0,
+        "Price":"57,298"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT Fi ESP (CBS\/ISS)",
+        "Mileage":7263.0,
+        "Price":"55,713"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BeAT Premium",
+        "Mileage":2041.0,
+        "Price":"58,075"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":3913.0,
+        "Price":"66,240"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11489.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12971.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":13678.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":null,
+        "Price":"41,250"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8701.0,
+        "Price":"29,570"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":39314.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":11748.0,
+        "Price":"69,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":10969.0,
+        "Price":"53,042"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":21822.0,
+        "Price":"51,042"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":2355.0,
+        "Price":"88,030"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":33003.0,
+        "Price":"86,709"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":7076.0,
+        "Price":"88,730"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":37618.0,
+        "Price":"100,878"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":20000.0,
+        "Price":"105,993"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":24962.0,
+        "Price":"76,707"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":8962.0,
+        "Price":"118,856"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":8990.0,
+        "Price":"119,117"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS) ",
+        "Mileage":4222.0,
+        "Price":"103,565"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (CBS)",
+        "Mileage":28389.0,
+        "Price":"72,706"
+    },
+    {
+        "Year":2023,
+        "Brand":"VESPA",
+        "Model":"Primavera Special Edition",
+        "Mileage":36.0,
+        "Price":"156,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":12712.0,
+        "Price":"74,554"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":36607.0,
+        "Price":"86,639"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":27733.0,
+        "Price":"87,676"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":6941.0,
+        "Price":"102,010"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Supra GTR 150",
+        "Mileage":6614.0,
+        "Price":"84,125"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":2049.0,
+        "Price":"32,817"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (ACB125CBFR3)",
+        "Mileage":11463.0,
+        "Price":"48,491"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":6161.0,
+        "Price":"60,250"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":32397.0,
+        "Price":"32,532"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":7769.0,
+        "Price":"53,485"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":22512.0,
+        "Price":"33,510"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9441.0,
+        "Price":"38,026"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":14386.0,
+        "Price":"47,424"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":7547.0,
+        "Price":"54,844"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"NMAX",
+        "Mileage":33439.0,
+        "Price":"58,115"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":21088.0,
+        "Price":"36,857"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":4509.0,
+        "Price":"130,781"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":1722.0,
+        "Price":"66,664"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR) ",
+        "Mileage":2291.0,
+        "Price":"50,351"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR4)",
+        "Mileage":4361.0,
+        "Price":"52,968"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD) ",
+        "Mileage":3291.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":713.0,
+        "Price":"65,462"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15000.0,
+        "Price":"57,795"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":2399.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":9550.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":8775.0,
+        "Price":"96,566"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":7566.0,
+        "Price":"61,963"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":11328.0,
+        "Price":"61,574"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":1587.0,
+        "Price":"61,574"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":7405.0,
+        "Price":"59,630"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":13113.0,
+        "Price":"45,316"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":10853.0,
+        "Price":"86,018"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":17357.0,
+        "Price":"107,205"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":8146.0,
+        "Price":"107,205"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH FI (SPOKES\/DRUM)",
+        "Mileage":10399.0,
+        "Price":"52,632"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":3283.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":2960.0,
+        "Price":"40,720"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":6031.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"WAVE RSX (DRUM)",
+        "Mileage":null,
+        "Price":"44,476"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"WINNER X (ABS PREMIUM)",
+        "Mileage":5834.0,
+        "Price":"102,010"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":22283.0,
+        "Price":"114,978"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":13268.0,
+        "Price":"38,444"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":1029.0,
+        "Price":"27,639"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR)",
+        "Mileage":9855.0,
+        "Price":"41,983"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":12363.0,
+        "Price":"44,231"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":5738.0,
+        "Price":"21,718"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":12259.0,
+        "Price":"40,335"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":14874.0,
+        "Price":"25,629"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":798.0,
+        "Price":"32,477"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":13134.0,
+        "Price":"65,565"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":7115.0,
+        "Price":"58,596"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17191.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8846.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":4410.0,
+        "Price":"96,566"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":24464.0,
+        "Price":"35,935"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":13213.0,
+        "Price":"38,444"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":20128.0,
+        "Price":"39,020"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":17254.0,
+        "Price":"49,287"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":23695.0,
+        "Price":"32,922"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":3630.0,
+        "Price":"55,417"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":6583.0,
+        "Price":"39,366"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9906.0,
+        "Price":"44,615"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":6546.0,
+        "Price":"37,899"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":7531.0,
+        "Price":"66,629"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":9375.0,
+        "Price":"26,251"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":12037.0,
+        "Price":"71,077"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":10915.0,
+        "Price":"97,811"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":36016.0,
+        "Price":"40,363"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":2751.0,
+        "Price":"46,215"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":21136.0,
+        "Price":"44,511"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DRUM\/SPOKES",
+        "Mileage":8988.0,
+        "Price":"40,542"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":32310.0,
+        "Price":"74,850"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":2416.0,
+        "Price":"40,720"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":5435.0,
+        "Price":"42,050"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":8916.0,
+        "Price":"45,245"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":8485.0,
+        "Price":"31,318"
+    },
+    {
+        "Year":2023,
+        "Brand":"FEKON",
+        "Model":"3GP 300",
+        "Mileage":6131.0,
+        "Price":"99,189"
+    },
+    {
+        "Year":2023,
+        "Brand":"CFMOTO",
+        "Model":"400NK",
+        "Mileage":5672.0,
+        "Price":"140,686"
+    },
+    {
+        "Year":2024,
+        "Brand":"CFMOTO",
+        "Model":"450SR",
+        "Mileage":3643.0,
+        "Price":"169,338"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":525.0,
+        "Price":"130,781"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"ADV160",
+        "Mileage":10931.0,
+        "Price":"129,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":19948.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":29079.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":8083.0,
+        "Price":"37,436"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":null,
+        "Price":"33,354"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":11997.0,
+        "Price":"37,436"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":10099.0,
+        "Price":"56,467"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":21993.0,
+        "Price":"50,293"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":7794.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":1906.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":6304.0,
+        "Price":"46,020"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":26755.0,
+        "Price":"37,436"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":12882.0,
+        "Price":"45,458"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":3308.0,
+        "Price":"46,020"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":13776.0,
+        "Price":"40,110"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":15756.0,
+        "Price":"33,473"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":2521.0,
+        "Price":"37,436"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":15287.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Avenis",
+        "Mileage":36045.0,
+        "Price":"55,881"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":5048.0,
+        "Price":"44,511"
+    },
+    {
+        "Year":2021,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 ELECTRIC",
+        "Mileage":11915.0,
+        "Price":"36,686"
+    },
+    {
+        "Year":2020,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO 175 KICK",
+        "Mileage":null,
+        "Price":"28,980"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":5533.0,
+        "Price":"56,131"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":7812.0,
+        "Price":"50,518"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":27957.0,
+        "Price":"44,383"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":21000.0,
+        "Price":"35,757"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":28184.0,
+        "Price":"34,124"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":20000.0,
+        "Price":"35,757"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":27789.0,
+        "Price":"28,419"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":22094.0,
+        "Price":"29,858"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":9657.0,
+        "Price":"31,991"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":25394.0,
+        "Price":"29,447"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":17128.0,
+        "Price":"29,858"
+    },
+    {
+        "Year":2020,
+        "Brand":"HONDA",
+        "Model":"BEAT Fi ESP (Standard)",
+        "Mileage":33796.0,
+        "Price":"30,497"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":5591.0,
+        "Price":"27,611"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":18639.0,
+        "Price":"32,096"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":5615.0,
+        "Price":"32,096"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":6256.0,
+        "Price":"32,096"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":14963.0,
+        "Price":"31,525"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":7273.0,
+        "Price":"32,096"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":7758.0,
+        "Price":"28,608"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":8753.0,
+        "Price":"32,096"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":null,
+        "Price":"28,100"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":28642.0,
+        "Price":"33,149"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":21731.0,
+        "Price":"37,205"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":18029.0,
+        "Price":"38,130"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":34860.0,
+        "Price":"36,397"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":17000.0,
+        "Price":"37,058"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":19070.0,
+        "Price":"39,529"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":44442.0,
+        "Price":"39,529"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":14675.0,
+        "Price":"41,597"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":34221.0,
+        "Price":"35,075"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":10066.0,
+        "Price":"42,341"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":13317.0,
+        "Price":"58,566"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":56263.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":19640.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET",
+        "Mileage":25245.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":19514.0,
+        "Price":"64,866"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":7690.0,
+        "Price":"58,380"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":20716.0,
+        "Price":"65,565"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":19056.0,
+        "Price":"46,993"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":13342.0,
+        "Price":"65,565"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":36447.0,
+        "Price":"44,229"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":40116.0,
+        "Price":"46,993"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":13691.0,
+        "Price":"65,565"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CBR 150 R",
+        "Mileage":15444.0,
+        "Price":"84,697"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CBR150RK",
+        "Mileage":null,
+        "Price":"56,928"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":6256.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":" CLICK 125 (STANDARD)",
+        "Mileage":4385.0,
+        "Price":"57,866"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":35951.0,
+        "Price":"56,226"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":7105.0,
+        "Price":"56,226"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17302.0,
+        "Price":"64,307"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":6000.0,
+        "Price":"57,954"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":62903.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15654.0,
+        "Price":"63,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":63265.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":28350.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":37190.0,
+        "Price":"57,540"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":18000.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14001.0,
+        "Price":"56,817"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":38863.0,
+        "Price":"49,360"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":6553.0,
+        "Price":"33,971"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":69381.0,
+        "Price":"33,560"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17000.0,
+        "Price":"27,964"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12854.0,
+        "Price":"28,712"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":null,
+        "Price":"41,250"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":30964.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":10952.0,
+        "Price":"40,853"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":34786.0,
+        "Price":"51,226"
+    },
+    {
+        "Year":2018,
+        "Brand":"HONDA",
+        "Model":"CLICK 150i",
+        "Mileage":48054.0,
+        "Price":"22,932"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 150i (ISS\/CBS) ",
+        "Mileage":35000.0,
+        "Price":"41,374"
+    },
+    {
+        "Year":2019,
+        "Brand":"HONDA",
+        "Model":"CLICK 150i (ISS\/CBS) ",
+        "Mileage":36054.0,
+        "Price":"44,329"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 150i (ISS\/CBS)",
+        "Mileage":37000.0,
+        "Price":"47,284"
+    },
+    {
+        "Year":2021,
+        "Brand":"KAWASAKI",
+        "Model":"CT 125",
+        "Mileage":6067.0,
+        "Price":"17,939"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"CT125 w\/ MCP",
+        "Mileage":21929.0,
+        "Price":"35,549"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":13000.0,
+        "Price":"86,985"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"DAZZ 110 PRIME",
+        "Mileage":6801.0,
+        "Price":"15,212"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"DAZZ 110 PRIME",
+        "Mileage":10145.0,
+        "Price":"16,080"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"DAZZ 110 PRIME",
+        "Mileage":10762.0,
+        "Price":"20,292"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"DAZZ 110 STD",
+        "Mileage":5829.0,
+        "Price":"15,091"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":42191.0,
+        "Price":"23,523"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":5044.0,
+        "Price":"33,795"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":9709.0,
+        "Price":"30,129"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":null,
+        "Price":"25,581"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":12269.0,
+        "Price":"23,523"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":51166.0,
+        "Price":"39,717"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":13705.0,
+        "Price":"23,523"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":10342.0,
+        "Price":"39,717"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":3973.0,
+        "Price":"44,569"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":3553.0,
+        "Price":"21,158"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":16365.0,
+        "Price":"20,262"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"DIO",
+        "Mileage":16461.0,
+        "Price":"18,089"
+    },
+    {
+        "Year":2023,
+        "Brand":"PEUGEOT",
+        "Model":"DJANGGO 150 - Two Tone",
+        "Mileage":10291.0,
+        "Price":"83,306"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"DOWNTOWN 350i TCS",
+        "Mileage":13785.0,
+        "Price":"107,217"
+    },
+    {
+        "Year":2019,
+        "Brand":"KTM",
+        "Model":"DUKE 200",
+        "Mileage":18863.0,
+        "Price":"49,689"
+    },
+    {
+        "Year":2023,
+        "Brand":"KTM",
+        "Model":"DUKE 200",
+        "Mileage":null,
+        "Price":"75,759"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Dominar400 UG",
+        "Mileage":null,
+        "Price":"94,756"
+    },
+    {
+        "Year":2024,
+        "Brand":"FEKON",
+        "Model":"FYRO 175",
+        "Mileage":5000.0,
+        "Price":"40,319"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":15759.0,
+        "Price":"57,537"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":10281.0,
+        "Price":"71,513"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":8937.0,
+        "Price":"51,759"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":11000.0,
+        "Price":"45,210"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":26804.0,
+        "Price":"42,346"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":6691.0,
+        "Price":"58,660"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":18831.0,
+        "Price":"79,459"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GIXXER 150",
+        "Mileage":29000.0,
+        "Price":"47,992"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GSX - S150",
+        "Mileage":null,
+        "Price":"63,735"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"GSX - S150",
+        "Mileage":11257.0,
+        "Price":"62,652"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GSX - S150",
+        "Mileage":10932.0,
+        "Price":"73,830"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"Genio",
+        "Mileage":24854.0,
+        "Price":"48,589"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Gixxer Fi",
+        "Mileage":40000.0,
+        "Price":"59,313"
+    },
+    {
+        "Year":2024,
+        "Brand":"SKYGO",
+        "Model":"KPV 150",
+        "Mileage":4489.0,
+        "Price":"77,742"
+    },
+    {
+        "Year":2023,
+        "Brand":"SKYGO",
+        "Model":"KPV 150",
+        "Mileage":4481.0,
+        "Price":"37,888"
+    },
+    {
+        "Year":2024,
+        "Brand":"SKYGO",
+        "Model":"KPV 150",
+        "Mileage":847.0,
+        "Price":"77,742"
+    },
+    {
+        "Year":2024,
+        "Brand":"KYMCO",
+        "Model":"KRV 180i TCS",
+        "Mileage":3000.0,
+        "Price":"78,799"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"KRV 180i TCS",
+        "Mileage":2086.0,
+        "Price":"107,539"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"KRV 180i TCS",
+        "Mileage":15000.0,
+        "Price":"84,427"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"KRV MOTO 180",
+        "Mileage":3588.0,
+        "Price":"76,866"
+    },
+    {
+        "Year":2020,
+        "Brand":"KYMCO",
+        "Model":"Like 150I",
+        "Mileage":18900.0,
+        "Price":"50,273"
+    },
+    {
+        "Year":2023,
+        "Brand":"BAJAJ",
+        "Model":"MAXIMA CARGO",
+        "Mileage":30189.0,
+        "Price":"106,971"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":8945.0,
+        "Price":"113,752"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO AEROX S",
+        "Mileage":96617.0,
+        "Price":"83,574"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":3863.0,
+        "Price":"74,016"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":25898.0,
+        "Price":"50,293"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":12948.0,
+        "Price":"56,467"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":14469.0,
+        "Price":"63,141"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":5518.0,
+        "Price":"62,741"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":6968.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":14083.0,
+        "Price":"32,532"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":21994.0,
+        "Price":"37,179"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":22580.0,
+        "Price":"33,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":25385.0,
+        "Price":"38,119"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"42,784"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"50,293"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":null,
+        "Price":"37,179"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":31071.0,
+        "Price":"39,503"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":13442.0,
+        "Price":"35,957"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":61548.0,
+        "Price":"38,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":null,
+        "Price":"55,269"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":25975.0,
+        "Price":"37,940"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":11111.0,
+        "Price":"53,403"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":16099.0,
+        "Price":"59,966"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":24192.0,
+        "Price":"35,957"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":17136.0,
+        "Price":"42,000"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S (BJN3) ",
+        "Mileage":null,
+        "Price":"52,159"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S (BJN3)",
+        "Mileage":16033.0,
+        "Price":"52,159"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":7364.0,
+        "Price":"54,844"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":16335.0,
+        "Price":"61,974"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":32644.0,
+        "Price":"38,753"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"38,753"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"37,414"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"36,474"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":27907.0,
+        "Price":"37,414"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":2512.0,
+        "Price":"56,497"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":30263.0,
+        "Price":"49,360"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":17647.0,
+        "Price":"39,752"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":16881.0,
+        "Price":"37,414"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":19212.0,
+        "Price":"34,829"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":19209.0,
+        "Price":"36,474"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"36,474"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"39,752"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":21480.0,
+        "Price":"39,752"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"34,194"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9901.0,
+        "Price":"35,075"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"37,414"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":8427.0,
+        "Price":"37,414"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":15464.0,
+        "Price":"39,752"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":30180.0,
+        "Price":"49,360"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":null,
+        "Price":"25,221"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":9046.0,
+        "Price":"27,083"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":21621.0,
+        "Price":"36,474"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":23718.0,
+        "Price":"32,737"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":52920.0,
+        "Price":"32,737"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":26376.0,
+        "Price":"31,914"
+    },
+    {
+        "Year":2019,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":null,
+        "Price":"22,468"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":21741.0,
+        "Price":"23,532"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":null,
+        "Price":"22,580"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":32641.0,
+        "Price":"45,938"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":26928.0,
+        "Price":"34,829"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125 (BB36)",
+        "Mileage":21784.0,
+        "Price":"25,052"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":16437.0,
+        "Price":"26,406"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":19463.0,
+        "Price":"26,406"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":27495.0,
+        "Price":"28,882"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":25856.0,
+        "Price":"50,915"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":30165.0,
+        "Price":"33,765"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":31763.0,
+        "Price":"27,930"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":38400.0,
+        "Price":"32,737"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":30066.0,
+        "Price":"35,075"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":17489.0,
+        "Price":"32,737"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S (B6B3)",
+        "Mileage":43374.0,
+        "Price":"34,194"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":" MIO I 125S (B6B3)",
+        "Mileage":58212.0,
+        "Price":"34,194"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":15832.0,
+        "Price":"32,668"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":24980.0,
+        "Price":"36,027"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":7224.0,
+        "Price":"33,430"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SOUL I 125S",
+        "Mileage":13142.0,
+        "Price":"40,234"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":null,
+        "Price":"37,755"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":8433.0,
+        "Price":"32,212"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":27808.0,
+        "Price":"31,550"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":null,
+        "Price":"50,351"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":29093.0,
+        "Price":"49,314"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":8436.0,
+        "Price":"24,882"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":19459.0,
+        "Price":"25,729"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":null,
+        "Price":"33,974"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":null,
+        "Price":"22,153"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":3045.0,
+        "Price":"22,153"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":20981.0,
+        "Price":"24,882"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":8137.0,
+        "Price":"25,729"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO SPORTY",
+        "Mileage":null,
+        "Price":"25,729"
+    },
+    {
+        "Year":2022,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":20958.0,
+        "Price":"36,988"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":15000.0,
+        "Price":"52,108"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":11000.0,
+        "Price":"43,036"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":9537.0,
+        "Price":"41,269"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":11442.0,
+        "Price":"46,530"
+    },
+    {
+        "Year":2022,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":1651.0,
+        "Price":"59,552"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"MOTOBI EVO 200",
+        "Mileage":5818.0,
+        "Price":"87,400"
+    },
+    {
+        "Year":2024,
+        "Brand":"FEKON",
+        "Model":"MTX 150",
+        "Mileage":527.0,
+        "Price":"66,132"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":16674.0,
+        "Price":"87,680"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":6288.0,
+        "Price":"97,045"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":14000.0,
+        "Price":"75,487"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":9353.0,
+        "Price":"98,978"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":20000.0,
+        "Price":"45,745"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":31000.0,
+        "Price":"42,114"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":14517.0,
+        "Price":"29,793"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":19036.0,
+        "Price":"45,745"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":31948.0,
+        "Price":"43,054"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":22956.0,
+        "Price":"31,148"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":36000.0,
+        "Price":"36,850"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":12207.0,
+        "Price":"33,430"
+    },
+    {
+        "Year":2019,
+        "Brand":"YAMAHA",
+        "Model":"Mio Sporty (40C8\/40C9",
+        "Mileage":41103.0,
+        "Price":"30,669"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Sporty (40C8\/40C10",
+        "Mileage":13670.0,
+        "Price":"43,139"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Sporty (40C8\/40C11",
+        "Mileage":19103.0,
+        "Price":"32,714"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"Mio Sporty (40C8\/40C12",
+        "Mileage":44911.0,
+        "Price":"30,669"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Sporty (40C8\/40C13",
+        "Mileage":31652.0,
+        "Price":"34,758"
+    },
+    {
+        "Year":2021,
+        "Brand":"TVS",
+        "Model":"NEO NX 110",
+        "Mileage":20655.0,
+        "Price":"15,094"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":7087.0,
+        "Price":"119,517"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":22742.0,
+        "Price":"117,640"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":58083.0,
+        "Price":"104,680"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS (w\/ Y-Connect)",
+        "Mileage":4669.0,
+        "Price":"108,605"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":31194.0,
+        "Price":"42,611"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":17000.0,
+        "Price":"59,998"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":4238.0,
+        "Price":"36,897"
+    },
+    {
+        "Year":2023,
+        "Brand":"BENELLI",
+        "Model":"PANAREA",
+        "Mileage":10866.0,
+        "Price":"54,223"
+    },
+    {
+        "Year":2020,
+        "Brand":"HONDA",
+        "Model":"PCX150",
+        "Mileage":24948.0,
+        "Price":"63,735"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"PCX150",
+        "Mileage":52684.0,
+        "Price":"84,196"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":20953.0,
+        "Price":"77,157"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":12242.0,
+        "Price":"105,805"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":52570.0,
+        "Price":"103,006"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":28674.0,
+        "Price":"119,584"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":10000.0,
+        "Price":"63,500"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":16000.0,
+        "Price":"84,196"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":40668.0,
+        "Price":"84,196"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":25069.0,
+        "Price":"94,608"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":42250.0,
+        "Price":"74,865"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":7848.0,
+        "Price":"105,120"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":" PCX160 (CBS)",
+        "Mileage":56580.0,
+        "Price":"80,464"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"RAIDER J CROSSOVER",
+        "Mileage":1991.0,
+        "Price":"32,714"
+    },
+    {
+        "Year":2023,
+        "Brand":"FEKON",
+        "Model":"REV-X 125",
+        "Mileage":3135.0,
+        "Price":"27,752"
+    },
+    {
+        "Year":2021,
+        "Brand":"BENELLI",
+        "Model":"RFS 150i",
+        "Mileage":24313.0,
+        "Price":"22,448"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125",
+        "Mileage":29158.0,
+        "Price":"19,570"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":4343.0,
+        "Price":"20,537"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":24002.0,
+        "Price":"16,425"
+    },
+    {
+        "Year":2021,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":33809.0,
+        "Price":"18,989"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":39623.0,
+        "Price":"47,991"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":4029.0,
+        "Price":"27,480"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":3455.0,
+        "Price":"58,287"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":8947.0,
+        "Price":"58,287"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS125 Fi",
+        "Mileage":36518.0,
+        "Price":"21,224"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":3645.0,
+        "Price":"50,156"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":4980.0,
+        "Price":"43,091"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":4501.0,
+        "Price":"43,091"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":23911.0,
+        "Price":"67,583"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"ROUSER NS200 ABS",
+        "Mileage":9208.0,
+        "Price":"59,135"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"RS 125 Fi",
+        "Mileage":16231.0,
+        "Price":"31,914"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":22079.0,
+        "Price":"40,962"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":16721.0,
+        "Price":"44,047"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":14107.0,
+        "Price":"42,608"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":22451.0,
+        "Price":"36,906"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":6419.0,
+        "Price":"35,889"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":44885.0,
+        "Price":"46,532"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":8512.0,
+        "Price":"53,485"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":24802.0,
+        "Price":"49,635"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":6330.0,
+        "Price":"84,125"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":23438.0,
+        "Price":"33,857"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":6943.0,
+        "Price":"67,400"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":null,
+        "Price":"61,801"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Carburetor",
+        "Mileage":29655.0,
+        "Price":"36,397"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":9178.0,
+        "Price":"79,911"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":1443.0,
+        "Price":"68,211"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser 200 NS Fi",
+        "Mileage":12251.0,
+        "Price":"52,786"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser NS160",
+        "Mileage":19000.0,
+        "Price":"70,050"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"Rouser NS160",
+        "Mileage":18810.0,
+        "Price":"29,701"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"SIGHT (SPOKE)",
+        "Mileage":34719.0,
+        "Price":"20,987"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":34245.0,
+        "Price":"33,654"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":31932.0,
+        "Price":"41,244"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":17831.0,
+        "Price":"30,270"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DISC\/MAGS",
+        "Mileage":null,
+        "Price":"28,907"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DISC\/MAGS",
+        "Mileage":6285.0,
+        "Price":"34,509"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DRUM\/SPOKES",
+        "Mileage":13113.0,
+        "Price":"29,659"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DRUM\/SPOKES",
+        "Mileage":40079.0,
+        "Price":"38,473"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH FI (MAGS\/DISC)",
+        "Mileage":106.0,
+        "Price":"40,963"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":29664.0,
+        "Price":"90,346"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":52727.0,
+        "Price":"86,639"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":31636.0,
+        "Price":"71,711"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155R",
+        "Mileage":19612.0,
+        "Price":"102,410"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":14468.0,
+        "Price":"30,991"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":null,
+        "Price":"37,101"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":null,
+        "Price":"50,604"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":null,
+        "Price":"27,761"
+    },
+    {
+        "Year":2019,
+        "Brand":"YAMAHA",
+        "Model":"SOUL I 125",
+        "Mileage":45390.0,
+        "Price":"38,354"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SZ (BE91)",
+        "Mileage":19301.0,
+        "Price":"36,004"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":" SZ (BE92\/BE93) ",
+        "Mileage":null,
+        "Price":"17,610"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"SZ (BE92\/BE93)",
+        "Mileage":8327.0,
+        "Price":"20,992"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":" SZ (BE92\/BE93)",
+        "Mileage":3276.0,
+        "Price":"19,724"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Skydrive Sport",
+        "Mileage":20766.0,
+        "Price":"32,714"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"Skydrive Sport",
+        "Mileage":55170.0,
+        "Price":"23,696"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"Skydrive Sport",
+        "Mileage":null,
+        "Price":"30,669"
+    },
+    {
+        "Year":2022,
+        "Brand":"KYMCO",
+        "Model":"Super Z 150i 8 series",
+        "Mileage":null,
+        "Price":"26,257"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"Supra GTR 150",
+        "Mileage":61490.0,
+        "Price":"52,237"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Supra GTR 150",
+        "Mileage":14974.0,
+        "Price":"54,235"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":34049.0,
+        "Price":"29,265"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":null,
+        "Price":"19,971"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":19390.0,
+        "Price":"14,465"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":22179.0,
+        "Price":"26,087"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":20779.0,
+        "Price":"40,329"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"TMX SUPREMO (TMXS2J)",
+        "Mileage":20606.0,
+        "Price":"40,002"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS King",
+        "Mileage":null,
+        "Price":"95,684"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS King",
+        "Mileage":null,
+        "Price":"94,887"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"TVS King",
+        "Mileage":null,
+        "Price":"55,829"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS King ",
+        "Mileage":5896.0,
+        "Price":"70,389"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":32212.0,
+        "Price":"25,052"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":10000.0,
+        "Price":"25,052"
+    },
+    {
+        "Year":2024,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":6720.0,
+        "Price":"51,218"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":4573.0,
+        "Price":"24,182"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":9218.0,
+        "Price":"24,182"
+    },
+    {
+        "Year":2022,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":20527.0,
+        "Price":"22,172"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":9359.0,
+        "Price":"41,244"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS NTORQ 125 FI (STD) ",
+        "Mileage":659.0,
+        "Price":"28,095"
+    },
+    {
+        "Year":2023,
+        "Brand":"FEKON",
+        "Model":"VICTORINO 250i",
+        "Mileage":2343.0,
+        "Price":"79,754"
+    },
+    {
+        "Year":2020,
+        "Brand":"KAWASAKI",
+        "Model":"W 175",
+        "Mileage":16395.0,
+        "Price":"58,033"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"W 175",
+        "Mileage":25946.0,
+        "Price":"44,729"
+    },
+    {
+        "Year":2020,
+        "Brand":"HONDA",
+        "Model":"WAVE 110R",
+        "Mileage":5853.0,
+        "Price":"27,834"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"WAVE RSX (DRUM)",
+        "Mileage":15991.0,
+        "Price":"44,919"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"XL 100 PREMIUM",
+        "Mileage":1039.0,
+        "Price":"24,844"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"XL 100 PREMIUM",
+        "Mileage":870.0,
+        "Price":"14,794"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"XR 150L",
+        "Mileage":17215.0,
+        "Price":"58,691"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":23361.0,
+        "Price":"95,796"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":25176.0,
+        "Price":"123,372"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":21000.0,
+        "Price":"83,053"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":22154.0,
+        "Price":"77,862"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":13901.0,
+        "Price":"75,653"
+    },
+    {
+        "Year":2022,
+        "Brand":"KYMCO",
+        "Model":"XTOWN CT 300i NOODOE",
+        "Mileage":12982.0,
+        "Price":"106,651"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"XTZ 125",
+        "Mileage":null,
+        "Price":"39,085"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"XTZ 125",
+        "Mileage":1051.0,
+        "Price":"64,865"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":12245.0,
+        "Price":"35,674"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"19,632"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"27,267"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":29407.0,
+        "Price":"36,607"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":5438.0,
+        "Price":"18,616"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":28314.0,
+        "Price":"28,765"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"27,267"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":16227.0,
+        "Price":"12,771"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R15M (ICON PERFORMANCE)",
+        "Mileage":null,
+        "Price":"142,968"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R15M (ICON PERFORMANCE)",
+        "Mileage":13902.0,
+        "Price":"137,490"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"ADV150",
+        "Mileage":18142.0,
+        "Price":"81,250"
+    },
+    {
+        "Year":2024,
+        "Brand":"KAWASAKI",
+        "Model":"BARAKO III DUAL START",
+        "Mileage":5013.0,
+        "Price":"59,080"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3)",
+        "Mileage":4557.0,
+        "Price":"53,296"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":24657.0,
+        "Price":"22,102"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":12037.0,
+        "Price":"54,529"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":10016.0,
+        "Price":"68,160"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":11227.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":14929.0,
+        "Price":"43,018"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":47049.0,
+        "Price":"53,514"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11707.0,
+        "Price":"52,954"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11015.0,
+        "Price":"58,146"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":8159.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":22956.0,
+        "Price":"59,244"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12684.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":18609.0,
+        "Price":"65,074"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":12388.0,
+        "Price":"59,244"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":17923.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":11491.0,
+        "Price":"60,294"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":9621.0,
+        "Price":"58,566"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":9643.0,
+        "Price":"59,244"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":34739.0,
+        "Price":"56,226"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i-STD (CBS)",
+        "Mileage":47614.0,
+        "Price":"54,568"
+    },
+    {
+        "Year":2023,
+        "Brand":"KAWASAKI",
+        "Model":"CT 125",
+        "Mileage":8921.0,
+        "Price":"37,571"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":8547.0,
+        "Price":"88,638"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":15457.0,
+        "Price":"69,897"
+    },
+    {
+        "Year":2022,
+        "Brand":"SUZUKI",
+        "Model":"GSX - S150",
+        "Mileage":9271.0,
+        "Price":"64,119"
+    },
+    {
+        "Year":2023,
+        "Brand":"KYMCO",
+        "Model":"KRV MOTO 180",
+        "Mileage":13650.0,
+        "Price":"101,404"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":38988.0,
+        "Price":"36,697"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":8968.0,
+        "Price":"50,000"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS",
+        "Mileage":23813.0,
+        "Price":"73,012"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS) ",
+        "Mileage":5597.0,
+        "Price":"87,594"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":28880.0,
+        "Price":"93,246"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":18000.0,
+        "Price":"74,243"
+    },
+    {
+        "Year":2021,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":31533.0,
+        "Price":"35,302"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"SMASH 115 DISC\/MAGS",
+        "Mileage":13941.0,
+        "Price":"35,714"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":30880.0,
+        "Price":"64,357"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":4478.0,
+        "Price":"89,338"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":12313.0,
+        "Price":"72,227"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX SUPREMO (TMXS2J)",
+        "Mileage":1862.0,
+        "Price":"43,313"
+    },
+    {
+        "Year":2021,
+        "Brand":"HONDA",
+        "Model":"XR 150L",
+        "Mileage":15667.0,
+        "Price":"50,529"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"XRM 125 DUAL SPORT Fi",
+        "Mileage":26826.0,
+        "Price":"47,977"
+    },
+    {
+        "Year":2020,
+        "Brand":"YAMAHA",
+        "Model":"XSR 155",
+        "Mileage":11839.0,
+        "Price":"83,769"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":8537.0,
+        "Price":"42,470"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":14902.0,
+        "Price":"41,420"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":3483.0,
+        "Price":"28,765"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":9074.0,
+        "Price":"27,312"
+    },
+    {
+        "Year":2022,
+        "Brand":"YAMAHA",
+        "Model":"YTX 125",
+        "Mileage":null,
+        "Price":"31,941"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"YZF-R3",
+        "Mileage":2597.0,
+        "Price":"184,258"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"AIR BLADE160",
+        "Mileage":7544.0,
+        "Price":"100,066"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":15774.0,
+        "Price":"70,284"
+    },
+    {
+        "Year":2023,
+        "Brand":"TVS",
+        "Model":"TVS King",
+        "Mileage":12294.0,
+        "Price":"122,143"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"XRM 125 MOTARD Fi",
+        "Mileage":14121.0,
+        "Price":"45,851"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"BEAT (ACH110CBFR3)",
+        "Mileage":12126.0,
+        "Price":"57,298"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"BEAT FI",
+        "Mileage":14724.0,
+        "Price":"28,610"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":8427.0,
+        "Price":"54,652"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":12213.0,
+        "Price":"44,346"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"BURGMAN STREET 125 EX",
+        "Mileage":7473.0,
+        "Price":"53,849"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION) ",
+        "Mileage":7813.0,
+        "Price":"66,240"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (SPECIAL EDITION)",
+        "Mileage":6509.0,
+        "Price":"66,240"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":10395.0,
+        "Price":"52,689"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":16447.0,
+        "Price":"64,296"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":5108.0,
+        "Price":"56,918"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":25762.0,
+        "Price":"58,668"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":16593.0,
+        "Price":"46,827"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":4361.0,
+        "Price":"58,668"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":18642.0,
+        "Price":"57,263"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":28180.0,
+        "Price":"52,159"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":23966.0,
+        "Price":"58,668"
+    },
+    {
+        "Year":2022,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":10752.0,
+        "Price":"43,330"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":3428.0,
+        "Price":"57,516"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"CLICK 125i",
+        "Mileage":33309.0,
+        "Price":"52,016"
+    },
+    {
+        "Year":2022,
+        "Brand":"KAWASAKI",
+        "Model":"Dominar400 UG",
+        "Mileage":17644.0,
+        "Price":"113,683"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO FAZZIO",
+        "Mileage":12966.0,
+        "Price":"54,130"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR",
+        "Mileage":6394.0,
+        "Price":"46,546"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":16257.0,
+        "Price":"45,703"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":7185.0,
+        "Price":"55,417"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125S",
+        "Mileage":5126.0,
+        "Price":"60,068"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"Mio Aerox",
+        "Mileage":5343.0,
+        "Price":"77,416"
+    },
+    {
+        "Year":2023,
+        "Brand":"HONDA",
+        "Model":"PCX160 (ABS)",
+        "Mileage":19324.0,
+        "Price":"108,357"
+    },
+    {
+        "Year":2023,
+        "Brand":"SUZUKI",
+        "Model":"SKYDRIVE CROSSOVER",
+        "Mileage":7864.0,
+        "Price":"39,347"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"TMX 125A",
+        "Mileage":16837.0,
+        "Price":"41,872"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"WINNER X (ABS RACING)",
+        "Mileage":4465.0,
+        "Price":"94,360"
+    },
+    {
+        "Year":2023,
+        "Brand":"CFMOTO",
+        "Model":"400NK",
+        "Mileage":6862.0,
+        "Price":"133,370"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"CLICK 125 (STANDARD)",
+        "Mileage":3735.0,
+        "Price":"65,774"
+    },
+    {
+        "Year":2024,
+        "Brand":"HONDA",
+        "Model":"Click160",
+        "Mileage":14760.0,
+        "Price":"70,917"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"MIO GEAR S",
+        "Mileage":5149.0,
+        "Price":"66,629"
+    },
+    {
+        "Year":2023,
+        "Brand":"YAMAHA",
+        "Model":"MIO I 125",
+        "Mileage":16573.0,
+        "Price":"42,526"
+    },
+    {
+        "Year":2021,
+        "Brand":"YAMAHA",
+        "Model":"Mio Gravis",
+        "Mileage":26155.0,
+        "Price":"60,374"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"NMAX ABS (w\/ Y-Connect)",
+        "Mileage":11945.0,
+        "Price":"108,605"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":4825.0,
+        "Price":"94,390"
+    },
+    {
+        "Year":2024,
+        "Brand":"SUZUKI",
+        "Model":"Raider R 150 Fi",
+        "Mileage":4074.0,
+        "Price":"84,810"
+    },
+    {
+        "Year":2024,
+        "Brand":"YAMAHA",
+        "Model":"SNIPER155",
+        "Mileage":10955.0,
+        "Price":"77,975"
+    }
+]

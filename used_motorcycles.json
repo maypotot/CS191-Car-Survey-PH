@@ -1,0 +1,92 @@
+[
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer 155fi 2022",
+        "Year": "model",
+        "Price": "₱ 55,000.00"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "click v4",
+        "Year": "2024",
+        "Price": "₱ 81,000.00"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Year": "2022",
+        "Price": "₱ 129,000.00"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO I 125 M3",
+        "Year": "2019",
+        "Price": "₱ 33,000.00"
+    },
+    {
+        "Maker": "CF",
+        "Model": "MOTO NK 400 V3",
+        "Year": "2021",
+        "Price": "₱ 150,000.00"
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "DTX360 300cc",
+        "Year": "2023",
+        "Price": "₱ 190,000.00"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider 150 carb",
+        "Year": "2024",
+        "Price": "₱ 90,000.00"
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke 200",
+        "Year": "2018",
+        "Price": "₱ 130,000.00"
+    },
+    {
+        "Maker": "2020",
+        "Model": "HONDA CLICK 125",
+        "Year": "V2",
+        "Price": "₱ 52,500.00"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX V1 ABS",
+        "Year": "2019",
+        "Price": "₱ 88,000.00"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox v2 abs limited edition",
+        "Year": "2023",
+        "Price": "₱ 120,000.00"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox V2 S ABS (keyless)",
+        "Year": "2021-22",
+        "Price": "₱ 98,000.00"
+    },
+    {
+        "Maker": "Sniper",
+        "Model": "150",
+        "Year": "V2",
+        "Price": "₱ 95,000.00"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX v2",
+        "Year": "2021",
+        "Price": "₱ 105,000.00"
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "400 Xciting S",
+        "Year": "2023",
+        "Price": "₱ 250,000.00"
+    }
+]
