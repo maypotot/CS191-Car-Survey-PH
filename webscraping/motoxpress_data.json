@@ -1,0 +1,362 @@
+[
+    {
+        "Maker": "Suzuki",
+        "Model": "V-STROM 250 SX",
+        "Transmission": "Manual",
+        "Price": "₱229,000"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Winner X (Standard)",
+        "Transmission": "Manual",
+        "Price": "₱123,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV 160",
+        "Transmission": "Automatic",
+        "Price": "₱166,900"
+    },
+    {
+        "Maker": "TVS",
+        "Model": "NTORQ 125",
+        "Transmission": "Automatic",
+        "Price": "₱71,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Visa R 110 (SP)",
+        "Transmission": "Manual",
+        "Price": "₱43,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Visa R 110 (AL)",
+        "Transmission": "Manual",
+        "Price": "₱45,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "XCITING 400I ABS E4",
+        "Transmission": "Automatic",
+        "Price": "₱369,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "XTOWN 300 Fi ABS",
+        "Transmission": "Automatic",
+        "Price": "₱209,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 150 I NOODOE",
+        "Transmission": "Automatic",
+        "Price": "₱139,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 150 I NON-NOODOE",
+        "Transmission": "Automatic",
+        "Price": "₱129,500"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Super Z 150I 8 Series",
+        "Transmission": "Automatic",
+        "Price": "₱83,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "SUPER 8 150 E3 REGULAR",
+        "Transmission": "Automatic",
+        "Price": "₱76,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Super Z 125 E3",
+        "Transmission": "Automatic",
+        "Price": "₱69,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 125 Italia E3",
+        "Transmission": "Automatic",
+        "Price": "₱94,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "AK550",
+        "Transmission": "Manual",
+        "Price": "₱649,000"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XMAX",
+        "Transmission": "Automatic",
+        "Price": "₱299,500"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "BARAKO III Dual Start",
+        "Transmission": "Manual",
+        "Price": "₱100,500"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM RS Fi",
+        "Transmission": "Manual",
+        "Price": "₱75,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "WAVE RSX",
+        "Transmission": "Manual",
+        "Price": "₱64,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "AVENIS",
+        "Transmission": "Automatic",
+        "Price": "₱80,400"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "SUPRA GTR",
+        "Transmission": "Manual",
+        "Price": "₱106,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click 160",
+        "Transmission": "Automatic",
+        "Price": "₱122,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO Fazzio",
+        "Transmission": "Automatic",
+        "Price": "₱93,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO Gear S",
+        "Transmission": "Automatic",
+        "Price": "₱84,400"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO Gear",
+        "Transmission": "Automatic",
+        "Price": "₱79,400"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO Gravis",
+        "Transmission": "Automatic",
+        "Price": "₱92,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s",
+        "Transmission": "Automatic",
+        "Price": "₱82,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125",
+        "Transmission": "Automatic",
+        "Price": "₱77,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer 150",
+        "Transmission": "Manual",
+        "Price": "₱104,900"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Dominar",
+        "Transmission": "Manual",
+        "Price": "₱208,900"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser NS125 FI",
+        "Transmission": "Manual",
+        "Price": "₱82,000"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser NS200 FI",
+        "Transmission": "Manual",
+        "Price": "₱129,800"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser NS160 FI",
+        "Transmission": "Manual",
+        "Price": "₱99,900"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser RS 200",
+        "Transmission": "Manual",
+        "Price": "₱149,500"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-R 150",
+        "Transmission": "Manual",
+        "Price": "₱156,000"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150r",
+        "Transmission": "Manual",
+        "Price": "₱183,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "R15",
+        "Transmission": "Manual",
+        "Price": "₱203,000"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX SUPREMO 3RD GEN",
+        "Transmission": "Manual",
+        "Price": "₱78,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX125 ALPHA",
+        "Transmission": "Manual",
+        "Price": "₱56,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125 Motard",
+        "Transmission": "Semi Manual",
+        "Price": "₱76,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125 DSX",
+        "Transmission": "Semi Manual",
+        "Price": "₱75,400"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125 DS",
+        "Transmission": "Semi Manual",
+        "Price": "₱71,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF150L",
+        "Transmission": "Manual",
+        "Price": "₱147,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XR150L",
+        "Transmission": "Manual",
+        "Price": "₱96,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT15",
+        "Transmission": "Manual",
+        "Price": "₱179,000"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 (ABS Version)",
+        "Transmission": "Automatic",
+        "Price": "₱149,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 (CBS Version)",
+        "Transmission": "Automatic",
+        "Price": "₱131,900"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click 125",
+        "Transmission": "Automatic",
+        "Price": "₱81,400"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Barako II",
+        "Transmission": "Manual",
+        "Price": "₱91,000"
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Barako II Electric",
+        "Transmission": "Manual",
+        "Price": "₱95,000"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Skydrive Sports",
+        "Transmission": "Automatic",
+        "Price": "₱72,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Burgman Street",
+        "Transmission": "Automatic",
+        "Price": "₱83,400"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX 155 (ABS Version)",
+        "Transmission": "Automatic",
+        "Price": "₱151,900"
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YTX 125",
+        "Transmission": "Manual",
+        "Price": "₱57,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-S 150",
+        "Transmission": "Manual",
+        "Price": "₱133,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer 250",
+        "Transmission": "Manual",
+        "Price": "₱182,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider 150 FI",
+        "Transmission": "Manual",
+        "Price": "₱121,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider R 150 Carb",
+        "Transmission": "Manual",
+        "Price": "₱108,900"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Smash 115 Disc / Mags",
+        "Transmission": "Semi Manual",
+        "Price": "₱68,400"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Smash",
+        "Transmission": "Semi Manual",
+        "Price": "₱63,400"
+    }
+]

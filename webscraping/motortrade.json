@@ -1,0 +1,74 @@
+[
+    {
+        "Maker": "YAMAHA",
+        "Model": "NEW MIO FAZZIO",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱93,900\nDOWNPAYMENT: ₱10,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "The All-New CRF150R",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱306,000\nDOWNPAYMENT: ₱77,000\nMONTHLY: ₱10,000"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CRF125F",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱189,000\nDOWNPAYMENT: ₱48,000\nMONTHLY: ₱6,300"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NEW NMAX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱155,900\nDOWNPAYMENT: ₱17,000\nMONTHLY: ₱7,200"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NMAX TECHMAX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱175,900\nDOWNPAYMENT: ₱22,000\nMONTHLY: ₱8,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Kargador 150 Euro 3",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱63,000\nDOWNPAYMENT: ₱7,999\nMONTHLY: ₱2,971"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "THE ALL-NEW GIORNO+",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱101,900"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "PG-1",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱96,400\nDOWNPAYMENT: ₱9,000\nMONTHLY: ₱4,500"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "DINK R150",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱152,900\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱6,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CB150X",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱173,900\nDOWNPAYMENT: ₱25,000\nMONTHLY: ₱7,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WINNER X ( RACING )",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱131,900\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱6,200"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WINNER X ( PREMIUM )",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱129,900\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱6,100"
+    }
+]
