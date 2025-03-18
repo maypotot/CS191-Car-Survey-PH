@@ -11,44 +11,62 @@ import gc
 # Selenium Setup
 service = Service(executable_path="webscraping/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
-driver.get("https://motortrade.com.ph/motorcycle-type/regular-bike/")
+driver.get("https://motortrade.com.ph/motorcycle-type/big-bike/")
 
 scraped_data = []
+next_xpath = "//*[@id='bd']/section[1]/div/div/div[2]/div[3]/a[5]"
 
 def scrape_listing(url):
     """Extract details from an individual motorcycle listing"""
     try:
         driver.get(url)
-        time.sleep(5)  # Wait for the page to load
+        time.sleep(1)  # Wait for the page to load
 
         listing = BeautifulSoup(driver.page_source, "html.parser")
 
-        name = listing.find("h1", class_="vehicle-title").text.strip()
-        transmission_element = driver.find_element(By.CLASS_NAME, "transmission")
-        transmission = transmission_element.text.strip()
-        
-        price_element = driver.find_element(By.CLASS_NAME, "pcd-pricing")
-        price = price_element.text.strip()
+        # Extract name
+        name = listing.find("h1", class_="vehicle-title")
+        name = name.text.strip() if name else "Unknown"
 
+        # Extract transmission (handle missing cases)
+        try:
+            transmission_element = driver.find_element(By.CLASS_NAME, "transmission")
+            transmission = transmission_element.text.strip()
+        except:
+            transmission = ""
+
+        # Extract price (handle missing cases)
+        try:
+            price_element = driver.find_element(By.CLASS_NAME, "pcd-pricing")
+            price = price_element.text.strip()
+        except:
+            price = "Not Available"
+
+        # Extract maker and model
         parts = name.split()
-        maker = parts[0] if len(parts) > 0 else ""
-        model = " ".join(parts[1:]) if len(parts) > 1 else ""
+        maker = parts[0] if len(parts) > 0 else "Unknown"
+        model = " ".join(parts[1:]) if len(parts) > 1 else "Unknown"
 
+        # Add to scraped data
         scraped_data.append({
             "Maker": maker,
             "Model": model,
             "Transmission": transmission,
             "Price": price
         })
-       
 
     except Exception as e:
         print(f"❌ Error scraping {url}: {e}")
 
+    finally:
+        driver.back()  # Go back to listings page
+        time.sleep(1)  # Allow time for the page to reload
+
+
 def scrape_all_pages():
     """Loop through all pages and extract listings"""
     while True:
-        time.sleep(5)  # Allow time for page to load
+        time.sleep(2)  # Allow time for page to load
 
         # Extract listing URLs on the current page
         listing_cards = driver.find_elements(By.CLASS_NAME, "Vehicle-Feature-Image")
@@ -60,8 +78,13 @@ def scrape_all_pages():
 
         # Try to find and click the "Next" button
         try:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             next_button = driver.find_element(By.CLASS_NAME, "nextpostslink")
-            next_button.click()
+            next_link = next_button.get_attribute("href")
+            print(next_link)
+            driver.get(next_link)
+
+
         except:
             print("No more pages found. Scraping complete.")
             break  # Exit loop if no more pages
@@ -72,7 +95,7 @@ scrape_all_pages()
 driver.quit()
 
 # Save data to JSON
-with open("webscraping/motortrade.json", "w", encoding="utf-8") as json_file:
+with open("webscraping/motortrade_big-bike.json", "w", encoding="utf-8") as json_file:
     json.dump(scraped_data, json_file, indent=4, ensure_ascii=False)
 
 print(f"✅ Scraping Completed! Total Listings: {len(scraped_data)}")
