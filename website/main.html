@@ -4,9 +4,14 @@
     const vehicleInput = document.getElementById("vehicleInput").value;
     const maker = document.getElementById("maker").value.replace(" ", "+");
     const model = document.getElementById("model").value.replace(" ", "+");
-    const year = document.getElementById("year").value;
+    const year = document.getElementById("year").value.replace(" ", "+");
+    const variant = document.getElementById("variant").value.replace(" ", "+");
+    const transmission = document.getElementById("transmission").value.replace(" ", "+");
+    const mileage = document.getElementById("mileage").value.replace(" ", "+");
+    const fuel = document.getElementById("fuel").value.replace(" ", "+");
 
-    const apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year + "&vehicle=" + vehicleInput;
+    const apiUrl = "http://127.0.0.1:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year 
+    + "&variant=" + variant + "&transmission=" + transmission + "&mileage=" + mileage + "&fuel=" + fuel + "&vehicle=" + vehicleInput;
 
     console.log("Requesting:", apiUrl);
 
@@ -92,6 +97,54 @@
               type="text"
               name="model"
               id="model"
+              class="formbold-form-input"
+            />
+          </div>
+        </div>
+        <div class="formbold-input-flex">
+          <div>
+            <label for="variant" class="formbold-form-label"> 
+                Variant 
+            </label>
+            <input
+              type="text"
+              name="variant"
+              id="variant"
+              class="formbold-form-input"
+            />
+          </div>
+          <div>
+            <label for="mileage" class="formbold-form-label"> 
+                Mileage 
+            </label>
+            <input
+              type="text"
+              name="mileage"
+              id="mileage"
+              class="formbold-form-input"
+            />
+          </div>
+        </div>
+        <div class="formbold-input-flex">
+          <div>
+            <label for="transmission" class="formbold-form-label"> 
+                Transmission 
+            </label>
+            <input
+              type="text"
+              name="transmission"
+              id="transmission"
+              class="formbold-form-input"
+            />
+          </div>
+          <div>
+            <label for="fuel" class="formbold-form-label"> 
+                Fuel
+            </label>
+            <input
+              type="text"
+              name="fuel"
+              id="fuel"
               class="formbold-form-input"
             />
           </div>
