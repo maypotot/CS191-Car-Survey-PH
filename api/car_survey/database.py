@@ -20,9 +20,9 @@ cur.execute("""CREATE TABLE IF NOT EXISTS motors (
 """)
 
 # ZIGWHEELS
-with open('./formatted_scraped_data/zigwheels_updated.json', 'r') as file1:
-    data1 = json.load(file1)
-for motor in data1:
+with open('./formatted_scraped_data/zigwheels_updated.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
     vehicle_price = motor["vehicle_price"].split("-")[0].strip().replace(",", "")
     try:
         vehicle_price = int(vehicle_price)
@@ -93,6 +93,164 @@ for motor in data1:
 #             {vehicle_price}
 #             )
 #     """)
+
+# used.com
+with open('./formatted_scraped_data/used_motorcycles.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            '{str(motor["Variant"])}',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{str(motor["Mileage"])}',
+            '{str(motor["Price"])}'
+            )
+    """)
+
+# AFS (sumisho)
+with open('./formatted_scraped_data/AFS.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    vehicle_price = motor["Price"].split("-")[0].strip().replace(",", "")
+    try:
+        vehicle_price = int(vehicle_price)
+    except ValueError:
+        vehicle_price = None
+        
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Brand"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{round(motor["Mileage"]) if motor["Mileage"] is not None else -1}',
+            {vehicle_price}
+            )
+    """)
+    
+# motoxpress
+with open('./formatted_scraped_data/motoxpress_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+         
+    vehicle_price = motor["Price"].replace(",", "").strip()
+    if vehicle_price == "":
+        price = -1
+    else:
+        numbers = re.findall(r'\d+', vehicle_price)
+        price = int("".join(numbers)) if numbers else -1
+
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            '{str(motor["Transmission"])}',
+            'NULL',
+            -1,
+            -1,
+            {price}
+            )
+    """)
+    
+# mototrade pt. 1
+with open('./formatted_scraped_data/motortrade_big-bike_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    vehicle_price = motor["Price"].split("\n")[0].replace(",", "").strip()
+    if vehicle_price == "":
+        price = -1
+    else:
+        numbers = re.findall(r'\d+', vehicle_price)
+        price = int("".join(numbers)) if numbers else -1
+
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            '{str(motor["Transmission"])}',
+            'NULL',
+            -1,
+            -1,
+            {price}
+            )
+    """)
+    
+# mototrade pt. 2
+with open('./formatted_scraped_data/motortrade_regular_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    vehicle_price = motor["Price"].split("\n")[0].replace(",", "").strip()
+    if vehicle_price == "":
+        price = -1
+    else:
+        numbers = re.findall(r'\d+', vehicle_price)
+        price = int("".join(numbers)) if numbers else -1
+
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            '{str(motor["Transmission"])}',
+            'NULL',
+            -1,
+            -1,
+            {price}
+            )
+    """)
 
 conn.commit()
 

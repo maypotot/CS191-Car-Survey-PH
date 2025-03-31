@@ -1,175 +1,7 @@
-import psycopg2
-import re
-import json
-
-# conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "gaesunflower6283")
-conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
-cur = conn.cursor()
-
-cur.execute("TRUNCATE TABLE motors RESTART IDENTITY CASCADE;")
-cur.execute("TRUNCATE TABLE trucks RESTART IDENTITY CASCADE;")
-
-cur.execute("""CREATE TABLE IF NOT EXISTS motors (
-    maker VARCHAR(255),
-    model VARCHAR(255),
-    variant VARCHAR(255),
-    transmission VARCHAR(255),
-    engine VARCHAR(255),
-    year INTEGER,
-    mileage INTEGER,
-    price INTEGER);
-""")
-
-cur.execute("""CREATE TABLE IF NOT EXISTS trucks (
-    maker VARCHAR(255),
-    model VARCHAR(255),
-    variant VARCHAR(255),
-    transmission VARCHAR(255),
-    engine VARCHAR(255),
-    year INTEGER,
-    mileage INTEGER,
-    price INTEGER);
-""")
-
-# ZIGWHEELS
-with open('./formatted_scraped_data/zigwheels_updated.json', 'r') as file1:
-    data1 = json.load(file1)
-for motor in data1:
-    vehicle_name_parts = motor["vehicle_name"].split(" ", 1)
-    vehicle_price = motor["vehicle_price"].split("-")[0].strip().replace(",", "")
-    try:
-        vehicle_price = int(vehicle_price)
-    except ValueError:
-        vehicle_price = None
-    
-    cur.execute(f"""INSERT INTO motors (
-            maker,
-            model,
-            variant,
-            transmission,
-            engine,
-            year,
-            mileage,
-            price
-        )
-        VALUES (
-            '{str(motor["Maker"])}',
-            '{str(motor["Model"])}',
-            '{str(motor["Variant"])}',
-            '{str(motor["Transmission Type"])}',
-            '{str(motor["Fuel Type"])}',
-            2022,
-            50000,
-            {vehicle_price}
-            )
-    """)
-
-# RFSHOP
-with open('./formatted_scraped_data/rfshop_data.json', 'r') as file3:
-    data3 = json.load(file3)
-
-for truck in data3:
-    vehicle_price = truck.get("Vehicle Price", "").replace(
-        "PHP ", "").replace(",", "").replace(".00", "").strip()
-    try:
-        vehicle_price = int(vehicle_price)
-    except ValueError:
-        vehicle_price = 0
-        
-    mileage_str = truck.get("Mileage", "").strip()
-    if mileage_str == "":
-        mileage = 50000  # Default mileage if empty
-    else:
-        numbers = re.findall(r'\d+', mileage_str)
-        mileage = int("".join(numbers)) if numbers else 50000
-
-    cur.execute(f"""INSERT INTO trucks (
-            maker,
-            model,
-            variant,
-            transmission,
-            engine,
-            year,
-            mileage,
-            price
-        )
-        VALUES (
-            '{str(truck["Maker"])}',
-            '{str(truck["Model"])}',
-            'NULL',
-            '{str(truck["Transmission"])}',
-            '{str(truck["Fuel Type"])}',
-            2022,
-            {mileage},
-            {vehicle_price}
-            )
-    """)
-    
-# AUTO MART
-with open('./formatted_scraped_data/automart_data.json', 'r') as file4:
-    data4 = json.load(file4)
-
-for truck in data4:
-    mileage_str = truck.get("Mileage", "").strip()
-    if mileage_str == "":
-        mileage = 50000  # Default mileage if empty
-    else:
-        numbers = re.findall(r'\d+', mileage_str)
-        mileage = int("".join(numbers)) if numbers else 50000
-    
-    transmission = truck.get("Transmission Type", "NULL")
-    fuel_type = truck.get("Fuel Type", "NULL")
-    maker = truck.get("Maker", "NULL")
-    model = truck.get("Model", "NULL")
-    variant = truck.get("Variant", "NULL")
-
-    cur.execute(f"""INSERT INTO trucks (
-            maker,
-            model,
-            variant,
-            transmission,
-            engine,
-            year,
-            mileage,
-            price
-        )
-        VALUES (
-            '{str(truck["Maker"])}',
-            '{str(truck["Model"])}',
-            'NULL',
-            '{transmission}',
-            '{fuel_type}',
-            '{str(truck["Model Year"])}',
-            {mileage},
-            {truck["Vehicle Price"]}
-            )
-    """)
-    
-# # PHILMOTORS
-# with open('./formatted_scraped_data/philmotors_data.json', 'r') as file5:
-#     data5 = json.load(file5)
-
-# for truck in data5:
-#     mileage_str = truck.get("Mileage", "").strip()
-#     if mileage_str == "":
-#         mileage = 50000  # Default mileage if empty
-#     else:
-#         numbers = re.findall(r'\d+', mileage_str)
-#         mileage = int("".join(numbers)) if numbers else 50000
-    
-#     vehicle_price = truck.get("Vehicle Price", "").replace("\\u20b", "").replace(",", "").strip()
-#     try:
-#         vehicle_price = int(vehicle_price)
-#     except ValueError:
-#         vehicle_price = 0
-
-#     transmission = truck.get("Transmission Type", "NULL")
-#     fuel_type = truck.get("Fuel Type", "NULL")
-#     maker = truck.get("Maker", "NULL")
-#     model = truck.get("Model", "NULL").split("|")[0].strip()
-#     variant = truck.get("Variant", "NULL")
-
-#     cur.execute(f"""INSERT INTO trucks (
+with open('./formatted_scraped_data/used_motorcycles.json', 'r') as file1:
+#     data1 = json.load(file1)
+# for motor in data1:
+#     cur.execute(f"""INSERT INTO motors (
 #             maker,
 #             model,
 #             variant,
@@ -180,18 +12,13 @@ for truck in data4:
 #             price
 #         )
 #         VALUES (
-#             '{str(truck["Maker"])}',
-#             '{str(truck["Model"])}',
+#             '{str(motor["Maker"])}',
+#             '{str(motor["Model"])}',
+#             '{str(motor["Variant"])}',
 #             'NULL',
-#             '{transmission}',
-#             '{fuel_type}',
-#             '{str(truck["Model Year"].replace(" Year", ""))}',
-#             {mileage},
-#             {vehicle_price}
+#             'NULL',
+#             '{str(motor["Year"])}',
+#             '{str(motor["Mileage"])}',
+#             '{str(motor["Price"])}'
 #             )
 #     """)
-
-conn.commit()
-
-cur.close()
-conn.close()
