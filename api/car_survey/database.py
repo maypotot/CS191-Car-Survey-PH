@@ -251,6 +251,111 @@ for motor in data:
             {price}
             )
     """)
+    
+# carousell
+with open('./formatted_scraped_data/carousell_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    vehicle_price = motor["Price"]
+    if vehicle_price:  
+        vehicle_price = re.search(r"\d{1,3}(?:,\d{3})*", vehicle_price)  # Match first number
+        if vehicle_price:
+            vehicle_price = int(vehicle_price.group().replace(",", ""))  
+        else:
+            vehicle_price = -1 
+    else:
+        vehicle_price = -1 
+    
+    maker = str(motor.get("Brand", "NULL"))
+    model = str(motor.get("Model", "NULL"))  
+    transmission = str(motor.get("Transmission", "NULL"))  
+    year = motor.get("Year", -1)
+    mileage = motor.get("Mileage", "NULL")
+    if mileage == "NULL":
+        vehicle_mileage = -1  
+    else:
+        vehicle_mileage = int(mileage.replace(" km", "").split("-")[1].strip().replace(",", ""))
+
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{maker}',
+            '{model}',
+            'NULL',
+            '{transmission}',
+            'NULL',
+            {year},
+            {vehicle_mileage},
+            {vehicle_price}
+            )
+    """)
+
+# motodeal
+with open('./formatted_scraped_data/motodeal_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    vehicle_price = motor["Price"].split("-")[0].replace(",", "").strip()
+    if vehicle_price == "":
+        price = -1
+    else:
+        numbers = re.findall(r'\d+', vehicle_price)
+        price = int("".join(numbers)) if numbers else -1
+
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            '{str(motor["Transmission"])}',
+            'NULL',
+            {int(motor["Year"])},
+            -1,
+            {price}
+            )
+    """)
+    
+# sbfinance
+with open('./formatted_scraped_data/sbfinance_updated.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Brand"])}',
+            '{str(motor["Model"])}',
+            '{str(motor["Variant"])}',
+            'NULL',
+            'NULL',
+            -1,
+            '{round(motor["Mileage"]) if motor["Mileage"] is not None else -1}',
+            '{round(motor["Price"]) if motor["Price"] is not None else -1}'
+            )
+    """)
 
 conn.commit()
 

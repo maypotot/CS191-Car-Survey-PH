@@ -11,7 +11,7 @@
         "Model": "CLICK",
         "Mileage": 4044.0,
         "Price": 54054.0,
-        "Variant": "125I*The availability of units listed is subject to change without prior notice."
+        "Variant": "125I"
     },
     {
         "Brand": "SUZUKI",
@@ -109,14 +109,14 @@
         "Model": "XRM125",
         "Mileage": 14851.0,
         "Price": 46794.0,
-        "Variant": "DUAL SPORTS (DS) | CFT125MSM"
+        "Variant": "CFT125MSM"
     },
     {
         "Brand": "YAMAHA",
         "Model": "MIO",
         "Mileage": 5747.0,
         "Price": 49434.0,
-        "Variant": "SPORTY | 40CB/CC"
+        "Variant": "40CB/CC"
     },
     {
         "Brand": "YAMAHA",
@@ -172,7 +172,7 @@
         "Model": "BEAT",
         "Mileage": 4076.0,
         "Price": 47454.0,
-        "Variant": "FI ESP (STANDARD)"
+        "Variant": "FI ESP"
     },
     {
         "Brand": "TVS",
@@ -326,7 +326,7 @@
         "Model": "RE",
         "Mileage": 17776.0,
         "Price": 131266.3,
-        "Variant": "| ALL NEW C1AU02"
+        "Variant": "C1AU02"
     },
     {
         "Brand": "SUZUKI",
