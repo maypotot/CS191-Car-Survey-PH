@@ -1,0 +1,306 @@
+[
+    {
+        "Maker": "SHERCO",
+        "Model": "250",
+        "Variants": "SE-F 2T FACTORY",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 660000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "250",
+        "Variants": "SX-F",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 728000.0
+    },
+    {
+        "Maker": "SHERCO",
+        "Model": "300",
+        "Variants": "SE-F 2T FACTORY",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 680000.0
+    },
+    {
+        "Maker": "SHERCO",
+        "Model": "300",
+        "Variants": "SEF-F 4T FACTORY",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 740000.0
+    },
+    {
+        "Maker": "SHERCO",
+        "Model": "450",
+        "Variants": "SEF-F 4T FACTORY",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 755000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV150",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 154280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "AIRBLADE",
+        "Variants": "150",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 113280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "AIRBLADE",
+        "Variants": "160",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 129280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "BEAT",
+        "Variants": "Fi PLAYFUL (STD)",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 75280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "BEAT",
+        "Variants": "Fi STD Premium",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 76780.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "BEAT",
+        "Variants": "STREET FI STD",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 74280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 187280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variants": "REPSOL",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 158380.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK125I",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84780.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK150I",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 103280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF150L",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 147900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250L",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 236280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250RL",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 288280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "GENIO",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 76280.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX450",
+        "Variants": "(KX450J)",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 501500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO",
+        "Variants": "AEROX (BRW6)",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 125350.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX",
+        "Variants": "ABS BKT4",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 154000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX150",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 137280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "RS125",
+        "Variants": "FI",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 77280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "SUPRA",
+        "Variants": "GTR150",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 110280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX",
+        "Variants": "SUPREMO 3RD GEN",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 82280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX125",
+        "Variants": "ALPHA",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 60280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "WAVE",
+        "Variants": "110 ALPHA CAST",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 52080.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "WAVE",
+        "Variants": "110 ALPHA SPOKE",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 51080.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "WAVE",
+        "Variants": "110R (DISC BRAKE)",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 64280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XR150L",
+        "Variants": "",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 100280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variants": "DS",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 75280.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variants": "DSX FI",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 78780.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variants": "MOTARD FI",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 80280.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZ125X",
+        "Variants": "BRX3",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 428000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZ250",
+        "Variants": "BCRB",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 415500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZ250F",
+        "Variants": "BSB4",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 498500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZ450F",
+        "Variants": "BHRB",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 587000.0
+    }
+]
