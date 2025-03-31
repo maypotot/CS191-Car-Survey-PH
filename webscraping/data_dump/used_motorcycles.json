@@ -1,0 +1,482 @@
+[
+    {
+        "Maker": "Honda",
+        "Model": "Bigbike",
+        "Variant": "NC750X Acquired",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 43000000
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK",
+        "Variant": "125 V2",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 5250000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox",
+        "Variant": "V1",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 8900000
+    },
+    {
+        "Maker": "Rusi",
+        "Model": "Classic",
+        "Variant": "250 Carb",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 7000000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "mio",
+        "Variant": "soul i 115 f.i",
+        "Year": 2014,
+        "Mileage": -1,
+        "Price": 3500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV160",
+        "Variant": -1,
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 14480000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO",
+        "Variant": "I MODEL",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 3700000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "125i V2",
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 4500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150r",
+        "Variant": "V1",
+        "Year": 2010,
+        "Mileage": -1,
+        "Price": 5500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "adv",
+        "Variant": "150",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 10500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Tmx125",
+        "Variant": -1,
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 4100000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX",
+        "Variant": "160cc",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 9800000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Xtown",
+        "Variant": "300i",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 12800000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox",
+        "Variant": "V1",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 8500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "v3 125i",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 6500000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer",
+        "Variant": "155fi model",
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 5500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "click",
+        "Variant": "v4",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 8100000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variant": -1,
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 12900000
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO",
+        "Variant": "I 125 M3",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 3300000
+    },
+    {
+        "Maker": "CF",
+        "Model": "MOTO",
+        "Variant": "NK 400 V3",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 15000000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "DTX360",
+        "Variant": "300cc",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 19000000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider",
+        "Variant": "150 carb",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 9000000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke",
+        "Variant": "200",
+        "Year": 2018,
+        "Mileage": -1,
+        "Price": 13000000
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK",
+        "Variant": "125 V2",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 5250000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX",
+        "Variant": "V1 ABS",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 8800000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox",
+        "Variant": "v2 abs limited edition",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 12000000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Aerox",
+        "Variant": "V2 S ABS (keyless) -22",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 9800000
+    },
+    {
+        "Maker": "Sniper",
+        "Model": "150",
+        "Variant": "V2",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 9500000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX",
+        "Variant": "v2",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 10500000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "400",
+        "Variant": "Xciting S",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 25000000
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NMAX",
+        "Variant": "V1 155",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 8300000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "160",
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 9500000
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "AEROX",
+        "Variant": "155 ABS",
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 12000000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Sporty",
+        "Year": 2018,
+        "Mileage": -1,
+        "Price": 3000000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV150",
+        "Variant": "AL",
+        "Year": 2020,
+        "Mileage": -1,
+        "Price": 14000000
+    },
+    {
+        "Maker": "NK400",
+        "Model": "V3",
+        "Variant": -1,
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 14000000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "wave",
+        "Variant": "100",
+        "Year": 2012,
+        "Mileage": -1,
+        "Price": 2300000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX",
+        "Variant": "V2",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 11400000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX",
+        "Variant": "Abs 160cc",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 12500000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "kx250F",
+        "Variant": -1,
+        "Year": 2014,
+        "Mileage": -1,
+        "Price": 19000000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "mio",
+        "Variant": "sporty",
+        "Year": 2016,
+        "Mileage": -1,
+        "Price": 3200000
+    },
+    {
+        "Maker": "BMC",
+        "Model": "Teammachine",
+        "Variant": "SLR 01 FOUR Road Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 28057000
+    },
+    {
+        "Maker": "BMC",
+        "Model": "Teammachine",
+        "Variant": "SLR 01 ONE Road Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 47696900
+    },
+    {
+        "Maker": "Scott",
+        "Model": "Foil",
+        "Variant": "Rc Pro Road Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 29179200
+    },
+    {
+        "Maker": "BMC",
+        "Model": "Fourstroke",
+        "Variant": "LT LTD Mountain Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 39279800
+    },
+    {
+        "Maker": "BMC",
+        "Model": "Fourstroke",
+        "Variant": "01 LTD Mountain Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 42646600
+    },
+    {
+        "Maker": "Scott",
+        "Model": "Contessa",
+        "Variant": "Ransom 910 Mountain Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 25812400
+    },
+    {
+        "Maker": "Scott",
+        "Model": "Ransom",
+        "Variant": "910 Mountain Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 25812400
+    },
+    {
+        "Maker": "Scott",
+        "Model": "Ransom",
+        "Variant": "900 Rc Mountain Bike",
+        "Year": 2024,
+        "Mileage": -1,
+        "Price": 32546100
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "AEROX",
+        "Variant": "V1 Keyless",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 7749900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX",
+        "Variant": "ABS V2",
+        "Year": 2023,
+        "Mileage": -1,
+        "Price": 13000000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "150i V2",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 5599900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150",
+        "Variant": -1,
+        "Year": 2022,
+        "Mileage": -1,
+        "Price": 11500000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-10",
+        "Variant": "Akrapovic Full Exhaust Loaded",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 75800000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "F900",
+        "Variant": "R",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 60000000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke",
+        "Variant": "390 V2",
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 18000000
+    },
+    {
+        "Maker": "MIO",
+        "Model": "i",
+        "Variant": "125",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 4500
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke",
+        "Variant": "390",
+        "Year": 2014,
+        "Mileage": -1,
+        "Price": 12999900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Pcx",
+        "Variant": "150 10k odo",
+        "Year": 2018,
+        "Mileage": -1,
+        "Price": 7700000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC200",
+        "Variant": -1,
+        "Year": 2019,
+        "Mileage": -1,
+        "Price": 12000000
+    }
+]
