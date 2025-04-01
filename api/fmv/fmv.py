@@ -10,7 +10,7 @@ import psycopg2
 def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, input_variant: str = "", input_mileage: int = -1, 
                 input_transmission: str = "", input_fuel: str = "", vehicle_type: str = "motors"):
     # Getting data from database
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -44,7 +44,7 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
             continue
         if mileage < input_mileage - 5000 and mileage > input_mileage + 5000  and not input_mileage == -1:
             continue
-        if model_year <= 0 :
+        if model_year <= 100:
             continue
         scarped_vehicle["model"] = model
         scarped_vehicle["maker"] = maker
@@ -87,32 +87,32 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
     fmv_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    plt.figure(figsize=(10, 6))
-    scatter_years = [year for year in years if year in scraped_data]
-    for year in scatter_years:
-        for price in scraped_data[year]:
-            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
+    # plt.figure(figsize=(10, 6))
+    # scatter_years = [year for year in years if year in scraped_data]
+    # for year in scatter_years:
+    #     for price in scraped_data[year]:
+    #         plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    plt.xlabel("Year")
-    plt.ylabel("FMV")
-    plt.title("Interpolated FMV of Motor (Polynomial Regression)")
-    plt.legend()
-    plt.grid(True, linestyle="--", alpha=0.5)
+    # plt.xlabel("Year")
+    # plt.ylabel("Price")
+    # plt.title("Interpolated FMV of Motor (Polynomial Regression)")
+    # plt.legend()
+    # plt.grid(True, linestyle="--", alpha=0.5)
 
-    plt.show()
+    # plt.show()
     return predicted_year[0], fmv_interp
 
-input_maker = "Honda"
-input_model = "TMX 125A"
-input_year = 2024
+# input_maker = "Honda"
+# input_model = "Click 125i"
+# input_year = 2024
 # input_variant = "ABS"
 # input_mileage = 55000
 # input_transmission = "Manual"
 # input_fuel = "Gasoline"
 
-predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model=input_model, input_year=input_year)
+# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model=input_model, input_year=input_year)
 # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 # print(predicted_fmv_lst[10])
 
