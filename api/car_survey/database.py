@@ -2,6 +2,7 @@ import psycopg2
 import re
 import json
 
+# conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "gaesunflower6283")
 conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
 cur = conn.cursor()
 

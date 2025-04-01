@@ -1,3 +1,4 @@
+from turtle import mode
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
@@ -42,6 +43,8 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
             continue
         if mileage < input_mileage - 5000 and mileage > input_mileage + 5000  and not input_mileage == -1:
             continue
+        if model_year <= 0 :
+            continue
         scarped_vehicle["model"] = model
         scarped_vehicle["maker"] = maker
         scarped_vehicle["variant"] = variant
@@ -67,9 +70,8 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
                 scraped_data[year].append(vehicle["price"])
 
 
-    X = np.concatenate([[year] * len(scraped_data[year]) for year in years]).reshape(-1, 1)
-    print(X.shape, len(scraped_data))
-    y = np.concatenate([scraped_data[year] for year in years])  
+    X = np.concatenate([[year] * len(scraped_data[year]) for year in years if year in scraped_data]).reshape(-1, 1)
+    y = np.concatenate([scraped_data[year] for year in years if year in scraped_data])  
 
     degree = 3 
     poly = PolynomialFeatures(degree=degree)
@@ -78,38 +80,40 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
     model = LinearRegression()
     model.fit(X_poly, y)
 
-    years_interp = np.linspace(model_year, 2025, 300).reshape(-1, 1) 
+    years_interp = np.linspace(min_year, 2025, 300).reshape(-1, 1) 
 
     X_interp_poly = poly.transform(years_interp) 
     fmv_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    # plt.figure(figsize=(10, 6))
-    # for i, year in enumerate(years):
-    #     plt.scatter(np.full_like(scraped_data[year], year), scraped_data[year], alpha=0.3, s=8)
+    plt.figure(figsize=(10, 6))
+    scatter_years = [year for year in years if year in scraped_data]
+    for year in scatter_years:
+        for price in scraped_data[year]:
+            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    # plt.xlabel("Year")
-    # plt.ylabel("FMV")
-    # plt.title("Interpolated FMV of Trucks (Polynomial Regression)")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
+    plt.xlabel("Year")
+    plt.ylabel("FMV")
+    plt.title("Interpolated FMV of Motor (Polynomial Regression)")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
 
-    # plt.show()
+    plt.show()
     return predicted_year[0], fmv_interp
 
-input_maker = "Honda"
-input_model = "Airblade160"
-input_year = 2024
-input_variant = "ABS"
-input_mileage = 55000
-input_transmission = "Manual"
-input_fuel = "Gasoline"
+# input_maker = "Honda"
+# input_model = "Airblade160"
+# input_year = 2024
+# input_variant = "ABS"
+# input_mileage = 55000
+# input_transmission = "Manual"
+# input_fuel = "Gasoline"
 
-predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
-# print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
-print(predicted_fmv_lst[10])
+# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
+# # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+# print(predicted_fmv_lst[10])
 
 
 

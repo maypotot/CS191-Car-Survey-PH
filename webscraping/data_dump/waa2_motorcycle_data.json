@@ -1,0 +1,2399 @@
+[
+    {
+        "Vehicle Price": "5550000",
+        "Maker": "Daewoo",
+        "Model Year": "2018",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "5950000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3500000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3600000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3950000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3950000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3950000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "5950000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3390000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3600000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3500000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3500000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3500000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10000",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "170000",
+        "Maker": "Hyundai",
+        "Model Year": "2018",
+        "Mileage": "14383",
+        "Transmission": "Manual",
+        "Model": "Eon",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "290000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2009",
+        "Transmission": "Automatic",
+        "Model": "Lancer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "775000",
+        "Maker": "Mazda",
+        "Model Year": "2018",
+        "Mileage": "84",
+        "Transmission": "Automatic",
+        "Model": "Bt-50",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "775000",
+        "Maker": "Mazda",
+        "Model Year": "2019",
+        "Mileage": "85",
+        "Transmission": "Automatic",
+        "Model": "Bt-50",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "625000",
+        "Maker": "Hyundai",
+        "Model Year": "2012",
+        "Mileage": "40000",
+        "Transmission": "Automatic",
+        "Model": "Sonata",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "270000",
+        "Maker": "Chevrolet",
+        "Model Year": "2012",
+        "Mileage": "50000",
+        "Transmission": "Automatic",
+        "Model": "Spark",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "510000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "29000",
+        "Transmission": "Automatic",
+        "Model": "Vios",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "489500",
+        "Maker": "Mitsubishi",
+        "Model Year": "2015",
+        "Mileage": "18955",
+        "Transmission": "Automatic",
+        "Model": "Lancer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "219000",
+        "Maker": "Hyundai",
+        "Model Year": "1999",
+        "Mileage": "110000",
+        "Transmission": "Manual",
+        "Model": "Starex",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "144000",
+        "Maker": "Honda",
+        "Model Year": "1998",
+        "Mileage": "45913",
+        "Transmission": "Automatic",
+        "Model": "Cr-v",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "90000",
+        "Maker": "Nissan",
+        "Model Year": "1990",
+        "Transmission": "Manual",
+        "Model": "Cefiro",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "345000",
+        "Maker": "Toyota",
+        "Model Year": "2009",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "100000",
+        "Maker": "Suzuki",
+        "Model Year": "2012",
+        "Transmission": "Manual",
+        "Model": "Multi-cab",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "90000",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Mileage": "130000",
+        "Transmission": "Manual",
+        "Model": "Corolla",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "75000",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Transmission": "Manual",
+        "Model": "Corolla",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "40000",
+        "Maker": "Suzuki",
+        "Model Year": "2012",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "2012",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Kia",
+        "Model Year": "2004",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Kia",
+        "Model Year": "2004",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "600000",
+        "Maker": "Ford",
+        "Model Year": "1995",
+        "Transmission": "Automatic",
+        "Model": "Mustang",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "199999",
+        "Maker": "Ford",
+        "Model Year": "2019",
+        "Mileage": "10000",
+        "Transmission": "Automatic",
+        "Model": "Ranger",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "245000",
+        "Maker": "Hyundai",
+        "Model Year": "2009",
+        "Mileage": "95000",
+        "Transmission": "Manual",
+        "Model": "Getz",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "120000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "21000",
+        "Transmission": "Manual",
+        "Model": "Wigo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "135000",
+        "Maker": "Kia",
+        "Model Year": "1997",
+        "Mileage": "127335",
+        "Transmission": "Manual",
+        "Model": "Sportage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "100000",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Transmission": "Manual",
+        "Type of fuel": "Diesel",
+        "Model": "Crown",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "540000",
+        "Maker": "Kia",
+        "Model Year": "2012",
+        "Mileage": "47000",
+        "Transmission": "Automatic",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "855000",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Mileage": "30000",
+        "Transmission": "Automatic",
+        "Model": "Soarer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "129000",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Kijang",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "130000",
+        "Maker": "Suzuki",
+        "Transmission": "Manual",
+        "Model": "Multi-cab",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Suzuki",
+        "Model Year": "2009",
+        "Mileage": "53000",
+        "Transmission": "Manual",
+        "Model": "Alto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Hyundai",
+        "Model Year": "2013",
+        "Mileage": "69000",
+        "Transmission": "Automatic",
+        "Model": "Elantra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "580000",
+        "Maker": "Kia",
+        "Model Year": "2013",
+        "Mileage": "110000",
+        "Transmission": "Automatic",
+        "Type of fuel": "Diesel",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "580000",
+        "Maker": "Kia",
+        "Model Year": "2013",
+        "Mileage": "110000",
+        "Transmission": "Automatic",
+        "Type of fuel": "Diesel",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "179000",
+        "Maker": "Nissan",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Cefiro",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "2018",
+        "Transmission": "Automatic",
+        "Model": "Vios",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Suzuki",
+        "Model Year": "2010",
+        "Mileage": "25000",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Carry",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Suzuki",
+        "Model Year": "2010",
+        "Mileage": "25000",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Carry",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "150000",
+        "Maker": "Honda",
+        "Model Year": "1997",
+        "Mileage": "110000",
+        "Transmission": "Manual",
+        "Model": "Accord",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "265000",
+        "Maker": "Honda",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Civic",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "80000",
+        "Maker": "Opel",
+        "Model Year": "1999",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Tigra",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "350000",
+        "Maker": "Subaru",
+        "Model Year": "2013",
+        "Mileage": "75000",
+        "Transmission": "Combination",
+        "Type of fuel": "Petrol",
+        "Model": "Forester",
+        "Transmission Type": "Combination",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "888000",
+        "Maker": "Isuzu",
+        "Model Year": "2022",
+        "Mileage": "53000",
+        "Transmission": "Manual",
+        "Model": "Traviz",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "350000",
+        "Maker": "Subaru",
+        "Model Year": "2013",
+        "Mileage": "75000",
+        "Transmission": "Combination",
+        "Type of fuel": "Petrol",
+        "Model": "Forester",
+        "Transmission Type": "Combination",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "455000",
+        "Maker": "Toyota",
+        "Model Year": "2020",
+        "Transmission": "Automatic",
+        "Model": "Wigo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "120000",
+        "Maker": "Kia",
+        "Model Year": "2017",
+        "Transmission": "Automatic",
+        "Model": "Picanto",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Transmission": "Automatic",
+        "Model": "Celerio",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "324000",
+        "Maker": "Nissan",
+        "Model Year": "2015",
+        "Mileage": "36000",
+        "Transmission": "Manual",
+        "Model": "Almera",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1699000",
+        "Maker": "Subaru",
+        "Model Year": "2015",
+        "Mileage": "20000",
+        "Transmission": "Manual",
+        "Model": "Wrx",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "65000",
+        "Maker": "Nissan",
+        "Model Year": "1995",
+        "Type of fuel": "Petrol",
+        "Model": "Sentra",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Toyota",
+        "Model Year": "1997",
+        "Transmission": "Automatic",
+        "Model": "Altis",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "1980000",
+        "Maker": "Audi",
+        "Model Year": "2016",
+        "Mileage": "26000",
+        "Transmission": "Automatic",
+        "Model": "A6",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "147500",
+        "Maker": "Mitsubishi",
+        "Model Year": "2000",
+        "Transmission": "Manual",
+        "Model": "Lancer",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1258000",
+        "Maker": "Ford",
+        "Model Year": "2016",
+        "Transmission": "Automatic",
+        "Model": "Everest",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Chevrolet",
+        "Model Year": "2004",
+        "Type of fuel": "Petrol",
+        "Model": "Aveo",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "120000",
+        "Maker": "Nissan",
+        "Model Year": "1993",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Sentra",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "450000",
+        "Maker": "Chevrolet",
+        "Model Year": "1993",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Camaro",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "220000",
+        "Maker": "Hyundai",
+        "Model Year": "2011",
+        "Transmission": "Automatic",
+        "Model": "Tucson",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "188000",
+        "Maker": "Kia",
+        "Model Year": "2008",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Rio",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "750000",
+        "Maker": "Kia",
+        "Model Year": "2012",
+        "Mileage": "60000",
+        "Transmission": "Automatic",
+        "Model": "Sorento",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "82000",
+        "Maker": "Ford",
+        "Model Year": "2000",
+        "Mileage": "170000",
+        "Transmission": "Manual",
+        "Model": "Lynx",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "139000",
+        "Maker": "Honda",
+        "Model Year": "2001",
+        "Mileage": "180000",
+        "Transmission": "Automatic",
+        "Model": "Accord",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "290000",
+        "Maker": "Ford",
+        "Model Year": "2012",
+        "Mileage": "30000",
+        "Transmission": "Automatic",
+        "Model": "Fiesta",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "80000",
+        "Maker": "Lifan",
+        "Model Year": "2010",
+        "Mileage": "40000",
+        "Transmission": "Manual",
+        "Model": "320",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "230500",
+        "Maker": "Mazda",
+        "Model Year": "2005",
+        "Mileage": "101000",
+        "Transmission": "Automatic",
+        "Model": "3",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "235500",
+        "Maker": "Honda",
+        "Model Year": "2006",
+        "Mileage": "76000",
+        "Transmission": "Manual",
+        "Model": "City",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "280000",
+        "Maker": "Ford",
+        "Model Year": "2003",
+        "Mileage": "170000",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "20531",
+        "Transmission": "Automatic",
+        "Model": "Mirage",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2011",
+        "Mileage": "167695",
+        "Transmission": "Automatic",
+        "Model": "Montero",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2010",
+        "Mileage": "226456",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "488000",
+        "Maker": "Toyota",
+        "Model Year": "2017",
+        "Mileage": "7000",
+        "Transmission": "Automatic",
+        "Model": "Wigo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "130000",
+        "Maker": "Honda",
+        "Model Year": "1998",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Civic",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "390000",
+        "Maker": "Isuzu",
+        "Model Year": "2007",
+        "Mileage": "96000",
+        "Transmission": "Automatic",
+        "Model": "Alterra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "2450000",
+        "Maker": "Jeep",
+        "Model Year": "2015",
+        "Mileage": "30000",
+        "Transmission": "Automatic",
+        "Model": "Wrangler",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "2450000",
+        "Maker": "Jeep",
+        "Model Year": "2015",
+        "Mileage": "30000",
+        "Transmission": "Automatic",
+        "Model": "Wrangler",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "165000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2007",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Pajero",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "330000",
+        "Maker": "Ford",
+        "Model Year": "2010",
+        "Mileage": "110000",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "140000",
+        "Maker": "Toyota",
+        "Model Year": "1997",
+        "Transmission": "Automatic",
+        "Model": "Altis",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "268000",
+        "Maker": "Toyota",
+        "Model Year": "2011",
+        "Mileage": "50000",
+        "Transmission": "Automatic",
+        "Model": "Yaris",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "1600000",
+        "Maker": "Kia",
+        "Model Year": "2013",
+        "Mileage": "111000",
+        "Transmission": "Automatic",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "100000",
+        "Maker": "Mitsubishi",
+        "Model Year": "1994",
+        "Transmission": "Manual",
+        "Model": "Lancer",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "286000",
+        "Maker": "Subaru",
+        "Model Year": "2002",
+        "Mileage": "130000",
+        "Transmission": "Automatic",
+        "Model": "Forester",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "230888",
+        "Maker": "Suzuki",
+        "Model Year": "2015",
+        "Mileage": "29000",
+        "Transmission": "Manual",
+        "Model": "Alto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "375000",
+        "Maker": "Chevrolet",
+        "Model Year": "2011",
+        "Transmission": "Automatic",
+        "Model": "Captiva",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "780000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2012",
+        "Mileage": "122000",
+        "Transmission": "Automatic",
+        "Model": "Strada",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Toyota",
+        "Model Year": "2011",
+        "Mileage": "66383",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "165000",
+        "Maker": "Mitsubishi",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Lancer",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "410000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "3040",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "260000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "126857",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "270000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "17010",
+        "Transmission": "Automatic",
+        "Model": "Mirage",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "280000",
+        "Maker": "Suzuki",
+        "Model Year": "2017",
+        "Mileage": "2707",
+        "Transmission": "Manual",
+        "Model": "Swift",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "14593",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "500000",
+        "Maker": "Peugeot",
+        "Model Year": "2015",
+        "Mileage": "25667",
+        "Transmission": "Automatic",
+        "Model": "308",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Bmw",
+        "Model Year": "2005",
+        "Mileage": "79616",
+        "Transmission": "Automatic",
+        "Model": "318i",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "350000",
+        "Maker": "Hyundai",
+        "Model Year": "2017",
+        "Mileage": "2246",
+        "Transmission": "Automatic",
+        "Model": "Elantra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "500000",
+        "Maker": "Peugeot",
+        "Model Year": "2014",
+        "Mileage": "24464",
+        "Transmission": "Automatic",
+        "Model": "508",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "750000",
+        "Maker": "Nissan",
+        "Model Year": "2016",
+        "Mileage": "6402",
+        "Transmission": "Automatic",
+        "Model": "X-trail",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "15826",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "700000",
+        "Maker": "Chevrolet",
+        "Model Year": "2016",
+        "Mileage": "30501",
+        "Transmission": "Automatic",
+        "Model": "Trailblazer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "220000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "4470",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "480000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2015",
+        "Mileage": "57178",
+        "Transmission": "Automatic",
+        "Model": "Montero",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "500000",
+        "Maker": "Hyundai",
+        "Model Year": "2015",
+        "Mileage": "110373",
+        "Transmission": "Manual",
+        "Model": "Grand starex",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Mileage": "153617",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "800000",
+        "Maker": "Chevrolet",
+        "Model Year": "2016",
+        "Mileage": "30501",
+        "Transmission": "Automatic",
+        "Model": "Trailblazer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "450000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "14362",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "230000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "220000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "5794",
+        "Transmission": "Automatic",
+        "Model": "Mirage",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Suzuki",
+        "Model Year": "2017",
+        "Mileage": "2707",
+        "Transmission": "Manual",
+        "Model": "Swift",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "800000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2016",
+        "Mileage": "16416",
+        "Transmission": "Manual",
+        "Model": "Montero",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "850000",
+        "Maker": "Hyundai",
+        "Model Year": "2018",
+        "Mileage": "3493",
+        "Transmission": "Manual",
+        "Model": "Grand starex",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "368000",
+        "Maker": "Ford",
+        "Model Year": "2005",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Expedition",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Kia",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Picanto",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Kia",
+        "Model Year": "2006",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Picanto",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "275000",
+        "Maker": "Ford",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "285000",
+        "Maker": "Ford",
+        "Model Year": "2006",
+        "Mileage": "100000",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "385000",
+        "Maker": "Ford",
+        "Model Year": "2005",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Expedition",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "159005",
+        "Maker": "Kia",
+        "Model Year": "2008",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "140000",
+        "Maker": "Nissan",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Cefiro",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "165000",
+        "Maker": "Mitsubishi",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Lancer",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "1295000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "65000",
+        "Model": "Montero"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2008",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Pajero",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "700000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "55221",
+        "Transmission": "Manual",
+        "Model": "Land cruiser",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "700000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "55221",
+        "Transmission": "Manual",
+        "Model": "Land cruiser",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "480000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2012",
+        "Mileage": "90286",
+        "Transmission": "Manual",
+        "Model": "Montero",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "700000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "60000",
+        "Transmission": "Manual",
+        "Model": "Land cruiser",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "45181",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2013",
+        "Mileage": "90286",
+        "Transmission": "Manual",
+        "Model": "Montero",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "205000",
+        "Maker": "Honda",
+        "Model Year": "2002",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Civic",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "95000",
+        "Maker": "Toyota",
+        "Model Year": "1995",
+        "Transmission": "Manual",
+        "Model": "Corolla",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "335000",
+        "Maker": "Honda",
+        "Model Year": "2012",
+        "Mileage": "66000",
+        "Transmission": "Automatic",
+        "Model": "Civic",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "275000",
+        "Maker": "Hyundai",
+        "Model Year": "2012",
+        "Mileage": "40000",
+        "Transmission": "Manual",
+        "Model": "I10",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "185000",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Transmission": "Automatic",
+        "Model": "Funcargo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "175000",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Mileage": "130000",
+        "Transmission": "Automatic",
+        "Model": "Echo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "1997",
+        "Transmission": "Automatic",
+        "Model": "Rav 4",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "800000",
+        "Maker": "Honda",
+        "Mileage": "80000",
+        "Transmission": "Manual",
+        "Model": "Integra",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "455000",
+        "Maker": "Honda",
+        "Model Year": "2012",
+        "Mileage": "49000",
+        "Transmission": "Automatic",
+        "Model": "Jazz",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "48000",
+        "Maker": "Kia",
+        "Model Year": "1997",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Pride",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "430000",
+        "Maker": "Toyota",
+        "Model Year": "2008",
+        "Transmission": "Manual",
+        "Model": "Hilux",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1199000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "40000",
+        "Transmission": "Automatic",
+        "Model": "Fortuner",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "240000",
+        "Maker": "Toyota",
+        "Model Year": "2005",
+        "Mileage": "78000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Toyota",
+        "Model Year": "2011",
+        "Transmission": "Automatic",
+        "Model": "Funcargo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "260000",
+        "Maker": "Chevrolet",
+        "Model Year": "2014",
+        "Mileage": "50000",
+        "Transmission": "Automatic",
+        "Model": "Spark",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "2018",
+        "Mileage": "60000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Toyota",
+        "Model Year": "2009",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Hiace",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "10000",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "480000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "62196",
+        "Transmission": "Manual",
+        "Model": "L300",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Hyundai",
+        "Model Year": "2017",
+        "Mileage": "10000",
+        "Transmission": "Manual",
+        "Model": "Elantra",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Corolla",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Suzuki",
+        "Model Year": "2015",
+        "Mileage": "25000",
+        "Transmission": "Manual",
+        "Model": "Alto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Suzuki",
+        "Model Year": "2017",
+        "Mileage": "20000",
+        "Transmission": "Manual",
+        "Model": "Celerio",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "364000",
+        "Maker": "Toyota",
+        "Model Year": "2009",
+        "Mileage": "87000",
+        "Transmission": "Automatic",
+        "Model": "Altis",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "350000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Mileage": "20000",
+        "Transmission": "Automatic",
+        "Model": "Vitara",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "1019000",
+        "Maker": "Toyota",
+        "Model Year": "2013",
+        "Mileage": "50000",
+        "Transmission": "Automatic",
+        "Model": "Fortuner",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "1279000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "30000",
+        "Transmission": "Manual",
+        "Model": "Granvia",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1869000",
+        "Maker": "Toyota",
+        "Model Year": "2019",
+        "Mileage": "20000",
+        "Transmission": "Automatic",
+        "Model": "Hiace",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "549000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "40000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1089000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "30000",
+        "Transmission": "Manual",
+        "Model": "Hiace",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1049000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "50000",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1199000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "40000",
+        "Transmission": "Automatic",
+        "Model": "Fortuner",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "699000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2018",
+        "Mileage": "20000",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Hyundai",
+        "Model Year": "2015",
+        "Mileage": "65393",
+        "Transmission": "Manual",
+        "Model": "Accent",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2016",
+        "Mileage": "58702",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "255000",
+        "Maker": "Toyota",
+        "Model Year": "2002",
+        "Transmission": "Manual",
+        "Model": "Revo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "245000",
+        "Maker": "Toyota",
+        "Model Year": "2005",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Kia",
+        "Model Year": "2004",
+        "Transmission": "Manual",
+        "Model": "Sportage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "240000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2000",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "255000",
+        "Maker": "Toyota",
+        "Model Year": "2003",
+        "Mileage": "80000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "280000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "8865",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "510000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Transmission": "Manual",
+        "Model": "Mirage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "270000",
+        "Maker": "Mazda",
+        "Model Year": "2005",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Tribute",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Isuzu",
+        "Model Year": "2007",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Trooper",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "140000",
+        "Maker": "Nissan",
+        "Model Year": "2000",
+        "Transmission": "Automatic",
+        "Model": "Sentra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "385000",
+        "Maker": "Honda",
+        "Model Year": "2009",
+        "Mileage": "70000",
+        "Transmission": "Automatic",
+        "Model": "City",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "480000",
+        "Maker": "Hyundai",
+        "Model Year": "2008",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Santa fe",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "310000",
+        "Maker": "Kia",
+        "Model Year": "2014",
+        "Mileage": "40000",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "260000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2000",
+        "Mileage": "90000",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Nissan",
+        "Model Year": "2005",
+        "Transmission": "Automatic",
+        "Model": "Terrano",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "235000",
+        "Maker": "Hyundai",
+        "Model Year": "1999",
+        "Transmission": "Automatic",
+        "Model": "Starex",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Isuzu",
+        "Model Year": "2002",
+        "Transmission": "Manual",
+        "Model": "Crosswind",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Toyota",
+        "Model Year": "2009",
+        "Transmission": "Manual",
+        "Model": "Altis",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Toyota",
+        "Model Year": "2011",
+        "Transmission": "Automatic",
+        "Model": "Funcargo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "290000",
+        "Maker": "Honda",
+        "Model Year": "2003",
+        "Mileage": "80000",
+        "Transmission": "Manual",
+        "Model": "Cr-v",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2008",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Pajero",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "4000000",
+        "Maker": "Land rover",
+        "Model Year": "2019",
+        "Mileage": "20000",
+        "Transmission": "Automatic",
+        "Model": "Evoque",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "63241",
+        "Transmission": "Manual",
+        "Model": "Wigo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "350000",
+        "Maker": "Hyundai",
+        "Model Year": "2016",
+        "Mileage": "15868",
+        "Transmission": "Automatic",
+        "Model": "Accent",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Mileage": "12236",
+        "Transmission": "Automatic",
+        "Model": "Grand vitara",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "285000",
+        "Maker": "Ford",
+        "Model Year": "2006",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Nissan",
+        "Model Year": "2005",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Sentra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Ford",
+        "Model Year": "2015",
+        "Mileage": "93716",
+        "Transmission": "Automatic",
+        "Model": "Ecosport",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "260000",
+        "Maker": "Hyundai",
+        "Model Year": "2017",
+        "Mileage": "60000",
+        "Transmission": "Automatic",
+        "Model": "Accent",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Hyundai",
+        "Model Year": "2016",
+        "Mileage": "50000",
+        "Transmission": "Manual",
+        "Model": "Accent",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "465000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "70000",
+        "Transmission": "Automatic",
+        "Model": "Avanza",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Honda",
+        "Model Year": "2017",
+        "Transmission": "Manual",
+        "Model": "City",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "400000",
+        "Maker": "Hyundai",
+        "Model Year": "2018",
+        "Mileage": "10000",
+        "Transmission": "Manual",
+        "Model": "Elantra",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "265000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "38580",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "295000",
+        "Maker": "Hyundai",
+        "Model Year": "2016",
+        "Mileage": "44128",
+        "Transmission": "Automatic",
+        "Model": "Elantra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "500000",
+        "Maker": "Ford",
+        "Model Year": "2016",
+        "Mileage": "50196",
+        "Transmission": "Automatic",
+        "Model": "Ranger",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "160000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Mileage": "50000",
+        "Transmission": "Manual",
+        "Model": "Alto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "650000",
+        "Maker": "Ford",
+        "Model Year": "2016",
+        "Mileage": "40000",
+        "Transmission": "Automatic",
+        "Model": "Escape",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Kia",
+        "Model Year": "2016",
+        "Mileage": "50000",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "320000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "7651",
+        "Transmission": "Automatic",
+        "Model": "Mirage",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "380000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "27841",
+        "Transmission": "Automatic",
+        "Model": "Adventure",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "10465",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "600000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "60000",
+        "Transmission": "Manual",
+        "Model": "Fortuner",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "150000",
+        "Maker": "Kia",
+        "Model Year": "2015",
+        "Mileage": "48986",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Suzuki",
+        "Model Year": "2017",
+        "Mileage": "2707",
+        "Transmission": "Manual",
+        "Model": "Swift",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "530000",
+        "Maker": "Peugeot",
+        "Model Year": "2015",
+        "Mileage": "18905",
+        "Transmission": "Automatic",
+        "Model": "308",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "290000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "45690",
+        "Transmission": "Automatic",
+        "Model": "Vios",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "340000",
+        "Maker": "Toyota",
+        "Model Year": "2015",
+        "Mileage": "50000",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Isuzu",
+        "Model Year": "2017",
+        "Mileage": "130000",
+        "Transmission": "Manual",
+        "Model": "Elf series",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "980000",
+        "Maker": "Ford",
+        "Model Year": "2017",
+        "Mileage": "7516",
+        "Transmission": "Manual",
+        "Model": "Escape",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "980000",
+        "Maker": "Peugeot",
+        "Model Year": "2016",
+        "Mileage": "17208",
+        "Transmission": "Automatic",
+        "Model": "208",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "800000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2016",
+        "Mileage": "16416",
+        "Transmission": "Manual",
+        "Model": "Montero",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Ford",
+        "Model Year": "2017",
+        "Mileage": "31266",
+        "Transmission": "Automatic",
+        "Model": "Ecosport",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "150000",
+        "Maker": "Suzuki",
+        "Model Year": "2017",
+        "Mileage": "31780",
+        "Transmission": "Manual",
+        "Model": "Celerio",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "15826",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "255000",
+        "Maker": "Toyota",
+        "Model Year": "2003",
+        "Mileage": "80000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "130000",
+        "Maker": "Mitsubishi",
+        "Model Year": "1999",
+        "Mileage": "65000",
+        "Transmission": "Manual",
+        "Model": "Lancer",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "300000",
+        "Maker": "Ford",
+        "Model Year": "2017",
+        "Mileage": "10324",
+        "Transmission": "Manual",
+        "Model": "Fiesta",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "11603",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "450000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2017",
+        "Mileage": "18970",
+        "Transmission": "Manual",
+        "Model": "Adventure",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "265000",
+        "Maker": "Toyota",
+        "Model Year": "2002",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Revo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "610000",
+        "Maker": "Toyota",
+        "Model Year": "2010",
+        "Mileage": "70000",
+        "Transmission": "Automatic",
+        "Model": "Innova",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "475000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Transmission": "Automatic",
+        "Model": "Avanza",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "825000",
+        "Maker": "Toyota",
+        "Model Year": "2018",
+        "Mileage": "33106",
+        "Transmission": "Automatic",
+        "Model": "Innova",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "56000",
+        "Maker": "Mazda",
+        "Model Year": "1985",
+        "Type of fuel": "Petrol",
+        "Model": "1985",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "440000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Mileage": "45000",
+        "Transmission": "Manual",
+        "Model": "Avanza",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "170000",
+        "Maker": "Ford",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Ranger",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "460000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Mileage": "45000",
+        "Transmission": "Manual",
+        "Model": "Avanza",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "245000",
+        "Maker": "Toyota",
+        "Model Year": "2002",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Revo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "245000",
+        "Maker": "Toyota",
+        "Model Year": "2000",
+        "Mileage": "100000",
+        "Transmission": "Manual",
+        "Model": "Revo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "290000",
+        "Maker": "Honda",
+        "Model Year": "2004",
+        "Mileage": "80000",
+        "Transmission": "Manual",
+        "Model": "Cr-v",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Isuzu",
+        "Model Year": "2007",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Trooper",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "270000",
+        "Maker": "Mazda",
+        "Model Year": "2005",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Tribute",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "140000",
+        "Maker": "Nissan",
+        "Model Year": "2000",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Sentra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Kia",
+        "Model Year": "2006",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Picanto",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "240000",
+        "Maker": "Toyota",
+        "Model Year": "2005",
+        "Mileage": "78000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "Ask price"
+    },
+    {
+        "Vehicle Price": "235000",
+        "Maker": "Hyundai",
+        "Model Year": "1999",
+        "Mileage": "90000",
+        "Transmission": "Automatic",
+        "Model": "Starex",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Kia",
+        "Model Year": "2016",
+        "Mileage": "41150",
+        "Transmission": "Manual",
+        "Model": "Rio",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "190000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Mileage": "40000",
+        "Transmission": "Automatic",
+        "Model": "Every",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "200000",
+        "Maker": "Nissan",
+        "Model Year": "2005",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Terrano",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "265000",
+        "Maker": "Toyota",
+        "Model Year": "2006",
+        "Mileage": "90000",
+        "Transmission": "Manual",
+        "Model": "Vios",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "395000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "30000",
+        "Transmission": "Automatic",
+        "Model": "Wigo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "235000",
+        "Maker": "Hyundai",
+        "Model Year": "2000",
+        "Mileage": "100000",
+        "Transmission": "Automatic",
+        "Model": "Starex",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "310000",
+        "Maker": "Kia",
+        "Model Year": "2015",
+        "Mileage": "42000",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "260000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2003",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Adventure",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Mileage": "80000",
+        "Transmission": "Automatic",
+        "Model": "Avanza",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "520000",
+        "Maker": "Toyota",
+        "Model Year": "2012",
+        "Mileage": "50000",
+        "Transmission": "Automatic",
+        "Model": "Avanza",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "Ask price",
+        "Maker": "Hyundai",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Getz",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180000",
+        "Maker": "Mitsubishi",
+        "Transmission": "Manual",
+        "Model": "Lancer",
+        "Transmission Type": "Manual"
+    }
+]

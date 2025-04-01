@@ -7,7 +7,7 @@ import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str = "", input_year: int = -1, input_variant: str = "", input_mileage: int = -1, 
                          input_transmission: str = "", input_fuel: str = "", vehicle_type: str = "motors"):
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -82,28 +82,29 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     depreciation_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    # plt.figure(figsize=(10, 6))
-    # plt.scatter(years, [np.mean(scraped_data[year]) for year in years if year in scraped_data], color='blue', alpha=0.5, s=10, label="Actual Data")
-    # plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.figure(figsize=(10, 6))
+    scatter_years = [year for year in years if year in scraped_data]
+    plt.scatter(scatter_years, [np.mean(scraped_data[year]) for year in years if year in scraped_data], color='blue', alpha=0.5, s=10, label="Actual Data")
+    plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
     
-    # plt.xlabel("Year")
-    # plt.ylabel("Depreciated Value (PHP)")
-    # plt.title("Interpolated Fair Market Value Depreciation of Trucks")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
+    plt.xlabel("Year")
+    plt.ylabel("Depreciated Value (PHP)")
+    plt.title("Interpolated Fair Market Value Depreciation of Trucks")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
     
-    # plt.show()
+    plt.show()
     return predicted_year[0], sorted(list(set(depreciation_interp.tolist())), reverse=True)
 
-# input_maker = "Honda"
-# input_model = "Airblade160"
+input_maker = "Honda"
+input_model = "Airblade160"
 # input_year = 2024
 # input_variant = "ABS"
 # input_mileage = 55000
 # input_transmission = "Manual"
 # input_fuel = "Gasoline"
 
-print(predict_depreciation("FUSO", vehicle_type="trucks"))
+print(predict_depreciation(input_maker, vehicle_type="trucks"))
 # predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
 # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 # print(predicted_fmv_lst[10])
