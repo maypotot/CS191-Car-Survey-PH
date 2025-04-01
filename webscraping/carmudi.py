@@ -68,6 +68,8 @@ def scrape_page():
                 "Maker": maker,
                 "Model": model,
                 "Variant": variant,
+                "Year": -1,
+                "Mileage": -1,
                 "Price": price
             })
 

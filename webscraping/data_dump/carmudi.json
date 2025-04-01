@@ -3,2364 +3,2608 @@
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Aerox NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 134500
     },
     {
         "Maker": "Honda",
         "Model": "Click",
         "Variant": "125i NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 81400
     },
     {
         "Maker": "Honda",
         "Model": "BeAT",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 72150
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "i 125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 79150
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Sporty NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 73900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Dominar",
         "Variant": "400 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 199900
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Soul i 125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 81900
     },
     {
         "Maker": "Honda",
         "Model": "Rebel",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 399000
     },
     {
         "Maker": "CFMoto",
         "Model": "400",
         "Variant": "NK NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 219000
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Gravis NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 92900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Rouser",
         "Variant": "RS200 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 149500
     },
     {
         "Maker": "Honda",
         "Model": "CBR150R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 183900
     },
     {
         "Maker": "Yamaha",
         "Model": "MT-15",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 178000
     },
     {
         "Maker": "Honda",
         "Model": "CRF150L",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 147900
     },
     {
         "Maker": "Honda",
         "Model": "CB650R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 524000
     },
     {
         "Maker": "Suzuki",
         "Model": "Gixxer",
         "Variant": "FI NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 104900
     },
     {
         "Maker": "Suzuki",
         "Model": "Raider",
         "Variant": "R150 Fi NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 121900
     },
     {
         "Maker": "Honda",
         "Model": "XR150L",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 96900
     },
     {
         "Maker": "Yamaha",
         "Model": "Xmax",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 306000
     },
     {
         "Maker": "Honda",
         "Model": "TMX",
         "Variant": "Supremo NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 78900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "400 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 340900
     },
     {
         "Maker": "KTM",
         "Model": "Duke",
         "Variant": "390 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 289000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Rouser",
         "Variant": "200NS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 129800
     },
     {
         "Maker": "MotorStar",
         "Model": "Cafe",
         "Variant": "400 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 140000
     },
     {
         "Maker": "Yamaha",
         "Model": "YZF-R3",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 290000
     },
     {
         "Maker": "Yamaha",
         "Model": "YTX",
         "Variant": "125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 57900
     },
     {
         "Maker": "KTM",
         "Model": "RC",
         "Variant": "200 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 162000
     },
     {
         "Maker": "Kawasaki",
         "Model": "CT150",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 67500
     },
     {
         "Maker": "Suzuki",
         "Model": "Skydrive",
         "Variant": "Sport NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 72900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Vulcan",
         "Variant": "S NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 415000
     },
     {
         "Maker": "MotorStar",
         "Model": "Xplorer",
         "Variant": "250R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 69000
     },
     {
         "Maker": "Honda",
         "Model": "XRM125",
         "Variant": "Motard NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 76900
     },
     {
         "Maker": "Honda",
         "Model": "TMX125",
         "Variant": "Alpha NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 56900
     },
     {
         "Maker": "Honda",
         "Model": "RS125",
         "Variant": "Fi NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 75900
     },
     {
         "Maker": "Yamaha",
         "Model": "XTZ",
         "Variant": "125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 89900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z650",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 433000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 452000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z1000",
         "Variant": "R Edition NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 710000
     },
     {
         "Maker": "Honda",
         "Model": "CBR500R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 389000
     },
     {
         "Maker": "Vespa",
         "Model": "S",
         "Variant": "125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 160000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Rouser",
         "Variant": "NS160 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 99900
     },
     {
         "Maker": "Yamaha",
         "Model": "MT-09",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 659000
     },
     {
         "Maker": "Yamaha",
         "Model": "Serow",
         "Variant": "250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 240500
     },
     {
         "Maker": "Yamaha",
         "Model": "XSR900",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 729000
     },
     {
         "Maker": "Yamaha",
         "Model": "XSR155",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 182000
     },
     {
         "Maker": "Yamaha",
         "Model": "MT-03",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 285000
     },
     {
         "Maker": "Yamaha",
         "Model": "WR155R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 180000
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Gear NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 80900
     },
     {
         "Maker": "Kawasaki",
         "Model": "Versys",
         "Variant": "1000 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 959000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Vulcan",
-        "Variant": "1700 Vaquero NEW",
-        "Price": 1
-    },
-    {
-        "Maker": "Kawasaki",
-        "Model": "Vulcan",
         "Variant": "900 Custom NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 665000
     },
     {
         "Maker": "Kawasaki",
         "Model": "W800",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 537000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-6R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 707000
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX230",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 196000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-25R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 406000
     },
     {
         "Maker": "Kawasaki",
         "Model": "300R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 300000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z",
         "Variant": "H2 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 950000
     },
     {
         "Maker": "Kawasaki",
         "Model": "KX65",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 209000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z900",
         "Variant": "SE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 618000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z900",
         "Variant": "Standard NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 566500
     },
     {
         "Maker": "Kawasaki",
         "Model": "KX",
         "Variant": "450X NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 508000
     },
     {
         "Maker": "Kawasaki",
         "Model": "KX",
         "Variant": "450 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 525000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Rouser",
         "Variant": "NS125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 82000
-    },
-    {
-        "Maker": "Kawasaki",
-        "Model": "Ninja",
-        "Variant": "ZX-10R 40th Anniversary Edition NEW",
-        "Price": 2
     },
     {
         "Maker": "Kawasaki",
         "Model": "Eliminator",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 360000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Eliminator",
         "Variant": "SE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 380000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z500",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 329800
     },
     {
         "Maker": "Kawasaki",
         "Model": "Z500",
         "Variant": "SE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 355600
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-25R SE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 442000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-4RR NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 499000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-4RR 40th Anniversary Edition NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 514000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "ZX-6R 40th Anniversary Edition NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 729000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "500 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 353800
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "500 SE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 379600
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX150",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 134900
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX150S",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 123000
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX300",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 315000
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX300SM",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 320000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Barako",
         "Variant": "III NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 96500
     },
     {
         "Maker": "Kawasaki",
         "Model": "Pulsar",
         "Variant": "N250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 161500
-    },
-    {
-        "Maker": "Suzuki",
-        "Model": "GSX-R1000",
-        "Variant": "NEW",
-        "Price": 50
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-S1000",
         "Variant": "ABS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 755000
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-S750",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 568000
     },
     {
         "Maker": "Suzuki",
         "Model": "Katana",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 817000
     },
     {
         "Maker": "Suzuki",
         "Model": "Skydrive",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 73900
     },
     {
         "Maker": "Suzuki",
         "Model": "Raider",
         "Variant": "J NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 70900
     },
     {
         "Maker": "Suzuki",
         "Model": "Gixxer",
         "Variant": "250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 182900
     },
     {
         "Maker": "Suzuki",
         "Model": "Gixxer",
         "Variant": "SF250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 192900
     },
     {
         "Maker": "Suzuki",
         "Model": "Avenis",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 80400
     },
     {
         "Maker": "Suzuki",
         "Model": "V-Strom",
         "Variant": "250SX NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 229000
     },
     {
         "Maker": "Suzuki",
         "Model": "Burgman",
         "Variant": "Street 125 EX NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 92400
     },
     {
         "Maker": "Suzuki",
         "Model": "V-Strom",
         "Variant": "1050 DE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 929000
     },
     {
         "Maker": "Suzuki",
         "Model": "V-Strom",
         "Variant": "800 DE NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 735000
     },
     {
         "Maker": "Suzuki",
         "Model": "Smash",
         "Variant": "FI NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 69900
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-S1000GX",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 969000
     },
     {
         "Maker": "Suzuki",
         "Model": "Smash",
         "Variant": "Carb NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 65900
     },
     {
         "Maker": "Suzuki",
         "Model": "Raider",
         "Variant": "R150 Carb NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 108900
     },
     {
         "Maker": "Suzuki",
         "Model": "Gixxer",
         "Variant": "SF 155 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 114900
     },
     {
         "Maker": "Kawasaki",
         "Model": "CT100",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 54200
     },
     {
         "Maker": "Kawasaki",
         "Model": "CT125",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 58700
     },
     {
         "Maker": "Kawasaki",
         "Model": "KLX",
         "Variant": "140 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 160000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
         "Variant": "1000 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 718000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Ninja",
-        "Variant": "H2 NEW",
-        "Price": 428
-    },
-    {
-        "Maker": "Kawasaki",
-        "Model": "Ninja",
         "Variant": "ZX-10R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 999800
-    },
-    {
-        "Maker": "Kawasaki",
-        "Model": "Ninja",
-        "Variant": "ZX-10RR NEW",
-        "Price": 28
     },
     {
         "Maker": "Yamaha",
         "Model": "YZF",
         "Variant": "R15M NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 203000
     },
     {
         "Maker": "Yamaha",
         "Model": "Mio",
         "Variant": "Fazzio NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 93900
     },
     {
         "Maker": "Yamaha",
         "Model": "YZF",
-        "Variant": "R1M NEW",
-        "Price": 345
-    },
-    {
-        "Maker": "Yamaha",
-        "Model": "YZF",
         "Variant": "R7 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 597000
-    },
-    {
-        "Maker": "Yamaha",
-        "Model": "MT-10",
-        "Variant": "SP NEW",
-        "Price": 50
     },
     {
         "Maker": "Yamaha",
         "Model": "MT-07",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 499000
     },
     {
         "Maker": "Yamaha",
         "Model": "XSR700",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 539000
     },
     {
         "Maker": "Yamaha",
         "Model": "BOLT",
         "Variant": "R-SPEC NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 619000
     },
     {
         "Maker": "Yamaha",
         "Model": "SR400",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 329000
     },
     {
         "Maker": "Yamaha",
         "Model": "TMAX",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 779000
     },
     {
         "Maker": "Yamaha",
         "Model": "TMAX",
         "Variant": "Techmax NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 849000
     },
     {
         "Maker": "Yamaha",
         "Model": "Tracer",
         "Variant": "9 GT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 929000
     },
     {
         "Maker": "Yamaha",
         "Model": "Super",
         "Variant": "Tenere ES NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 999000
     },
     {
         "Maker": "Yamaha",
         "Model": "Tenere",
         "Variant": "700 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 669000
     },
     {
         "Maker": "Yamaha",
         "Model": "PG-1",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 96400
     },
     {
         "Maker": "Honda",
         "Model": "CB1000R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 865000
-    },
-    {
-        "Maker": "Honda",
-        "Model": "CBR1000RR",
-        "Variant": "NEW",
-        "Price": 350
-    },
-    {
-        "Maker": "Honda",
-        "Model": "Gold",
-        "Variant": "Wing NEW",
-        "Price": 2
     },
     {
         "Maker": "Honda",
         "Model": "X-ADV",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 839000
     },
     {
         "Maker": "Honda",
         "Model": "XRM125",
         "Variant": "DSX NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 74900
     },
     {
         "Maker": "Honda",
         "Model": "XRM125",
         "Variant": "DS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 71900
     },
     {
         "Maker": "Honda",
         "Model": "CRF1100L",
         "Variant": "Africa Twin NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 950000
-    },
-    {
-        "Maker": "Honda",
-        "Model": "CRF1100L",
-        "Variant": "Africa Twin Adventure Sports NEW",
-        "Price": 9
     },
     {
         "Maker": "Honda",
         "Model": "DIO",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 62400
     },
     {
         "Maker": "Honda",
         "Model": "CRF300L",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 269900
     },
     {
         "Maker": "Honda",
         "Model": "CRF300",
         "Variant": "Rally NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 309900
     },
     {
         "Maker": "Honda",
         "Model": "CRF250RX",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 469000
     },
     {
         "Maker": "Honda",
         "Model": "CB500F",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 379000
     },
     {
         "Maker": "Honda",
         "Model": "CBR650R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 549000
     },
     {
         "Maker": "Honda",
         "Model": "CB150X",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 173900
     },
     {
         "Maker": "Honda",
         "Model": "Airblade160",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 125900
     },
     {
         "Maker": "Honda",
         "Model": "Wave",
         "Variant": "RSX NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 63900
     },
     {
         "Maker": "Honda",
         "Model": "CL500",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 409000
     },
     {
         "Maker": "Honda",
         "Model": "Rebel",
         "Variant": "1100 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 650000
     },
     {
         "Maker": "Honda",
         "Model": "CRF125F",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 189000
     },
     {
         "Maker": "Honda",
         "Model": "CRF150R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 306000
     },
     {
         "Maker": "Honda",
         "Model": "Winner",
         "Variant": "X NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 127900
     },
     {
         "Maker": "Honda",
         "Model": "CRF450R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 500000
     },
     {
         "Maker": "Honda",
         "Model": "NX500",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 409000
     },
     {
         "Maker": "BMW",
         "Model": "F",
         "Variant": "750 GS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 765000
     },
     {
         "Maker": "BMW",
         "Model": "F",
         "Variant": "850 GS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 875000
     },
     {
         "Maker": "BMW",
         "Model": "G",
         "Variant": "310 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 310000
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "1250 GS NEW",
-        "Price": 325
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "nine T NEW",
-        "Price": 158
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "nine T Pure NEW",
-        "Price": 33
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "nine T Scrambler NEW",
-        "Price": 68
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "nine T Urban G/S NEW",
-        "Price": 98
-    },
-    {
-        "Maker": "BMW",
-        "Model": "S",
-        "Variant": "1000 NEW",
-        "Price": 258
     },
     {
         "Maker": "BMW",
         "Model": "C",
         "Variant": "400 GT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 595000
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R18",
-        "Variant": "NEW",
-        "Price": 478
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "1250 RT NEW",
-        "Price": 48
     },
     {
         "Maker": "BMW",
         "Model": "F",
         "Variant": "900 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 795000
-    },
-    {
-        "Maker": "BMW",
-        "Model": "M",
-        "Variant": "1000 RR NEW",
-        "Price": 498
     },
     {
         "Maker": "BMW",
         "Model": "F",
         "Variant": "900 XR NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 995000
     },
     {
         "Maker": "BMW",
         "Model": "CE",
         "Variant": "04 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 895000
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "1300 GS NEW",
-        "Price": 338
-    },
-    {
-        "Maker": "BMW",
-        "Model": "R",
-        "Variant": "1300 GS Adventure NEW",
-        "Price": 448
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "CVO",
-        "Variant": "Road Glide NEW",
-        "Price": 19
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "CVO",
-        "Variant": "Street Glide NEW",
-        "Price": 13
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Fat",
-        "Variant": "Bob NEW",
-        "Price": 3
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Fat",
-        "Variant": "Boy 114 NEW",
-        "Price": 30
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Low",
-        "Variant": "Rider NEW",
-        "Price": 3
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Road",
-        "Variant": "Glide NEW",
-        "Price": 26
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Sport",
-        "Variant": "Glide NEW",
-        "Price": 23
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Street",
-        "Variant": "Bob NEW",
-        "Price": 19
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Street",
-        "Variant": "Glide NEW",
-        "Price": 46
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "TRI",
-        "Variant": "Glide Ultra NEW",
-        "Price": 3
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Ultra",
-        "Variant": "Limited NEW",
-        "Price": 24
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Heritage",
-        "Variant": "Classic NEW",
-        "Price": 29
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Pan",
-        "Variant": "America 1250 NEW",
-        "Price": 19
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Freewheeler",
-        "Variant": "NEW",
-        "Price": 15
     },
     {
         "Maker": "Harley-Davidson",
         "Model": "Sportster",
         "Variant": "S NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 959000
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Low",
-        "Variant": "Rider ST NEW",
-        "Price": 32
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "CVO",
-        "Variant": "Road Glide Limited NEW",
-        "Price": 16
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Bonneville",
-        "Variant": "Speedmaster NEW",
-        "Price": 33
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Bonneville",
-        "Variant": "Bobber NEW",
-        "Price": 33
     },
     {
         "Maker": "Triumph",
         "Model": "Scrambler",
         "Variant": "1200 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 995000
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Speed",
-        "Variant": "Twin NEW",
-        "Price": 18
     },
     {
         "Maker": "Triumph",
         "Model": "Street",
         "Variant": "Scrambler NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 795000
     },
     {
         "Maker": "Triumph",
         "Model": "Bonneville",
         "Variant": "T120 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 895000
     },
     {
         "Maker": "Triumph",
         "Model": "Bonneville",
         "Variant": "T100 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 775000
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Rocket",
-        "Variant": "3 NEW",
-        "Price": 35
     },
     {
         "Maker": "Triumph",
         "Model": "Street",
         "Variant": "Triple NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 745000
     },
     {
         "Maker": "Triumph",
         "Model": "Trident",
         "Variant": "660 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 516000
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Speed",
-        "Variant": "Triple 1200 RS NEW",
-        "Price": 13
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Thruxton",
-        "Variant": "RS NEW",
-        "Price": 168
     },
     {
         "Maker": "Triumph",
         "Model": "Tiger",
         "Variant": "900 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 325005
-    },
-    {
-        "Maker": "Triumph",
-        "Model": "Speed",
-        "Variant": "Triple 1200 RR NEW",
-        "Price": 18
     },
     {
         "Maker": "CFMoto",
         "Model": "650",
         "Variant": "NK NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 295000
     },
     {
         "Maker": "CFMoto",
         "Model": "650",
         "Variant": "MT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 345000
     },
     {
         "Maker": "CFMoto",
         "Model": "300SR",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 165000
     },
     {
         "Maker": "CFMoto",
         "Model": "300",
         "Variant": "NK NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 158000
     },
     {
         "Maker": "CFMoto",
         "Model": "700",
         "Variant": "CL-X Heritage NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 369800
     },
     {
         "Maker": "CFMoto",
         "Model": "650",
         "Variant": "GT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 335000
     },
     {
         "Maker": "CFMoto",
         "Model": "400",
         "Variant": "GT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 267000
     },
     {
         "Maker": "CFMoto",
         "Model": "ST",
         "Variant": "Papio NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 78000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Continental GT 650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 459000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Himalayan NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 354000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Interceptor 650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 446000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Meteor NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 260000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Hunter 350 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 231000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Himalayan 450 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 359000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Super Meteor 650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 439000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Shotgun 650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 437000
     },
     {
         "Maker": "MV",
         "Model": "Agusta",
         "Variant": "Brutale 800 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 326675
-    },
-    {
-        "Maker": "MV",
-        "Model": "Agusta",
-        "Variant": "F3 675 NEW",
-        "Price": 9
-    },
-    {
-        "Maker": "MV",
-        "Model": "Agusta",
-        "Variant": "Turismo Veloce NEW",
-        "Price": 9
-    },
-    {
-        "Maker": "MV",
-        "Model": "Agusta",
-        "Variant": "Dragster 800 NEW",
-        "Price": 2
-    },
-    {
-        "Maker": "MV",
-        "Model": "Agusta",
-        "Variant": "Superveloce NEW",
-        "Price": 28
     },
     {
         "Maker": "Skygo",
         "Model": "Hero",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 50000
     },
     {
         "Maker": "Skygo",
         "Model": "King",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 48000
     },
     {
         "Maker": "Skygo",
         "Model": "Wizard",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 45500
     },
     {
         "Maker": "Skygo",
         "Model": "Duke",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 47000
     },
     {
         "Maker": "Skygo",
         "Model": "Earl",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 52800
     },
     {
         "Maker": "Skygo",
         "Model": "Prince",
         "Variant": "125 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 43000
     },
     {
         "Maker": "Skygo",
         "Model": "Stallion",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 70000
     },
     {
         "Maker": "Skygo",
         "Model": "Blink",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 62000
     },
     {
         "Maker": "Skygo",
         "Model": "Boss",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 55000
     },
     {
         "Maker": "Skygo",
         "Model": "Lance",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 97000
     },
     {
         "Maker": "UM",
         "Model": "Nitrox",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 49000
     },
     {
         "Maker": "UM",
         "Model": "Renegade",
         "Variant": "Sport S NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 116950
     },
     {
         "Maker": "UM",
         "Model": "Renegade",
         "Variant": "Commando NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 150000
     },
     {
         "Maker": "TVS",
         "Model": "Apache",
         "Variant": "RTR 200 4V NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 94990
     },
     {
         "Maker": "TVS",
         "Model": "Dazz",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 59990
     },
     {
         "Maker": "TVS",
         "Model": "Max4R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 49900
     },
     {
         "Maker": "TVS",
         "Model": "Rockz",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 59900
     },
     {
         "Maker": "TVS",
         "Model": "XL",
         "Variant": "100 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 31900
     },
     {
         "Maker": "Keeway",
         "Model": "Cafe",
         "Variant": "Racer 152 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 69900
     },
     {
         "Maker": "Keeway",
         "Model": "Icon",
         "Variant": "110 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 61900
     },
     {
         "Maker": "SYM",
         "Model": "Bonus",
         "Variant": "110 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 52800
     },
     {
         "Maker": "SYM",
         "Model": "Bonus",
         "Variant": "X NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 49800
     },
     {
         "Maker": "SYM",
         "Model": "Cruisym",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 106300
-    },
-    {
-        "Maker": "KTM",
-        "Model": "1290",
-        "Variant": "Super Adventure S NEW",
-        "Price": 20
     },
     {
         "Maker": "KTM",
         "Model": "250",
         "Variant": "SX-F NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 724000
     },
     {
         "Maker": "KTM",
         "Model": "300",
         "Variant": "EXC TPI NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 740000
     },
     {
         "Maker": "KTM",
         "Model": "350",
         "Variant": "EXC-F Six Days NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 770000
     },
     {
         "Maker": "KTM",
         "Model": "450",
         "Variant": "SX-F NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 750000
     },
     {
         "Maker": "KTM",
         "Model": "690",
         "Variant": "Enduro R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 790000
     },
     {
         "Maker": "KTM",
         "Model": "690",
         "Variant": "SMC-R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 610000
     },
     {
         "Maker": "KTM",
         "Model": "790",
         "Variant": "Adventure NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 748000
     },
     {
         "Maker": "KTM",
         "Model": "790",
         "Variant": "Adventure R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 798000
     },
     {
         "Maker": "KTM",
         "Model": "790",
         "Variant": "Duke NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 599000
     },
     {
         "Maker": "KTM",
         "Model": "Duke",
         "Variant": "200 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 178000
     },
     {
         "Maker": "KTM",
         "Model": "RC",
         "Variant": "390 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 300000
     },
     {
         "Maker": "KTM",
         "Model": "390",
         "Variant": "Adventure NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 338000
     },
     {
         "Maker": "MotorStar",
         "Model": "Magnum",
         "Variant": "250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 78000
     },
     {
         "Maker": "MotorStar",
         "Model": "Moto",
         "Variant": "R155 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 58000
     },
     {
         "Maker": "MotorStar",
         "Model": "Moto",
         "Variant": "X155 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 58000
     },
     {
         "Maker": "MotorStar",
         "Model": "MSX",
         "Variant": "150X NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 41000
     },
     {
         "Maker": "MotorStar",
         "Model": "MSX125S-II",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 42000
     },
     {
         "Maker": "MotorStar",
         "Model": "MSX200-II",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 69000
     },
     {
         "Maker": "MotorStar",
         "Model": "Nicess",
         "Variant": "110 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 40000
     },
     {
         "Maker": "MotorStar",
         "Model": "Sapphire",
         "Variant": "110 -II NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 40500
     },
     {
         "Maker": "MotorStar",
         "Model": "Star",
         "Variant": "X 125 II NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 40000
     },
     {
         "Maker": "MotorStar",
         "Model": "Star-X",
         "Variant": "125S NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 39000
     },
     {
         "Maker": "MotorStar",
         "Model": "Star-X155",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 45000
     },
     {
         "Maker": "MotorStar",
         "Model": "Viber",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 39000
     },
     {
         "Maker": "MotorStar",
         "Model": "Xplorer",
         "Variant": "X200R NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 65000
     },
     {
         "Maker": "MotorStar",
         "Model": "Xplorer",
         "Variant": "Z150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 55000
     },
     {
         "Maker": "MotorStar",
         "Model": "Zest",
         "Variant": "X110-III NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 38000
     },
     {
         "Maker": "MotorStar",
         "Model": "Zest",
         "Variant": "X110-IIIM NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 40000
     },
     {
         "Maker": "Vespa",
         "Model": "Primavera",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 222500
     },
     {
         "Maker": "Kymco",
         "Model": "Kargador",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 63000
     },
     {
         "Maker": "Kymco",
         "Model": "Visar",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 44900
     },
     {
         "Maker": "Kymco",
         "Model": "XTOWN",
         "Variant": "300 Fi NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 209000
     },
     {
         "Maker": "Kymco",
         "Model": "Xciting",
         "Variant": "S 400i NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 369000
     },
     {
         "Maker": "Kymco",
         "Model": "Super",
         "Variant": "Z 150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 83900
     },
     {
         "Maker": "Kymco",
         "Model": "Skytown",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 118500
     },
     {
         "Maker": "Ducati",
         "Model": "Scrambler",
         "Variant": "Desert Sled NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 870000
     },
     {
         "Maker": "Ducati",
         "Model": "SuperSport",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 944500
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "XDiavel",
-        "Variant": "NEW",
-        "Price": 21
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Hypermotard",
-        "Variant": "950 NEW",
-        "Price": 2
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Panigale",
-        "Variant": "V2 NEW",
-        "Price": 10
     },
     {
         "Maker": "Ducati",
         "Model": "Scrambler",
         "Variant": "Nightshift NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 785000
     },
     {
         "Maker": "Ducati",
         "Model": "Monster",
         "Variant": "937 Plus NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 875000
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Multistrada",
-        "Variant": "V4 NEW",
-        "Price": 17
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Scrambler",
-        "Variant": "1100 Sport PRO NEW",
-        "Price": 1
     },
     {
         "Maker": "Harley-Davidson",
         "Model": "Nightster",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 799000
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Softail",
-        "Variant": "NEW",
-        "Price": 1
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Breakout",
-        "Variant": "117 NEW",
-        "Price": 34
     },
     {
         "Maker": "Harley-Davidson",
         "Model": "Nightster",
         "Variant": "Special NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 835000
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "CVO",
-        "Variant": "Road Glide ST NEW",
-        "Price": 16
-    },
-    {
-        "Maker": "Harley-Davidson",
-        "Model": "Hydra-Glide",
-        "Variant": "Revival NEW",
-        "Price": 45
     },
     {
         "Maker": "Benelli",
         "Model": "502c",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 349000
     },
     {
         "Maker": "Benelli",
         "Model": "TRK",
         "Variant": "502 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 379000
     },
     {
         "Maker": "Benelli",
         "Model": "302",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 222800
     },
     {
         "Maker": "Benelli",
         "Model": "TNT135",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 88888
     },
     {
         "Maker": "Benelli",
         "Model": "VZ",
         "Variant": "125I NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 68900
     },
     {
         "Maker": "Benelli",
         "Model": "RFS",
         "Variant": "150I NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 88800
     },
     {
         "Maker": "Benelli",
         "Model": "TRK502X",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 399000
     },
     {
         "Maker": "Benelli",
         "Model": "180S",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 129900
     },
     {
         "Maker": "Benelli",
         "Model": "TNT600i",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 440000
     },
     {
         "Maker": "Benelli",
         "Model": "Leoncino",
         "Variant": "250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 188800
     },
     {
         "Maker": "Benelli",
         "Model": "Leoncino",
         "Variant": "500 Trail NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 388000
     },
     {
         "Maker": "NWOW",
         "Model": "ERV",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 36000
     },
     {
         "Maker": "NWOW",
         "Model": "ARS",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 34000
     },
     {
         "Maker": "NWOW",
         "Model": "GC10",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 19800
     },
     {
         "Maker": "NWOW",
         "Model": "GB2",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 24000
     },
     {
         "Maker": "NWOW",
         "Model": "TK10",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 38800
     },
     {
         "Maker": "NWOW",
         "Model": "WSP",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 43800
     },
     {
         "Maker": "Aprilia",
         "Model": "RS660",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 910000
     },
     {
         "Maker": "Aprilia",
         "Model": "Tuono",
         "Variant": "660 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 860000
     },
     {
         "Maker": "Aprilia",
         "Model": "SR",
         "Variant": "GT NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 253000
     },
     {
         "Maker": "Aprilia",
         "Model": "RS",
         "Variant": "457 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 348000
     },
     {
         "Maker": "Husqvarna",
         "Model": "Svartpilen",
         "Variant": "401 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 295000
     },
     {
         "Maker": "Husqvarna",
         "Model": "Vitpilen",
         "Variant": "401 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 315000
     },
     {
         "Maker": "Peugeot",
         "Model": "Django",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 199000
     },
     {
         "Maker": "Segway",
         "Model": "E110L",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 125000
     },
     {
         "Maker": "Beta",
         "Model": "430",
         "Variant": "RR 4T NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 650000
     },
     {
         "Maker": "HATASU",
         "Model": "E-BIKES",
         "Variant": "NERO NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 28990
     },
     {
         "Maker": "HATASU",
         "Model": "E-BIKES",
         "Variant": "KUMI NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 19990
     },
     {
         "Maker": "Hero",
         "Model": "XPulse",
         "Variant": "200 4V NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 140000
     },
     {
         "Maker": "Hero",
         "Model": "Hunk",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 99900
     },
     {
         "Maker": "Hero",
         "Model": "Xoom",
         "Variant": "110 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 69900
     },
     {
         "Maker": "Sunra",
         "Model": "MIKU",
         "Variant": "SUPER NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 168000
     },
     {
         "Maker": "Sunra",
         "Model": "Hawk",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 78000
     },
     {
         "Maker": "Husqvarna",
         "Model": "Svartpilen",
         "Variant": "200 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 175000
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Diavel",
-        "Variant": "1260 NEW",
-        "Price": 34
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Panigale",
-        "Variant": "V4 NEW",
-        "Price": 498
-    },
-    {
-        "Maker": "Ducati",
-        "Model": "Streetfighter",
-        "Variant": "V4 NEW",
-        "Price": 30
-    },
-    {
-        "Maker": "Aprilia",
-        "Model": "RSV4",
-        "Variant": "NEW",
-        "Price": 5
-    },
-    {
-        "Maker": "Aprilia",
-        "Model": "Tuono",
-        "Variant": "V4 NEW",
-        "Price": 28
     },
     {
         "Maker": "Aprilia",
         "Model": "Tuareg",
         "Variant": "660 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 750000
     },
     {
         "Maker": "Honda",
         "Model": "Giorno",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 101900
     },
     {
         "Maker": "Kymco",
         "Model": "AK550",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 519000
     },
     {
         "Maker": "Kymco",
         "Model": "XTOWN",
         "Variant": "CT 300i NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 214000
     },
     {
         "Maker": "Kymco",
         "Model": "Ak",
         "Variant": "550 Premium NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 629000
     },
     {
         "Maker": "Kymco",
         "Model": "Krv",
         "Variant": "180 Moto Chain NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 195900
     },
     {
         "Maker": "Vespa",
         "Model": "Sprint",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 237500
     },
     {
         "Maker": "Kymco",
         "Model": "Like",
         "Variant": "125 Italia NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 89900
     },
     {
         "Maker": "Kymco",
         "Model": "Super",
         "Variant": "8 150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 76000
     },
     {
         "Maker": "Kymco",
         "Model": "DT",
         "Variant": "X360 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 268000
     },
     {
         "Maker": "Segway",
         "Model": "N100",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 109000
     },
     {
         "Maker": "Segway",
         "Model": "E300SE",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 275000
     },
     {
         "Maker": "Skygo",
         "Model": "KPV",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 109800
     },
     {
         "Maker": "Skygo",
         "Model": "Bolt",
         "Variant": "150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 115000
     },
     {
         "Maker": "Voge",
         "Model": "DS900X",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 636000
     },
     {
         "Maker": "Voge",
         "Model": "CU525",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 356000
     },
     {
         "Maker": "Ecooter",
         "Model": "E5",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 285000
     },
     {
         "Maker": "Suzuki",
         "Model": "RM-Z250",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 559000
     },
     {
         "Maker": "Suzuki",
         "Model": "Burgman",
         "Variant": "400 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 566000
     },
     {
         "Maker": "Suzuki",
         "Model": "RM",
         "Variant": "Z450 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 585000
-    },
-    {
-        "Maker": "Suzuki",
-        "Model": "Hayabusa",
-        "Variant": "NEW",
-        "Price": 118
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-8S",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 631000
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-8R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 699000
-    },
-    {
-        "Maker": "Suzuki",
-        "Model": "GSX-R1000R",
-        "Variant": "NEW",
-        "Price": 110
     },
     {
         "Maker": "Kawasaki",
         "Model": "KX",
         "Variant": "250 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 461000
     },
     {
         "Maker": "Suzuki",
         "Model": "SV",
         "Variant": "650A NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 449000
     },
     {
         "Maker": "Suzuki",
         "Model": "GSX-S1000GT",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 842000
-    },
-    {
-        "Maker": "MV",
-        "Model": "Agusta",
-        "Variant": "F3 800 NEW",
-        "Price": 2
     },
     {
         "Maker": "Kawasaki",
         "Model": "KX",
         "Variant": "250X NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 464000
     },
     {
         "Maker": "Honda",
         "Model": "CRF250R",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 459000
     },
     {
         "Maker": "Triumph",
         "Model": "Daytona",
         "Variant": "660 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 549000
     },
     {
         "Maker": "Kawasaki",
         "Model": "Versys",
         "Variant": "650 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 499000
     },
     {
         "Maker": "Honda",
         "Model": "XL750",
         "Variant": "Transalp NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 598000
     },
     {
         "Maker": "Vespa",
         "Model": "GTS",
         "Variant": "Super NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 395000
     },
     {
         "Maker": "Vespa",
         "Model": "GTV",
         "Variant": "300 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 425000
     },
     {
         "Maker": "Kymco",
         "Model": "Xciting",
         "Variant": "Vs 400 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 384000
     },
     {
         "Maker": "Italjet",
         "Model": "Dragster",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 360000
     },
     {
         "Maker": "Triumph",
         "Model": "Tiger",
         "Variant": "Sport 660 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 566000
     },
     {
         "Maker": "Bristol",
         "Model": "Zontes",
-        "Variant": "400E NEW",
-        "Price": 345
-    },
-    {
-        "Maker": "Bristol",
-        "Model": "Zontes",
-        "Variant": "400D NEW",
-        "Price": 245
-    },
-    {
-        "Maker": "Bristol",
-        "Model": "Zontes",
         "Variant": "400G NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 398800
     },
     {
         "Maker": "Bristol",
         "Model": "Zontes",
         "Variant": "400M NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 328800
     },
     {
         "Maker": "Bristol",
         "Model": "Zontes",
         "Variant": "703F NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 518800
     },
     {
         "Maker": "Yamaha",
         "Model": "Sniper",
         "Variant": "155 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 135900
     },
     {
         "Maker": "Honda",
         "Model": "PCX160",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 140900
     },
     {
         "Maker": "Honda",
         "Model": "Click",
         "Variant": "160 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 116900
     },
     {
         "Maker": "Honda",
         "Model": "ADV160",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 166900
     },
     {
         "Maker": "Honda",
         "Model": "EM1",
         "Variant": "e: NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 155400
     },
     {
         "Maker": "Kymco",
         "Model": "Like",
         "Variant": "150i NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 134700
     },
     {
         "Maker": "Kymco",
         "Model": "KRV",
         "Variant": "180i TCS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 179900
     },
     {
         "Maker": "Kymco",
         "Model": "KRV",
         "Variant": "180i DDS NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 168800
     },
     {
         "Maker": "Kymco",
         "Model": "Dink",
         "Variant": "R 150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 148900
     },
     {
         "Maker": "Kymco",
         "Model": "Like",
         "Variant": "S 150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 134000
     },
     {
         "Maker": "Suzuki",
         "Model": "Burgman",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 83400
     },
     {
         "Maker": "TVS",
         "Model": "iQube",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 180000
     },
     {
         "Maker": "SYM",
         "Model": "Jet",
         "Variant": "X150 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 135800
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Bullet 350 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 210000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Scram 411 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 311000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Guerrilla 450 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 289000
     },
     {
         "Maker": "Yamaha",
         "Model": "Nmax",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 165900
     },
     {
         "Maker": "Ecooter",
         "Model": "E3",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 150000
     },
     {
         "Maker": "Ecooter",
         "Model": "E2",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 135000
     },
     {
         "Maker": "Sunra",
         "Model": "Robo-S",
         "Variant": "NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 148000
     },
     {
         "Maker": "Royal",
         "Model": "Enfield",
         "Variant": "Classic 350 NEW",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 230000
     },
     {
         "Maker": "Enfield",
         "Model": "Himalayan",
         "Variant": "450",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 359000
     },
     {
         "Maker": "GTV",
         "Model": "300",
         "Variant": "",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 425000
     },
     {
         "Maker": "Robo-S",
         "Model": "",
         "Variant": "",
+        "Year": -1,
+        "Mileage": -1,
         "Price": 148000
     }
 ]
