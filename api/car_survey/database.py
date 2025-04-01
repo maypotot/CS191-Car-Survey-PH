@@ -331,7 +331,7 @@ for motor in data:
             )
     """)
     
-# sbfinance
+# sbfinance pt. 1 
 with open('./formatted_scraped_data/sbfinance_updated.json', 'r') as file:
     data = json.load(file)
 for motor in data:
@@ -353,6 +353,58 @@ for motor in data:
             'NULL',
             -1,
             '{round(motor["Mileage"]) if motor["Mileage"] is not None else -1}',
+            '{round(motor["Price"]) if motor["Price"] is not None else -1}'
+            )
+    """)
+    
+# sbfinance pt. 2
+with open('./formatted_scraped_data/sbfinance2.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Brand"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            -1,
+            '{round(motor["Mileage"]) if motor["Mileage"] is not None else -1}',
+            '{round(motor["Price"]) if motor["Price"] is not None else -1}'
+            )
+    """)
+
+# motorace
+with open('./formatted_scraped_data/motorace_motorcycles.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            '{str(motor["Variants"])}',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{str(motor["Mileage"])}',
             '{round(motor["Price"]) if motor["Price"] is not None else -1}'
             )
     """)
