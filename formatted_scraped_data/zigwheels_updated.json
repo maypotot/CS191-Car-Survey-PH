@@ -4,24 +4,21 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Honda",
-        "Model": "Click",
-        "Variant": "125i"
+        "Model": "Click 125i"
     },
     {
         "vehicle_price": "81,400",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Honda",
-        "Model": "Click",
-        "Variant": "125i"
+        "Model": "Click 125i"
     },
     {
         "vehicle_price": "124,000 - 145,000",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Aerox",
-        "Variant": "155"
+        "Model": "Aerox 155"
     },
     {
         "vehicle_price": "166,900",
@@ -36,8 +33,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Suzuki",
-        "Model": "Raider",
-        "Variant": "R150 Fi"
+        "Model": "Raider R150 Fi"
     },
     {
         "vehicle_price": "151,900",
@@ -60,8 +56,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Honda",
-        "Model": "Click",
-        "Variant": "160"
+        "Model": "Click 160"
     },
     {
         "vehicle_price": "131,900 - 149,900",
@@ -76,8 +71,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Yamaha",
-        "Model": "Sniper",
-        "Variant": "155"
+        "Model": "Sniper 155"
     },
     {
         "vehicle_price": "70,900 - 73,400",
@@ -92,8 +86,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Mio",
-        "Variant": "Fazzio"
+        "Model": "Mio Fazzio"
     },
     {
         "vehicle_price": "306,000",
@@ -116,8 +109,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Mio",
-        "Variant": "i 125"
+        "Model": "Mio i 125"
     },
     {
         "vehicle_price": "92,400",
@@ -148,8 +140,7 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Kawasaki",
-        "Model": "Ninja",
-        "Variant": "400"
+        "Model": "Ninja 400"
     },
     {
         "vehicle_price": "56,900",
@@ -164,16 +155,14 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "MotorStar",
-        "Model": "Xplorer",
-        "Variant": "250R"
+        "Model": "Xplorer 250r"
     },
     {
         "vehicle_price": "178,000",
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "KTM",
-        "Model": "Duke",
-        "Variant": "200"
+        "Model": "Duke 200"
     },
     {
         "vehicle_price": "178,000",
@@ -188,16 +177,14 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Mio",
-        "Variant": "Gravis"
+        "Model": "Mio Gravis"
     },
     {
         "vehicle_price": "162,000",
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "KTM",
-        "Model": "RC",
-        "Variant": "200"
+        "Model": "RC 200"
     },
     {
         "vehicle_price": "203,000",
@@ -268,16 +255,14 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Vespa",
-        "Model": "S",
-        "Variant": "125"
+        "Model": "S 125"
     },
     {
         "vehicle_price": "289,000",
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "KTM",
-        "Model": "Duke",
-        "Variant": "390"
+        "Model": "Duke 290"
     },
     {
         "vehicle_price": "183,900",
@@ -292,32 +277,28 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Suzuki",
-        "Model": "Gixxer",
-        "Variant": "FI"
+        "Model": "Gixxer FI"
     },
     {
         "vehicle_price": "135,800",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "SYM",
-        "Model": "Jet",
-        "Variant": "X150"
+        "Model": "Jet X150"
     },
     {
         "vehicle_price": "79,900 - 83,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Mio",
-        "Variant": "Soul i 125"
+        "Model": "Mio Soul i 125"
     },
     {
         "vehicle_price": "73,900",
         "Fuel Type": "Gasoline",
         "Transmission Type": "CVT",
         "Maker": "Yamaha",
-        "Model": "Mio",
-        "Variant": "Sporty"
+        "Model": "Mio Sporty"
     },
     {
         "vehicle_price": "399,000",
@@ -332,16 +313,14 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Yamaha",
-        "Model": "YTX",
-        "Variant": "125"
+        "Model": "YTX 125"
     },
     {
         "vehicle_price": "140,000",
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "MotorStar",
-        "Model": "Cafe",
-        "Variant": "400"
+        "Model": "Cafe 400"
     },
     {
         "vehicle_price": "147,900",
@@ -372,7 +351,6 @@
         "Fuel Type": "Gasoline",
         "Transmission Type": "Manual",
         "Maker": "Honda",
-        "Model": "TMX",
-        "Variant": "Supremo"
+        "Model": "TMX Supremo"
     }
 ]

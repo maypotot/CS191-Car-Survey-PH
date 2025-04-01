@@ -3,8 +3,7 @@ import re
 import json
 
 # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "gaesunflower6283")
-# conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
-conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
+conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
 cur = conn.cursor()
 
 cur.execute("TRUNCATE TABLE motors RESTART IDENTITY CASCADE;")
@@ -43,7 +42,7 @@ for motor in data:
         VALUES (
             '{str(motor["Maker"])}',
             '{str(motor["Model"])}',
-            '{str(motor["Variant"])}',
+            'NULL',
             '{str(motor["Transmission Type"])}',
             '{str(motor["Fuel Type"])}',
             -1,
@@ -389,6 +388,32 @@ for motor in data:
             'NULL',
             '{str(motor["Year"])}',
             '{str(motor["Mileage"])}',
+            '{str(motor["Price"])}'
+            )
+    """)
+
+# repodeals
+with open('./formatted_scraped_data/repodeals_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            -1,
             '{str(motor["Price"])}'
             )
     """)

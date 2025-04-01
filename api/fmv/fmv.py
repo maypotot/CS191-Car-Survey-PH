@@ -6,7 +6,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 import psycopg2
 
-
 def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, input_variant: str = "", input_mileage: int = -1, 
                 input_transmission: str = "", input_fuel: str = "", vehicle_type: str = "motors"):
     # Getting data from database
@@ -115,7 +114,6 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
 # predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model=input_model, input_year=input_year)
 # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 # print(predicted_fmv_lst[10])
-
 
 
 
