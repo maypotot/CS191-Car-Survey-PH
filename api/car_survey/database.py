@@ -2,7 +2,7 @@ import psycopg2
 import re
 import json
 
-conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "gaesunflower6283")
+conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
 # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
 cur = conn.cursor()
 
@@ -69,37 +69,37 @@ for motor in data1:
     
 # TEST DATA
 
-with open('./webscraping/test_data.json', 'r') as file2:
-    data2 = json.load(file2)
+# with open('./webscraping/test_data.json', 'r') as file2:
+#     data2 = json.load(file2)
 
-for motor in data2:
-    vehicle_price = motor["Vehicle Price"].split("-")[0].strip().replace(",", "")
-    try:
-        vehicle_price = int(vehicle_price)
-    except ValueError:
-        vehicle_price = None
+# for motor in data2:
+#     vehicle_price = motor["Vehicle Price"].split("-")[0].strip().replace(",", "")
+#     try:
+#         vehicle_price = int(vehicle_price)
+#     except ValueError:
+#         vehicle_price = None
 
-    cur.execute(f"""INSERT INTO motors (
-            maker,
-            model,
-            variant,
-            transmission,
-            engine,
-            year,
-            mileage,
-            price
-        )
-        VALUES (
-            '{str(motor["Maker"])}',
-            '{str(motor["Model"])}',
-            '{str(motor["Variant"])}',
-            '{str(motor["Transmission Type"])}',
-            '{str(motor["Fuel Type"])}',
-            '{motor["Model Year"]}',
-            '{int(motor["Mileage"].replace(" km", "")) * 1000}',
-            {vehicle_price}
-            )
-    """)
+#     cur.execute(f"""INSERT INTO motors (
+#             maker,
+#             model,
+#             variant,
+#             transmission,
+#             engine,
+#             year,
+#             mileage,
+#             price
+#         )
+#         VALUES (
+#             '{str(motor["Maker"])}',
+#             '{str(motor["Model"])}',
+#             '{str(motor["Variant"])}',
+#             '{str(motor["Transmission Type"])}',
+#             '{str(motor["Fuel Type"])}',
+#             '{motor["Model Year"]}',
+#             '{int(motor["Mileage"].replace(" km", "")) * 1000}',
+#             {vehicle_price}
+#             )
+#     """)
     
 # RFSHOP
 with open('./formatted_scraped_data/rfshop_data.json', 'r') as file3:
