@@ -20,7 +20,7 @@ cur.execute("""CREATE TABLE IF NOT EXISTS motors (
 """)
 
 # ZIGWHEELS
-with open('./formatted_scraped_data/zigwheels_updated.json', 'r') as file:
+with open('../../formatted_scraped_data/zigwheels_updated.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["vehicle_price"].split("-")[0].strip().replace(",", "")
@@ -52,7 +52,7 @@ for motor in data:
     """)
 
 # used.com
-with open('./formatted_scraped_data/used_motorcycles.json', 'r') as file:
+with open('../../formatted_scraped_data/used_motorcycles.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -78,7 +78,7 @@ for motor in data:
     """)
 
 # AFS (sumisho)
-with open('./formatted_scraped_data/AFS.json', 'r') as file:
+with open('../../formatted_scraped_data/AFS.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["Price"].split("-")[0].strip().replace(",", "")
@@ -110,7 +110,7 @@ for motor in data:
     """)
     
 # motoxpress
-with open('./formatted_scraped_data/motoxpress_data.json', 'r') as file:
+with open('../../formatted_scraped_data/motoxpress_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
          
@@ -144,7 +144,7 @@ for motor in data:
     """)
     
 # mototrade pt. 1
-with open('./formatted_scraped_data/motortrade_big-bike_data.json', 'r') as file:
+with open('../../formatted_scraped_data/motortrade_big-bike_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["Price"].split("\n")[0].replace(",", "").strip()
@@ -177,7 +177,7 @@ for motor in data:
     """)
     
 # mototrade pt. 2
-with open('./formatted_scraped_data/motortrade_regular_data.json', 'r') as file:
+with open('../../formatted_scraped_data/motortrade_regular_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["Price"].split("\n")[0].replace(",", "").strip()
@@ -210,7 +210,7 @@ for motor in data:
     """)
     
 # carousell
-with open('./formatted_scraped_data/carousell_data.json', 'r') as file:
+with open('../../formatted_scraped_data/carousell_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["Price"]
@@ -256,7 +256,7 @@ for motor in data:
     """)
 
 # motodeal
-with open('./formatted_scraped_data/motodeal_data.json', 'r') as file:
+with open('../../formatted_scraped_data/motodeal_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     vehicle_price = motor["Price"].split("-")[0].replace(",", "").strip()
@@ -289,7 +289,7 @@ for motor in data:
     """)
     
 # sbfinance pt. 1 
-with open('./formatted_scraped_data/sbfinance_updated.json', 'r') as file:
+with open('../../formatted_scraped_data/sbfinance_updated.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -315,7 +315,7 @@ for motor in data:
     """)
     
 # sbfinance pt. 2
-with open('./formatted_scraped_data/sbfinance2.json', 'r') as file:
+with open('../../formatted_scraped_data/sbfinance2.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -341,7 +341,7 @@ for motor in data:
     """)
 
 # motorace
-with open('./formatted_scraped_data/motorace_motorcycles.json', 'r') as file:
+with open('../../formatted_scraped_data/motorace_motorcycles.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -367,7 +367,7 @@ for motor in data:
     """)
 
 # carmudi
-with open('./formatted_scraped_data/carmudi_data.json', 'r') as file:
+with open('../../formatted_scraped_data/carmudi_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -393,7 +393,7 @@ for motor in data:
     """)
 
 # repodeals
-with open('./formatted_scraped_data/repodeals_data.json', 'r') as file:
+with open('../../formatted_scraped_data/repodeals_data.json', 'r') as file:
     data = json.load(file)
 for motor in data:
     cur.execute(f"""INSERT INTO motors (
@@ -415,6 +415,32 @@ for motor in data:
             '{str(motor["Year"])}',
             -1,
             '{str(motor["Price"])}'
+            )
+    """)
+
+# motorcyclecity
+with open('../../formatted_scraped_data/motorcyclecity_motorcycles.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{str(motor["Mileage"])}',
+            '{round(motor["Price"])}'
             )
     """)
 
