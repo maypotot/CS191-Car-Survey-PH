@@ -42,7 +42,7 @@ for motor in data:
         VALUES (
             '{str(motor["Maker"])}',
             '{str(motor["Model"])}',
-            '{str(motor["Variant"])}',
+            'NULL',
             '{str(motor["Transmission Type"])}',
             '{str(motor["Fuel Type"])}',
             -1,
