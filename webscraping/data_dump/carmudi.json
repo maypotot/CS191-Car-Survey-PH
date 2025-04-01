@@ -1,1 +1,2366 @@
-[]
+[
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Aerox NEW",
+        "Price": 134500
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "125i NEW",
+        "Price": 81400
+    },
+    {
+        "Maker": "Honda",
+        "Model": "BeAT",
+        "Variant": "NEW",
+        "Price": 72150
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "i 125 NEW",
+        "Price": 79150
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Sporty NEW",
+        "Price": 73900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Dominar",
+        "Variant": "400 NEW",
+        "Price": 199900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Soul i 125 NEW",
+        "Price": 81900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Rebel",
+        "Variant": "NEW",
+        "Price": 399000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "400",
+        "Variant": "NK NEW",
+        "Price": 219000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Gravis NEW",
+        "Price": 92900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser",
+        "Variant": "RS200 NEW",
+        "Price": 149500
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variant": "NEW",
+        "Price": 183900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-15",
+        "Variant": "NEW",
+        "Price": 178000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF150L",
+        "Variant": "NEW",
+        "Price": 147900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CB650R",
+        "Variant": "NEW",
+        "Price": 524000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer",
+        "Variant": "FI NEW",
+        "Price": 104900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider",
+        "Variant": "R150 Fi NEW",
+        "Price": 121900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XR150L",
+        "Variant": "NEW",
+        "Price": 96900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Xmax",
+        "Variant": "NEW",
+        "Price": 306000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX",
+        "Variant": "Supremo NEW",
+        "Price": 78900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "400 NEW",
+        "Price": 340900
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke",
+        "Variant": "390 NEW",
+        "Price": 289000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser",
+        "Variant": "200NS NEW",
+        "Price": 129800
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Cafe",
+        "Variant": "400 NEW",
+        "Price": 140000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZF-R3",
+        "Variant": "NEW",
+        "Price": 290000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YTX",
+        "Variant": "125 NEW",
+        "Price": 57900
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC",
+        "Variant": "200 NEW",
+        "Price": 162000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT150",
+        "Variant": "NEW",
+        "Price": 67500
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Skydrive",
+        "Variant": "Sport NEW",
+        "Price": 72900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Vulcan",
+        "Variant": "S NEW",
+        "Price": 415000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Xplorer",
+        "Variant": "250R NEW",
+        "Price": 69000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variant": "Motard NEW",
+        "Price": 76900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "TMX125",
+        "Variant": "Alpha NEW",
+        "Price": 56900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "RS125",
+        "Variant": "Fi NEW",
+        "Price": 75900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XTZ",
+        "Variant": "125 NEW",
+        "Price": 89900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z650",
+        "Variant": "NEW",
+        "Price": 433000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "650 NEW",
+        "Price": 452000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z1000",
+        "Variant": "R Edition NEW",
+        "Price": 710000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR500R",
+        "Variant": "NEW",
+        "Price": 389000
+    },
+    {
+        "Maker": "Vespa",
+        "Model": "S",
+        "Variant": "125 NEW",
+        "Price": 160000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser",
+        "Variant": "NS160 NEW",
+        "Price": 99900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-09",
+        "Variant": "NEW",
+        "Price": 659000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Serow",
+        "Variant": "250 NEW",
+        "Price": 240500
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XSR900",
+        "Variant": "NEW",
+        "Price": 729000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XSR155",
+        "Variant": "NEW",
+        "Price": 182000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-03",
+        "Variant": "NEW",
+        "Price": 285000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "WR155R",
+        "Variant": "NEW",
+        "Price": 180000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Gear NEW",
+        "Price": 80900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Versys",
+        "Variant": "1000 NEW",
+        "Price": 959000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Vulcan",
+        "Variant": "1700 Vaquero NEW",
+        "Price": 1
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Vulcan",
+        "Variant": "900 Custom NEW",
+        "Price": 665000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "W800",
+        "Variant": "NEW",
+        "Price": 537000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-6R NEW",
+        "Price": 707000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX230",
+        "Variant": "NEW",
+        "Price": 196000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-25R NEW",
+        "Price": 406000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "300R",
+        "Variant": "NEW",
+        "Price": 300000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z",
+        "Variant": "H2 NEW",
+        "Price": 950000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX65",
+        "Variant": "NEW",
+        "Price": 209000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z900",
+        "Variant": "SE NEW",
+        "Price": 618000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z900",
+        "Variant": "Standard NEW",
+        "Price": 566500
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX",
+        "Variant": "450X NEW",
+        "Price": 508000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX",
+        "Variant": "450 NEW",
+        "Price": 525000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Rouser",
+        "Variant": "NS125 NEW",
+        "Price": 82000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-10R 40th Anniversary Edition NEW",
+        "Price": 2
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Eliminator",
+        "Variant": "NEW",
+        "Price": 360000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Eliminator",
+        "Variant": "SE NEW",
+        "Price": 380000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z500",
+        "Variant": "NEW",
+        "Price": 329800
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z500",
+        "Variant": "SE NEW",
+        "Price": 355600
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-25R SE NEW",
+        "Price": 442000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-4RR NEW",
+        "Price": 499000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-4RR 40th Anniversary Edition NEW",
+        "Price": 514000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-6R 40th Anniversary Edition NEW",
+        "Price": 729000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "500 NEW",
+        "Price": 353800
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "500 SE NEW",
+        "Price": 379600
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX150",
+        "Variant": "NEW",
+        "Price": 134900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX150S",
+        "Variant": "NEW",
+        "Price": 123000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX300",
+        "Variant": "NEW",
+        "Price": 315000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX300SM",
+        "Variant": "NEW",
+        "Price": 320000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Barako",
+        "Variant": "III NEW",
+        "Price": 96500
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Pulsar",
+        "Variant": "N250 NEW",
+        "Price": 161500
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-R1000",
+        "Variant": "NEW",
+        "Price": 50
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-S1000",
+        "Variant": "ABS NEW",
+        "Price": 755000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-S750",
+        "Variant": "NEW",
+        "Price": 568000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Katana",
+        "Variant": "NEW",
+        "Price": 817000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Skydrive",
+        "Variant": "NEW",
+        "Price": 73900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider",
+        "Variant": "J NEW",
+        "Price": 70900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer",
+        "Variant": "250 NEW",
+        "Price": 182900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer",
+        "Variant": "SF250 NEW",
+        "Price": 192900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Avenis",
+        "Variant": "NEW",
+        "Price": 80400
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "V-Strom",
+        "Variant": "250SX NEW",
+        "Price": 229000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Burgman",
+        "Variant": "Street 125 EX NEW",
+        "Price": 92400
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "V-Strom",
+        "Variant": "1050 DE NEW",
+        "Price": 929000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "V-Strom",
+        "Variant": "800 DE NEW",
+        "Price": 735000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Smash",
+        "Variant": "FI NEW",
+        "Price": 69900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-S1000GX",
+        "Variant": "NEW",
+        "Price": 969000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Smash",
+        "Variant": "Carb NEW",
+        "Price": 65900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Raider",
+        "Variant": "R150 Carb NEW",
+        "Price": 108900
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Gixxer",
+        "Variant": "SF 155 NEW",
+        "Price": 114900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT100",
+        "Variant": "NEW",
+        "Price": 54200
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT125",
+        "Variant": "NEW",
+        "Price": 58700
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX",
+        "Variant": "140 NEW",
+        "Price": 160000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "1000 NEW",
+        "Price": 718000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "H2 NEW",
+        "Price": 428
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-10R NEW",
+        "Price": 999800
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja",
+        "Variant": "ZX-10RR NEW",
+        "Price": 28
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZF",
+        "Variant": "R15M NEW",
+        "Price": 203000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio",
+        "Variant": "Fazzio NEW",
+        "Price": 93900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZF",
+        "Variant": "R1M NEW",
+        "Price": 345
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZF",
+        "Variant": "R7 NEW",
+        "Price": 597000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-10",
+        "Variant": "SP NEW",
+        "Price": 50
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-07",
+        "Variant": "NEW",
+        "Price": 499000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XSR700",
+        "Variant": "NEW",
+        "Price": 539000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "BOLT",
+        "Variant": "R-SPEC NEW",
+        "Price": 619000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SR400",
+        "Variant": "NEW",
+        "Price": 329000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "TMAX",
+        "Variant": "NEW",
+        "Price": 779000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "TMAX",
+        "Variant": "Techmax NEW",
+        "Price": 849000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Tracer",
+        "Variant": "9 GT NEW",
+        "Price": 929000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Super",
+        "Variant": "Tenere ES NEW",
+        "Price": 999000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Tenere",
+        "Variant": "700 NEW",
+        "Price": 669000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "PG-1",
+        "Variant": "NEW",
+        "Price": 96400
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CB1000R",
+        "Variant": "NEW",
+        "Price": 865000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR1000RR",
+        "Variant": "NEW",
+        "Price": 350
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Gold",
+        "Variant": "Wing NEW",
+        "Price": 2
+    },
+    {
+        "Maker": "Honda",
+        "Model": "X-ADV",
+        "Variant": "NEW",
+        "Price": 839000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variant": "DSX NEW",
+        "Price": 74900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XRM125",
+        "Variant": "DS NEW",
+        "Price": 71900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF1100L",
+        "Variant": "Africa Twin NEW",
+        "Price": 950000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF1100L",
+        "Variant": "Africa Twin Adventure Sports NEW",
+        "Price": 9
+    },
+    {
+        "Maker": "Honda",
+        "Model": "DIO",
+        "Variant": "NEW",
+        "Price": 62400
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300L",
+        "Variant": "NEW",
+        "Price": 269900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300",
+        "Variant": "Rally NEW",
+        "Price": 309900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250RX",
+        "Variant": "NEW",
+        "Price": 469000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CB500F",
+        "Variant": "NEW",
+        "Price": 379000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR650R",
+        "Variant": "NEW",
+        "Price": 549000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CB150X",
+        "Variant": "NEW",
+        "Price": 173900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Airblade160",
+        "Variant": "NEW",
+        "Price": 125900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Wave",
+        "Variant": "RSX NEW",
+        "Price": 63900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CL500",
+        "Variant": "NEW",
+        "Price": 409000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Rebel",
+        "Variant": "1100 NEW",
+        "Price": 650000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF125F",
+        "Variant": "NEW",
+        "Price": 189000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF150R",
+        "Variant": "NEW",
+        "Price": 306000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Winner",
+        "Variant": "X NEW",
+        "Price": 127900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF450R",
+        "Variant": "NEW",
+        "Price": 500000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "NX500",
+        "Variant": "NEW",
+        "Price": 409000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "F",
+        "Variant": "750 GS NEW",
+        "Price": 765000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "F",
+        "Variant": "850 GS NEW",
+        "Price": 875000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "G",
+        "Variant": "310 NEW",
+        "Price": 310000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "1250 GS NEW",
+        "Price": 325
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "nine T NEW",
+        "Price": 158
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "nine T Pure NEW",
+        "Price": 33
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "nine T Scrambler NEW",
+        "Price": 68
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "nine T Urban G/S NEW",
+        "Price": 98
+    },
+    {
+        "Maker": "BMW",
+        "Model": "S",
+        "Variant": "1000 NEW",
+        "Price": 258
+    },
+    {
+        "Maker": "BMW",
+        "Model": "C",
+        "Variant": "400 GT NEW",
+        "Price": 595000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R18",
+        "Variant": "NEW",
+        "Price": 478
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "1250 RT NEW",
+        "Price": 48
+    },
+    {
+        "Maker": "BMW",
+        "Model": "F",
+        "Variant": "900 NEW",
+        "Price": 795000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "M",
+        "Variant": "1000 RR NEW",
+        "Price": 498
+    },
+    {
+        "Maker": "BMW",
+        "Model": "F",
+        "Variant": "900 XR NEW",
+        "Price": 995000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "CE",
+        "Variant": "04 NEW",
+        "Price": 895000
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "1300 GS NEW",
+        "Price": 338
+    },
+    {
+        "Maker": "BMW",
+        "Model": "R",
+        "Variant": "1300 GS Adventure NEW",
+        "Price": 448
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "CVO",
+        "Variant": "Road Glide NEW",
+        "Price": 19
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "CVO",
+        "Variant": "Street Glide NEW",
+        "Price": 13
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Fat",
+        "Variant": "Bob NEW",
+        "Price": 3
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Fat",
+        "Variant": "Boy 114 NEW",
+        "Price": 30
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Low",
+        "Variant": "Rider NEW",
+        "Price": 3
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Road",
+        "Variant": "Glide NEW",
+        "Price": 26
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Sport",
+        "Variant": "Glide NEW",
+        "Price": 23
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Street",
+        "Variant": "Bob NEW",
+        "Price": 19
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Street",
+        "Variant": "Glide NEW",
+        "Price": 46
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "TRI",
+        "Variant": "Glide Ultra NEW",
+        "Price": 3
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Ultra",
+        "Variant": "Limited NEW",
+        "Price": 24
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Heritage",
+        "Variant": "Classic NEW",
+        "Price": 29
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Pan",
+        "Variant": "America 1250 NEW",
+        "Price": 19
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Freewheeler",
+        "Variant": "NEW",
+        "Price": 15
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Sportster",
+        "Variant": "S NEW",
+        "Price": 959000
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Low",
+        "Variant": "Rider ST NEW",
+        "Price": 32
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "CVO",
+        "Variant": "Road Glide Limited NEW",
+        "Price": 16
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Bonneville",
+        "Variant": "Speedmaster NEW",
+        "Price": 33
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Bonneville",
+        "Variant": "Bobber NEW",
+        "Price": 33
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Scrambler",
+        "Variant": "1200 NEW",
+        "Price": 995000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Speed",
+        "Variant": "Twin NEW",
+        "Price": 18
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Street",
+        "Variant": "Scrambler NEW",
+        "Price": 795000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Bonneville",
+        "Variant": "T120 NEW",
+        "Price": 895000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Bonneville",
+        "Variant": "T100 NEW",
+        "Price": 775000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Rocket",
+        "Variant": "3 NEW",
+        "Price": 35
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Street",
+        "Variant": "Triple NEW",
+        "Price": 745000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Trident",
+        "Variant": "660 NEW",
+        "Price": 516000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Speed",
+        "Variant": "Triple 1200 RS NEW",
+        "Price": 13
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Thruxton",
+        "Variant": "RS NEW",
+        "Price": 168
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Tiger",
+        "Variant": "900 NEW",
+        "Price": 325005
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Speed",
+        "Variant": "Triple 1200 RR NEW",
+        "Price": 18
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "650",
+        "Variant": "NK NEW",
+        "Price": 295000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "650",
+        "Variant": "MT NEW",
+        "Price": 345000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "300SR",
+        "Variant": "NEW",
+        "Price": 165000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "300",
+        "Variant": "NK NEW",
+        "Price": 158000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "700",
+        "Variant": "CL-X Heritage NEW",
+        "Price": 369800
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "650",
+        "Variant": "GT NEW",
+        "Price": 335000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "400",
+        "Variant": "GT NEW",
+        "Price": 267000
+    },
+    {
+        "Maker": "CFMoto",
+        "Model": "ST",
+        "Variant": "Papio NEW",
+        "Price": 78000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Continental GT 650 NEW",
+        "Price": 459000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Himalayan NEW",
+        "Price": 354000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Interceptor 650 NEW",
+        "Price": 446000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Meteor NEW",
+        "Price": 260000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Hunter 350 NEW",
+        "Price": 231000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Himalayan 450 NEW",
+        "Price": 359000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Super Meteor 650 NEW",
+        "Price": 439000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Shotgun 650 NEW",
+        "Price": 437000
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "Brutale 800 NEW",
+        "Price": 326675
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "F3 675 NEW",
+        "Price": 9
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "Turismo Veloce NEW",
+        "Price": 9
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "Dragster 800 NEW",
+        "Price": 2
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "Superveloce NEW",
+        "Price": 28
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Hero",
+        "Variant": "NEW",
+        "Price": 50000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "King",
+        "Variant": "NEW",
+        "Price": 48000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Wizard",
+        "Variant": "NEW",
+        "Price": 45500
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Duke",
+        "Variant": "NEW",
+        "Price": 47000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Earl",
+        "Variant": "150 NEW",
+        "Price": 52800
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Prince",
+        "Variant": "125 NEW",
+        "Price": 43000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Stallion",
+        "Variant": "NEW",
+        "Price": 70000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Blink",
+        "Variant": "NEW",
+        "Price": 62000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Boss",
+        "Variant": "NEW",
+        "Price": 55000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Lance",
+        "Variant": "150 NEW",
+        "Price": 97000
+    },
+    {
+        "Maker": "UM",
+        "Model": "Nitrox",
+        "Variant": "NEW",
+        "Price": 49000
+    },
+    {
+        "Maker": "UM",
+        "Model": "Renegade",
+        "Variant": "Sport S NEW",
+        "Price": 116950
+    },
+    {
+        "Maker": "UM",
+        "Model": "Renegade",
+        "Variant": "Commando NEW",
+        "Price": 150000
+    },
+    {
+        "Maker": "TVS",
+        "Model": "Apache",
+        "Variant": "RTR 200 4V NEW",
+        "Price": 94990
+    },
+    {
+        "Maker": "TVS",
+        "Model": "Dazz",
+        "Variant": "NEW",
+        "Price": 59990
+    },
+    {
+        "Maker": "TVS",
+        "Model": "Max4R",
+        "Variant": "NEW",
+        "Price": 49900
+    },
+    {
+        "Maker": "TVS",
+        "Model": "Rockz",
+        "Variant": "NEW",
+        "Price": 59900
+    },
+    {
+        "Maker": "TVS",
+        "Model": "XL",
+        "Variant": "100 NEW",
+        "Price": 31900
+    },
+    {
+        "Maker": "Keeway",
+        "Model": "Cafe",
+        "Variant": "Racer 152 NEW",
+        "Price": 69900
+    },
+    {
+        "Maker": "Keeway",
+        "Model": "Icon",
+        "Variant": "110 NEW",
+        "Price": 61900
+    },
+    {
+        "Maker": "SYM",
+        "Model": "Bonus",
+        "Variant": "110 NEW",
+        "Price": 52800
+    },
+    {
+        "Maker": "SYM",
+        "Model": "Bonus",
+        "Variant": "X NEW",
+        "Price": 49800
+    },
+    {
+        "Maker": "SYM",
+        "Model": "Cruisym",
+        "Variant": "150 NEW",
+        "Price": 106300
+    },
+    {
+        "Maker": "KTM",
+        "Model": "1290",
+        "Variant": "Super Adventure S NEW",
+        "Price": 20
+    },
+    {
+        "Maker": "KTM",
+        "Model": "250",
+        "Variant": "SX-F NEW",
+        "Price": 724000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "300",
+        "Variant": "EXC TPI NEW",
+        "Price": 740000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "350",
+        "Variant": "EXC-F Six Days NEW",
+        "Price": 770000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "450",
+        "Variant": "SX-F NEW",
+        "Price": 750000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "690",
+        "Variant": "Enduro R NEW",
+        "Price": 790000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "690",
+        "Variant": "SMC-R NEW",
+        "Price": 610000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790",
+        "Variant": "Adventure NEW",
+        "Price": 748000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790",
+        "Variant": "Adventure R NEW",
+        "Price": 798000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790",
+        "Variant": "Duke NEW",
+        "Price": 599000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke",
+        "Variant": "200 NEW",
+        "Price": 178000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC",
+        "Variant": "390 NEW",
+        "Price": 300000
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390",
+        "Variant": "Adventure NEW",
+        "Price": 338000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Magnum",
+        "Variant": "250 NEW",
+        "Price": 78000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Moto",
+        "Variant": "R155 NEW",
+        "Price": 58000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Moto",
+        "Variant": "X155 NEW",
+        "Price": 58000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "MSX",
+        "Variant": "150X NEW",
+        "Price": 41000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "MSX125S-II",
+        "Variant": "NEW",
+        "Price": 42000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "MSX200-II",
+        "Variant": "NEW",
+        "Price": 69000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Nicess",
+        "Variant": "110 NEW",
+        "Price": 40000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Sapphire",
+        "Variant": "110 -II NEW",
+        "Price": 40500
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Star",
+        "Variant": "X 125 II NEW",
+        "Price": 40000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Star-X",
+        "Variant": "125S NEW",
+        "Price": 39000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Star-X155",
+        "Variant": "NEW",
+        "Price": 45000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Viber",
+        "Variant": "NEW",
+        "Price": 39000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Xplorer",
+        "Variant": "X200R NEW",
+        "Price": 65000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Xplorer",
+        "Variant": "Z150 NEW",
+        "Price": 55000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Zest",
+        "Variant": "X110-III NEW",
+        "Price": 38000
+    },
+    {
+        "Maker": "MotorStar",
+        "Model": "Zest",
+        "Variant": "X110-IIIM NEW",
+        "Price": 40000
+    },
+    {
+        "Maker": "Vespa",
+        "Model": "Primavera",
+        "Variant": "150 NEW",
+        "Price": 222500
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Kargador",
+        "Variant": "150 NEW",
+        "Price": 63000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Visar",
+        "Variant": "NEW",
+        "Price": 44900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "XTOWN",
+        "Variant": "300 Fi NEW",
+        "Price": 209000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Xciting",
+        "Variant": "S 400i NEW",
+        "Price": 369000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Super",
+        "Variant": "Z 150 NEW",
+        "Price": 83900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Skytown",
+        "Variant": "150 NEW",
+        "Price": 118500
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Scrambler",
+        "Variant": "Desert Sled NEW",
+        "Price": 870000
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "SuperSport",
+        "Variant": "NEW",
+        "Price": 944500
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "XDiavel",
+        "Variant": "NEW",
+        "Price": 21
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Hypermotard",
+        "Variant": "950 NEW",
+        "Price": 2
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Panigale",
+        "Variant": "V2 NEW",
+        "Price": 10
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Scrambler",
+        "Variant": "Nightshift NEW",
+        "Price": 785000
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Monster",
+        "Variant": "937 Plus NEW",
+        "Price": 875000
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Multistrada",
+        "Variant": "V4 NEW",
+        "Price": 17
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Scrambler",
+        "Variant": "1100 Sport PRO NEW",
+        "Price": 1
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Nightster",
+        "Variant": "NEW",
+        "Price": 799000
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Softail",
+        "Variant": "NEW",
+        "Price": 1
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Breakout",
+        "Variant": "117 NEW",
+        "Price": 34
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Nightster",
+        "Variant": "Special NEW",
+        "Price": 835000
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "CVO",
+        "Variant": "Road Glide ST NEW",
+        "Price": 16
+    },
+    {
+        "Maker": "Harley-Davidson",
+        "Model": "Hydra-Glide",
+        "Variant": "Revival NEW",
+        "Price": 45
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502c",
+        "Variant": "NEW",
+        "Price": 349000
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TRK",
+        "Variant": "502 NEW",
+        "Price": 379000
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302",
+        "Variant": "NEW",
+        "Price": 222800
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TNT135",
+        "Variant": "NEW",
+        "Price": 88888
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "VZ",
+        "Variant": "125I NEW",
+        "Price": 68900
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "RFS",
+        "Variant": "150I NEW",
+        "Price": 88800
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TRK502X",
+        "Variant": "NEW",
+        "Price": 399000
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "180S",
+        "Variant": "NEW",
+        "Price": 129900
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TNT600i",
+        "Variant": "NEW",
+        "Price": 440000
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino",
+        "Variant": "250 NEW",
+        "Price": 188800
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino",
+        "Variant": "500 Trail NEW",
+        "Price": 388000
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "ERV",
+        "Variant": "NEW",
+        "Price": 36000
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "ARS",
+        "Variant": "NEW",
+        "Price": 34000
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "GC10",
+        "Variant": "NEW",
+        "Price": 19800
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "GB2",
+        "Variant": "NEW",
+        "Price": 24000
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "TK10",
+        "Variant": "NEW",
+        "Price": 38800
+    },
+    {
+        "Maker": "NWOW",
+        "Model": "WSP",
+        "Variant": "NEW",
+        "Price": 43800
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "RS660",
+        "Variant": "NEW",
+        "Price": 910000
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "Tuono",
+        "Variant": "660 NEW",
+        "Price": 860000
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "SR",
+        "Variant": "GT NEW",
+        "Price": 253000
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "RS",
+        "Variant": "457 NEW",
+        "Price": 348000
+    },
+    {
+        "Maker": "Husqvarna",
+        "Model": "Svartpilen",
+        "Variant": "401 NEW",
+        "Price": 295000
+    },
+    {
+        "Maker": "Husqvarna",
+        "Model": "Vitpilen",
+        "Variant": "401 NEW",
+        "Price": 315000
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django",
+        "Variant": "150 NEW",
+        "Price": 199000
+    },
+    {
+        "Maker": "Segway",
+        "Model": "E110L",
+        "Variant": "NEW",
+        "Price": 125000
+    },
+    {
+        "Maker": "Beta",
+        "Model": "430",
+        "Variant": "RR 4T NEW",
+        "Price": 650000
+    },
+    {
+        "Maker": "HATASU",
+        "Model": "E-BIKES",
+        "Variant": "NERO NEW",
+        "Price": 28990
+    },
+    {
+        "Maker": "HATASU",
+        "Model": "E-BIKES",
+        "Variant": "KUMI NEW",
+        "Price": 19990
+    },
+    {
+        "Maker": "Hero",
+        "Model": "XPulse",
+        "Variant": "200 4V NEW",
+        "Price": 140000
+    },
+    {
+        "Maker": "Hero",
+        "Model": "Hunk",
+        "Variant": "NEW",
+        "Price": 99900
+    },
+    {
+        "Maker": "Hero",
+        "Model": "Xoom",
+        "Variant": "110 NEW",
+        "Price": 69900
+    },
+    {
+        "Maker": "Sunra",
+        "Model": "MIKU",
+        "Variant": "SUPER NEW",
+        "Price": 168000
+    },
+    {
+        "Maker": "Sunra",
+        "Model": "Hawk",
+        "Variant": "NEW",
+        "Price": 78000
+    },
+    {
+        "Maker": "Husqvarna",
+        "Model": "Svartpilen",
+        "Variant": "200 NEW",
+        "Price": 175000
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Diavel",
+        "Variant": "1260 NEW",
+        "Price": 34
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Panigale",
+        "Variant": "V4 NEW",
+        "Price": 498
+    },
+    {
+        "Maker": "Ducati",
+        "Model": "Streetfighter",
+        "Variant": "V4 NEW",
+        "Price": 30
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "RSV4",
+        "Variant": "NEW",
+        "Price": 5
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "Tuono",
+        "Variant": "V4 NEW",
+        "Price": 28
+    },
+    {
+        "Maker": "Aprilia",
+        "Model": "Tuareg",
+        "Variant": "660 NEW",
+        "Price": 750000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Giorno",
+        "Variant": "NEW",
+        "Price": 101900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "AK550",
+        "Variant": "NEW",
+        "Price": 519000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "XTOWN",
+        "Variant": "CT 300i NEW",
+        "Price": 214000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Ak",
+        "Variant": "550 Premium NEW",
+        "Price": 629000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Krv",
+        "Variant": "180 Moto Chain NEW",
+        "Price": 195900
+    },
+    {
+        "Maker": "Vespa",
+        "Model": "Sprint",
+        "Variant": "NEW",
+        "Price": 237500
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Like",
+        "Variant": "125 Italia NEW",
+        "Price": 89900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Super",
+        "Variant": "8 150 NEW",
+        "Price": 76000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "DT",
+        "Variant": "X360 NEW",
+        "Price": 268000
+    },
+    {
+        "Maker": "Segway",
+        "Model": "N100",
+        "Variant": "NEW",
+        "Price": 109000
+    },
+    {
+        "Maker": "Segway",
+        "Model": "E300SE",
+        "Variant": "NEW",
+        "Price": 275000
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "KPV",
+        "Variant": "NEW",
+        "Price": 109800
+    },
+    {
+        "Maker": "Skygo",
+        "Model": "Bolt",
+        "Variant": "150 NEW",
+        "Price": 115000
+    },
+    {
+        "Maker": "Voge",
+        "Model": "DS900X",
+        "Variant": "NEW",
+        "Price": 636000
+    },
+    {
+        "Maker": "Voge",
+        "Model": "CU525",
+        "Variant": "NEW",
+        "Price": 356000
+    },
+    {
+        "Maker": "Ecooter",
+        "Model": "E5",
+        "Variant": "NEW",
+        "Price": 285000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "RM-Z250",
+        "Variant": "NEW",
+        "Price": 559000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Burgman",
+        "Variant": "400 NEW",
+        "Price": 566000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "RM",
+        "Variant": "Z450 NEW",
+        "Price": 585000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Hayabusa",
+        "Variant": "NEW",
+        "Price": 118
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-8S",
+        "Variant": "NEW",
+        "Price": 631000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-8R",
+        "Variant": "NEW",
+        "Price": 699000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-R1000R",
+        "Variant": "NEW",
+        "Price": 110
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX",
+        "Variant": "250 NEW",
+        "Price": 461000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "SV",
+        "Variant": "650A NEW",
+        "Price": 449000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GSX-S1000GT",
+        "Variant": "NEW",
+        "Price": 842000
+    },
+    {
+        "Maker": "MV",
+        "Model": "Agusta",
+        "Variant": "F3 800 NEW",
+        "Price": 2
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KX",
+        "Variant": "250X NEW",
+        "Price": 464000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250R",
+        "Variant": "NEW",
+        "Price": 459000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Daytona",
+        "Variant": "660 NEW",
+        "Price": 549000
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Versys",
+        "Variant": "650 NEW",
+        "Price": 499000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "XL750",
+        "Variant": "Transalp NEW",
+        "Price": 598000
+    },
+    {
+        "Maker": "Vespa",
+        "Model": "GTS",
+        "Variant": "Super NEW",
+        "Price": 395000
+    },
+    {
+        "Maker": "Vespa",
+        "Model": "GTV",
+        "Variant": "300 NEW",
+        "Price": 425000
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Xciting",
+        "Variant": "Vs 400 NEW",
+        "Price": 384000
+    },
+    {
+        "Maker": "Italjet",
+        "Model": "Dragster",
+        "Variant": "NEW",
+        "Price": 360000
+    },
+    {
+        "Maker": "Triumph",
+        "Model": "Tiger",
+        "Variant": "Sport 660 NEW",
+        "Price": 566000
+    },
+    {
+        "Maker": "Bristol",
+        "Model": "Zontes",
+        "Variant": "400E NEW",
+        "Price": 345
+    },
+    {
+        "Maker": "Bristol",
+        "Model": "Zontes",
+        "Variant": "400D NEW",
+        "Price": 245
+    },
+    {
+        "Maker": "Bristol",
+        "Model": "Zontes",
+        "Variant": "400G NEW",
+        "Price": 398800
+    },
+    {
+        "Maker": "Bristol",
+        "Model": "Zontes",
+        "Variant": "400M NEW",
+        "Price": 328800
+    },
+    {
+        "Maker": "Bristol",
+        "Model": "Zontes",
+        "Variant": "703F NEW",
+        "Price": 518800
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Sniper",
+        "Variant": "155 NEW",
+        "Price": 135900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160",
+        "Variant": "NEW",
+        "Price": 140900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click",
+        "Variant": "160 NEW",
+        "Price": 116900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV160",
+        "Variant": "NEW",
+        "Price": 166900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "EM1",
+        "Variant": "e: NEW",
+        "Price": 155400
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Like",
+        "Variant": "150i NEW",
+        "Price": 134700
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "KRV",
+        "Variant": "180i TCS NEW",
+        "Price": 179900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "KRV",
+        "Variant": "180i DDS NEW",
+        "Price": 168800
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Dink",
+        "Variant": "R 150 NEW",
+        "Price": 148900
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "Like",
+        "Variant": "S 150 NEW",
+        "Price": 134000
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Burgman",
+        "Variant": "NEW",
+        "Price": 83400
+    },
+    {
+        "Maker": "TVS",
+        "Model": "iQube",
+        "Variant": "NEW",
+        "Price": 180000
+    },
+    {
+        "Maker": "SYM",
+        "Model": "Jet",
+        "Variant": "X150 NEW",
+        "Price": 135800
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Bullet 350 NEW",
+        "Price": 210000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Scram 411 NEW",
+        "Price": 311000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Guerrilla 450 NEW",
+        "Price": 289000
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Nmax",
+        "Variant": "NEW",
+        "Price": 165900
+    },
+    {
+        "Maker": "Ecooter",
+        "Model": "E3",
+        "Variant": "NEW",
+        "Price": 150000
+    },
+    {
+        "Maker": "Ecooter",
+        "Model": "E2",
+        "Variant": "NEW",
+        "Price": 135000
+    },
+    {
+        "Maker": "Sunra",
+        "Model": "Robo-S",
+        "Variant": "NEW",
+        "Price": 148000
+    },
+    {
+        "Maker": "Royal",
+        "Model": "Enfield",
+        "Variant": "Classic 350 NEW",
+        "Price": 230000
+    },
+    {
+        "Maker": "Enfield",
+        "Model": "Himalayan",
+        "Variant": "450",
+        "Price": 359000
+    },
+    {
+        "Maker": "GTV",
+        "Model": "300",
+        "Variant": "",
+        "Price": 425000
+    },
+    {
+        "Maker": "Robo-S",
+        "Model": "",
+        "Variant": "",
+        "Price": 148000
+    }
+]
