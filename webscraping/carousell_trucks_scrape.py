@@ -79,77 +79,69 @@ def scroll_down(driver):
     time.sleep(1)
 
 def load_all_listings():
-    global scrollamt  
     while True:
         try:
             scroll_down(driver)
-            time.sleep(0.5)  
             scroll_up(driver)
-            time.sleep(0.5)
-
-            # WebDriverWait(driver, 2).until(
-            #     EC.presence_of_element_located((By.CSS_SELECTOR, "D_lk D_lF D_lx D_ls D_lJ D_IL"))
-            # )
-            show_more_listings = driver.find_element(By.CSS_SELECTOR, ".D_lk.M_kM.D_lF.D_lx.M_kZ.D_ls.M_kU.D_lJ.D_IL")
+            show_more_listings = driver.find_element(By.CSS_SELECTOR, ".D_lk.D_lF.D_lx.D_ls.D_lJ.D_IL")
             actions.move_to_element(show_more_listings).perform()
-            time.sleep(0.5)
             show_more_listings.click()
             print("More listings clicked!")
         except Exception as e:
-            print(e)
             print("No more 'Load More' button found.")
             break
 
 load_all_listings()
 
 driver.execute_script("window.scrollTo(0, 0);")
-time.sleep(5)
 
-WebDriverWait(driver, 5).until(
-    EC.presence_of_element_located((By.CLASS_NAME, thumbnailclass))
+truck_selector = "D_oO"
+
+WebDriverWait(driver, 2).until(
+    EC.presence_of_element_located((By.CLASS_NAME, truck_selector))
 )
 
 scraped_data = []
 
-listing_cards = driver.find_elements(By.CLASS_NAME, linkclass)
-listing_urls = [listing.get_attribute("href") for listing in listing_cards if listing.get_attribute("href")]
+listing_cards = driver.find_elements(By.CLASS_NAME, truck_selector)
+print(len(listing_cards))
 
-for i, url in enumerate(listing_urls):
+for i in range(len(listing_cards)):
     try:
-        if (i <= 10):
-            continue
-        elif (i%2 == 1):
-            continue
-        else:
-            driver.get(url)  # Open listing directly
-            time.sleep(2)  
+        load_all_listings()
+        listing_cards = driver.find_elements(By.CLASS_NAME, truck_selector)
+        truck = listing_cards[i]
+        actions.move_to_element(truck).perform()
+        truck.click()
+        driver.back()
+        time.sleep(0.5)  
 
-            html = driver.page_source
-            soup = BeautifulSoup(html, 'html.parser')
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
 
-            spec_containers = soup.find_all('div', class_='D_aLp')
-            spec_container = spec_containers[1] if len(spec_containers) > 1 else None
-            
-            price_element = soup.find('p', {'data-testid': 'new-listing-details-page-desktop-text-price'})
-            price = price_element.text.strip() if price_element else "Unknown Price"
+        spec_containers = soup.find_all('div', class_='D_aLp')
+        spec_container = spec_containers[1] if len(spec_containers) > 1 else None
+        
+        price_element = soup.find('p', {'data-testid': 'new-listing-details-page-desktop-text-price'})
+        price = price_element.text.strip() if price_element else "Unknown Price"
 
 
-            motorcycle_specs = {}
+        motorcycle_specs = {}
 
-            if spec_container:
-                for spec in spec_container.find_all("div", recursive=False):
-                    spec_type = spec.find('p').text.strip() if spec.find('p') else "Unknown Spec"
-                    spec_value = spec.find('span').text.strip() if spec.find('span') else "Unknown Value"
-                    motorcycle_specs[spec_type] = spec_value
+        if spec_container:
+            for spec in spec_container.find_all("div", recursive=False):
+                spec_type = spec.find('p').text.strip() if spec.find('p') else "Unknown Spec"
+                spec_value = spec.find('span').text.strip() if spec.find('span') else "Unknown Value"
+                motorcycle_specs[spec_type] = spec_value
 
-            motorcycle_specs["Price"] = price
-            scraped_data.append(motorcycle_specs)
-            print(f"Scraped Listing {i+1}: {motorcycle_specs}")
+        motorcycle_specs["Price"] = price
+        scraped_data.append(motorcycle_specs)
+        print(f"Scraped Listing {i+1}: {motorcycle_specs}")
 
-            gc.collect()
-            driver.delete_all_cookies()  # Free memory
+        gc.collect()
+        driver.delete_all_cookies()  # Free memory
     except Exception as e:
-        print(f"Error navigating listing {i+1}: {e}")
+        continue
 
 driver.quit()
 

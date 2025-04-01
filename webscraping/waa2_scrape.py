@@ -46,7 +46,7 @@ def get_data(url: str):
     parsed_html = BeautifulSoup(html, 'html.parser')
     
     price = parsed_html.find(class_="attribute price").text.replace(".", ",")
-    parsed_data["Vehicle Price"] = price.replace("PHP", "").strip()
+    parsed_data["Vehicle Price"] = price.replace("PHP", "").replace(",", "").replace("\u20b1", "").strip()
     
     characteristics = parsed_html.find_all(class_="att_description")
     for characteristic in characteristics:
@@ -67,8 +67,10 @@ def get_data(url: str):
         split_str = detail.text.split(":")
         key = split_str[0].strip()
         value = split_str[1].strip()
-        if key == "Model" or key == "Mileage":
+        if key == "Model":
             parsed_data[key] = value
+        elif key == "Mileage":    
+            parsed_data[key] = value.replace("Mileage", "").replace(".", "").strip()
         elif key == "Type of fuel":
             parsed_data["Fuel Type"] = value
         elif key == "Transmission":
