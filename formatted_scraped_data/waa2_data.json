@@ -2280,9 +2280,6 @@
         "Transmission Type": "Manual"
     },
     {
-        "Vehicle Price": "Ask price"
-    },
-    {
         "Vehicle Price": "235000",
         "Maker": "Hyundai",
         "Model Year": "1999",
@@ -2382,7 +2379,7 @@
         "Transmission Type": "Automatic"
     },
     {
-        "Vehicle Price": "Ask price",
+        "Vehicle Price": "-1",
         "Maker": "Hyundai",
         "Model Year": "2006",
         "Transmission": "Automatic",
