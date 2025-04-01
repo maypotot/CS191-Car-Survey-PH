@@ -1,0 +1,638 @@
+[
+    {
+        "Maker": "YAMAHA",
+        "Model": "NEW MIO FAZZIO",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱93,900\nDOWNPAYMENT: ₱10,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "The All-New CRF150R",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱306,000\nDOWNPAYMENT: ₱77,000\nMONTHLY: ₱10,000"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CRF125F",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱189,000\nDOWNPAYMENT: ₱48,000\nMONTHLY: ₱6,300"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NEW NMAX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱155,900\nDOWNPAYMENT: ₱17,000\nMONTHLY: ₱7,200"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NMAX TECHMAX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱175,900\nDOWNPAYMENT: ₱22,000\nMONTHLY: ₱8,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Kargador 150 Euro 3",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱63,000\nDOWNPAYMENT: ₱7,999\nMONTHLY: ₱2,971"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "THE ALL-NEW GIORNO+",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱101,900"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "PG-1",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱96,400\nDOWNPAYMENT: ₱9,000\nMONTHLY: ₱4,500"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "DINK R150",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱152,900\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱6,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CB150X",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱173,900\nDOWNPAYMENT: ₱25,000\nMONTHLY: ₱7,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WINNER X ( RACING )",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱131,900\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱6,200"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WINNER X ( PREMIUM )",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱129,900\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱6,100"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Winner X ( Standard )",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱123,900\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱5,900"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "BURGMAN STREET",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱83,400\nDOWNPAYMENT: ₱6,000\nMONTHLY: ₱4,100"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "BEAT PREMIUM",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱73,400\nDOWNPAYMENT: ₱3,700\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "BEAT PLAYFUL",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱71,900\nDOWNPAYMENT: ₱3,600\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "BEAT ( LIMITED EDITION )",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱74,400\nDOWNPAYMENT: ₱3,800\nMONTHLY: ₱3,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK 125 ( LIMITED EDITION )",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱83,900\nDOWNPAYMENT: ₱6,000\nMONTHLY: ₱4,200"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO 125S",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱82,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱4,200"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK 125",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱81,400\nDOWNPAYMENT: ₱3,500\nMONTHLY: ₱4,100"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "BURGMAN STREET 125 EX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱92,400\nDOWNPAYMENT: ₱10,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "SNIPER 155R",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱145,900\nDOWNPAYMENT: ₱19,000\nMONTHLY: ₱6,700"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KLX 230",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱196,000\nDOWNPAYMENT: ₱42,000\nMONTHLY: ₱6,600"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KLX 140",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱160,000\nDOWNPAYMENT: ₱33,600\nMONTHLY: ₱5,600"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KLX 300R",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱300,000\nDOWNPAYMENT: ₱63,000\nMONTHLY: ₱10,300"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KX65",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱209,000\nDOWNPAYMENT: ₱42,000\nMONTHLY: ₱6,900"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KX250",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱461,000\nDOWNPAYMENT: ₱97,000\nMONTHLY: ₱15,800"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "KX250X",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱464,000\nDOWNPAYMENT: ₱98,000\nMONTHLY: ₱15,900"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "VSTROM 250 SX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱229,000\nDOWNPAYMENT: ₱50,000\nMONTHLY: ₱8,300"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "ADV 160",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱166,900\nDOWNPAYMENT: ₱20,000\nMONTHLY: ₱7,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "AIRBLADE 160",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱125,900\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱5,800"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "SKYDRIVE CROSSOVER",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱73,900\nDOWNPAYMENT: ₱4,500\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO FAZZIO",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱92,900\nDOWNPAYMENT: ₱7,000\nMONTHLY: ₱4,500"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "NMAX ABS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱151,900\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱7,200"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "AVENIS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱80,400\nDOWNPAYMENT: ₱5,000\nMONTHLY: ₱4,000"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK 160",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱116,900\nDOWNPAYMENT: ₱9,000\nMONTHLY: ₱5,600"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Beat Fashion Sport",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱75,400\nDOWNPAYMENT: ₱3,600\nMONTHLY: ₱3,600"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "GIXXER 250",
+        "Transmission": "",
+        "Price": "SRP: ₱182,900\nDOWNPAYMENT: ₱3,800\nMONTHLY: ₱6,600"
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "KRV 180i DDS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱168,800\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱6,800"
+    },
+    {
+        "Maker": "Kymco",
+        "Model": "KRV 180i TCS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱189,900\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱5,100"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "KAGARDOR 150",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱63,000\nDOWNPAYMENT: ₱2,600\nMONTHLY: ₱2,589"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CRF150L",
+        "Transmission": "",
+        "Price": "SRP: ₱147,900\nDOWNPAYMENT: ₱20,000\nMONTHLY: ₱6,700"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "ROUSER NS200 ABS",
+        "Transmission": "",
+        "Price": "SRP: ₱129,800\nDOWNPAYMENT: ₱17,000\nMONTHLY: ₱6,000"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "ROUSER NS125 Fi",
+        "Transmission": "",
+        "Price": "SRP: ₱82,000\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,400"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "SNIPER155",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱125,900\nDOWNPAYMENT: ₱16,000\nMONTHLY: ₱5,800"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "YZF-R15M",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱203,000\nDOWNPAYMENT: ₱28,000\nMONTHLY: ₱9,000"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO GEAR S",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱84,400\nDOWNPAYMENT: ₱2,500\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "PCX 160 – ABS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱149,900\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱7,000"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "PCX 160 – CBS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱131,900\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱6,100"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "TMX 125 ALPHA",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱56,900\nDOWNPAYMENT: ₱3,100\nMONTHLY: ₱3,100"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO AEROX",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱123,000\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱5,700"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "CT150",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱67,500\nDOWNPAYMENT: ₱3,000\nMONTHLY: ₱3,600"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "WR155R",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱180,000\nDOWNPAYMENT: ₱15,000\nMONTHLY: ₱8,000"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Visa R 110 ROYAL (Spoke)",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱43,900\nDOWNPAYMENT: ₱3,300\nMONTHLY: ₱2,200"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "DIO",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱62,400\nDOWNPAYMENT: ₱3,300\nMONTHLY: ₱3,300"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO GEAR",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱79,400\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱4,000"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "GIXXER SF250",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱192,900\nDOWNPAYMENT: ₱42,000\nMONTHLY: ₱7,100"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "Raider J Crossover",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱70,900\nDOWNPAYMENT: ₱3,500\nMONTHLY: ₱3,600"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "Supra GTR 150",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱103,100\nDOWNPAYMENT: ₱5,500\nMONTHLY: ₱4,900"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "CLICK 125i",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱84,800\nDOWNPAYMENT: ₱4,500\nMONTHLY: ₱4,100"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "Wave RSX ( Disk )",
+        "Transmission": "",
+        "Price": "SRP: ₱64,900\nDOWNPAYMENT: ₱3,300\nMONTHLY: ₱3,200"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "Barako 175 (KICK)",
+        "Transmission": "Manual",
+        "Price": "SRP: ₱91,000\nDOWNPAYMENT: ₱3,000\nMONTHLY: ₱4,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "GENIO",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱74,020\nDOWNPAYMENT: ₱3,800\nMONTHLY: ₱3,698"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio Gravis",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱92,900\nDOWNPAYMENT: ₱90,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "XRM 125 Dual Sport Fi",
+        "Transmission": "",
+        "Price": "SRP: ₱71,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WAVE RSX (DRUM)",
+        "Transmission": "",
+        "Price": "SRP: ₱62,900\nDOWNPAYMENT: ₱3,200\nMONTHLY: ₱3,100"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "Beat 110 Premium (ISS/CBS)",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱74,900\nDOWNPAYMENT: ₱4,500\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "WAVE RSX (DISC)",
+        "Transmission": "",
+        "Price": "SRP: ₱64,900\nDOWNPAYMENT: ₱3,300\nMONTHLY: ₱3,200"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MIO AEROX S",
+        "Transmission": "",
+        "Price": "SRP: ₱146,000\nDOWNPAYMENT: ₱16,000\nMONTHLY: ₱6,700"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "MT-15",
+        "Transmission": "",
+        "Price": "SRP: ₱179,000\nDOWNPAYMENT: ₱25,000\nMONTHLY: ₱8,000"
+    },
+    {
+        "Maker": "KTM",
+        "Model": "Duke 200",
+        "Transmission": "",
+        "Price": "SRP: ₱150,000\nDOWNPAYMENT: ₱22,500\nMONTHLY: ₱6,388"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 150i Noodoe",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱139,900\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱6,500"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 150i ABS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱134,000\nDOWNPAYMENT: ₱12,000\nMONTHLY: ₱6,200"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Super Z 125",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱67,000\nDOWNPAYMENT: ₱4,900\nMONTHLY: ₱3,320"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Like 125 Italia",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱92,900\nDOWNPAYMENT: ₱6,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Racingking 180i",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱159,900"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "XTZ 125",
+        "Transmission": "",
+        "Price": "SRP: ₱89,900\nDOWNPAYMENT: ₱7,000\nMONTHLY: ₱4,400"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "Bajaj CT100",
+        "Transmission": "",
+        "Price": "SRP: ₱56,700\nDOWNPAYMENT: ₱2,900\nMONTHLY: ₱2,800"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Super Z 150 FI",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱83,900\nDOWNPAYMENT: ₱5,000\nMONTHLY: ₱3,900"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Super 8 150",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱76,000\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,500"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "Visa R 110 (ALLOY)",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱45,900\nDOWNPAYMENT: ₱2,300\nMONTHLY: ₱2,300"
+    },
+    {
+        "Maker": "KYMCO",
+        "Model": "X-TOWN 300i ABS",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱209,000\nDOWNPAYMENT: ₱42,000\nMONTHLY: ₱7,100"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio i 125",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱77,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,900"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio i 125S",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱82,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱4,200"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio Soul i 125",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱79,900\nDOWNPAYMENT: ₱3,800\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio Soul i 125S",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱83,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,900"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "Mio Sporty",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱73,900\nDOWNPAYMENT: ₱3,600\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "YAMAHA",
+        "Model": "YTX 125",
+        "Transmission": "",
+        "Price": "SRP: ₱57,900\nDOWNPAYMENT: ₱3,300\nMONTHLY: ₱3,000"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "GIXXER 150",
+        "Transmission": "",
+        "Price": "SRP: ₱104,900\nDOWNPAYMENT: ₱14,000\nMONTHLY: ₱4,800"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "GSX R150",
+        "Transmission": "",
+        "Price": "SRP: ₱156,224\nDOWNPAYMENT: ₱19,000\nMONTHLY: ₱6,900"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "GSX S150",
+        "Transmission": "",
+        "Price": "SRP: ₱134,100\nDOWNPAYMENT: ₱13,000\nMONTHLY: ₱6,300"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "Smash 115 – Spoke",
+        "Transmission": "",
+        "Price": "SRP: ₱63,400\nDOWNPAYMENT: ₱3,000\nMONTHLY: ₱3,000"
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC 200 2018",
+        "Transmission": "",
+        "Price": "SRP: ₱162,000\nDOWNPAYMENT: ₱24,500\nMONTHLY: ₱6,865"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "Rouser RS200",
+        "Transmission": "",
+        "Price": "SRP: ₱149,500\nDOWNPAYMENT: ₱20,000\nMONTHLY: ₱6,800"
+    },
+    {
+        "Maker": "KAWASAKI",
+        "Model": "Bajaj CT125",
+        "Transmission": "",
+        "Price": "SRP: ₱58,700\nDOWNPAYMENT: ₱2,200\nMONTHLY: ₱3,100"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "TMX Supremo",
+        "Transmission": "",
+        "Price": "SRP: ₱78,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱4,000"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "Beat Street (STD)",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱75,400\nDOWNPAYMENT: ₱3,600\nMONTHLY: ₱3,600"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "PCX 150",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱122,080\nDOWNPAYMENT: ₱10,000\nMONTHLY: ₱5,600"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "Wave 110 Alpha",
+        "Transmission": "",
+        "Price": "SRP: ₱48,820\nDOWNPAYMENT: ₱2,500\nMONTHLY: ₱2,499"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "XR150L",
+        "Transmission": "",
+        "Price": "SRP: ₱96,900\nDOWNPAYMENT: ₱11,000\nMONTHLY: ₱4,500"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "RS125",
+        "Transmission": "",
+        "Price": "SRP: ₱75,900\nDOWNPAYMENT: ₱3,700\nMONTHLY: ₱3,900"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "XRM125 DSX",
+        "Transmission": "",
+        "Price": "SRP: ₱75,400\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,800"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "XRM 125 Motard",
+        "Transmission": "",
+        "Price": "SRP: ₱76,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,900"
+    },
+    {
+        "Maker": "HONDA",
+        "Model": "XRM125 DS",
+        "Transmission": "",
+        "Price": "SRP: ₱71,900\nDOWNPAYMENT: ₱4,000\nMONTHLY: ₱3,700"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "Skydrive Sport",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱72,900\nDOWNPAYMENT: ₱3,500\nMONTHLY: ₱3,600"
+    },
+    {
+        "Maker": "SUZUKI",
+        "Model": "Smash 115 – DISC",
+        "Transmission": "Automatic",
+        "Price": "SRP: ₱68,400\nDOWNPAYMENT: ₱3,200\nMONTHLY: ₱3,200"
+    }
+]

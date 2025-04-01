@@ -1,0 +1,640 @@
+[
+    {
+        "Vehicle Price": "5,550,000",
+        "Maker": "Daewoo",
+        "Model Year": "2018",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "5,950,000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,500,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,600,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,950,000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,950,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2023",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,950,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "5,950,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,390,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,600,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,500,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,500,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "3,500,000",
+        "Maker": "Hyundai",
+        "Model Year": "2022",
+        "Mileage": "10.000 Mileage",
+        "Type of fuel": "Diesel",
+        "Model": "Boom truck",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "170,000",
+        "Maker": "Hyundai",
+        "Model Year": "2018",
+        "Mileage": "14.383 Mileage",
+        "Transmission": "Manual",
+        "Model": "Eon",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "290,000",
+        "Maker": "Mitsubishi",
+        "Model Year": "2009",
+        "Transmission": "Automatic",
+        "Model": "Lancer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "775,000",
+        "Maker": "Mazda",
+        "Model Year": "2018",
+        "Mileage": "84 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Bt-50",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "775,000",
+        "Maker": "Mazda",
+        "Model Year": "2019",
+        "Mileage": "85 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Bt-50",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "625,000",
+        "Maker": "Hyundai",
+        "Model Year": "2012",
+        "Mileage": "40.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Sonata",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "270,000",
+        "Maker": "Chevrolet",
+        "Model Year": "2012",
+        "Mileage": "50.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Spark",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "510,000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "29.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Vios",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "489,500",
+        "Maker": "Mitsubishi",
+        "Model Year": "2015",
+        "Mileage": "18.955 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Lancer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "219,000",
+        "Maker": "Hyundai",
+        "Model Year": "1999",
+        "Mileage": "110.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Starex",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "144,000",
+        "Maker": "Honda",
+        "Model Year": "1998",
+        "Mileage": "45.913 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Cr-v",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "90,000",
+        "Maker": "Nissan",
+        "Model Year": "1990",
+        "Transmission": "Manual",
+        "Model": "Cefiro",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "345,000",
+        "Maker": "Toyota",
+        "Model Year": "2009",
+        "Mileage": "100.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Innova",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "100,000",
+        "Maker": "Suzuki",
+        "Model Year": "2012",
+        "Transmission": "Manual",
+        "Model": "Multi-cab",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "90,000",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Mileage": "130.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Corolla",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "75,000",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Transmission": "Manual",
+        "Model": "Corolla",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "40,000 \u20b1",
+        "Maker": "Suzuki",
+        "Model Year": "2012",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "2012",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "160,000",
+        "Maker": "Kia",
+        "Model Year": "2004",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160,000",
+        "Maker": "Kia",
+        "Model Year": "2004",
+        "Transmission": "Manual",
+        "Model": "Picanto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "600,000",
+        "Maker": "Ford",
+        "Model Year": "1995",
+        "Transmission": "Automatic",
+        "Model": "Mustang",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "199,999",
+        "Maker": "Ford",
+        "Model Year": "2019",
+        "Mileage": "10.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Ranger",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "245,000",
+        "Maker": "Hyundai",
+        "Model Year": "2009",
+        "Mileage": "95.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Getz",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "120,000",
+        "Maker": "Toyota",
+        "Model Year": "2016",
+        "Mileage": "21.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Wigo",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "135,000",
+        "Maker": "Kia",
+        "Model Year": "1997",
+        "Mileage": "127.335 Mileage",
+        "Transmission": "Manual",
+        "Model": "Sportage",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "100,000 \u20b1",
+        "Maker": "Toyota",
+        "Model Year": "1999",
+        "Transmission": "Manual",
+        "Type of fuel": "Diesel",
+        "Model": "Crown",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "129,000 \u20b1",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Kijang",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "540,000",
+        "Maker": "Kia",
+        "Model Year": "2012",
+        "Mileage": "47.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "855,000",
+        "Maker": "Toyota",
+        "Model Year": "1996",
+        "Mileage": "30.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Soarer",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "130,000",
+        "Maker": "Suzuki",
+        "Transmission": "Manual",
+        "Model": "Multi-cab",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160,000",
+        "Maker": "Suzuki",
+        "Model Year": "2009",
+        "Mileage": "53.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Alto",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "420,000",
+        "Maker": "Hyundai",
+        "Model Year": "2013",
+        "Mileage": "69.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Elantra",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "580,000 \u20b1",
+        "Maker": "Kia",
+        "Model Year": "2013",
+        "Mileage": "110.000 Mileage",
+        "Transmission": "Automatic",
+        "Type of fuel": "Diesel",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "580,000",
+        "Maker": "Kia",
+        "Model Year": "2013",
+        "Mileage": "110.000 Mileage",
+        "Transmission": "Automatic",
+        "Type of fuel": "Diesel",
+        "Model": "Carnival",
+        "Transmission Type": "Automatic",
+        "Fuel Type": "Diesel"
+    },
+    {
+        "Vehicle Price": "179,000",
+        "Maker": "Nissan",
+        "Mileage": "90.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "Cefiro",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "250,000",
+        "Maker": "Toyota",
+        "Model Year": "2018",
+        "Transmission": "Automatic",
+        "Model": "Vios",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "180,000",
+        "Maker": "Suzuki",
+        "Model Year": "2010",
+        "Mileage": "25.000 Mileage",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Carry",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "180,000 \u20b1",
+        "Maker": "Suzuki",
+        "Model Year": "2010",
+        "Mileage": "25.000 Mileage",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Carry",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "150,000",
+        "Maker": "Honda",
+        "Model Year": "1997",
+        "Mileage": "110.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Accord",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "265,000",
+        "Maker": "Honda",
+        "Model Year": "2006",
+        "Transmission": "Automatic",
+        "Model": "Civic",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "80,000 \u20b1",
+        "Maker": "Opel",
+        "Model Year": "1999",
+        "Mileage": "100.000 Mileage",
+        "Transmission": "Manual",
+        "Type of fuel": "Petrol",
+        "Model": "Tigra",
+        "Transmission Type": "Manual",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "350,000 \u20b1",
+        "Maker": "Subaru",
+        "Model Year": "2013",
+        "Mileage": "75.000 Mileage",
+        "Transmission": "Combination",
+        "Type of fuel": "Petrol",
+        "Model": "Forester",
+        "Transmission Type": "Combination",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "888,000 \u20b1",
+        "Maker": "Isuzu",
+        "Model Year": "2022",
+        "Mileage": "53.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Traviz",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "350,000",
+        "Maker": "Subaru",
+        "Model Year": "2013",
+        "Mileage": "75.000 Mileage",
+        "Transmission": "Combination",
+        "Type of fuel": "Petrol",
+        "Model": "Forester",
+        "Transmission Type": "Combination",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "455,000",
+        "Maker": "Toyota",
+        "Model Year": "2020",
+        "Transmission": "Automatic",
+        "Model": "Wigo",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "120,000",
+        "Maker": "Kia",
+        "Model Year": "2017",
+        "Transmission": "Automatic",
+        "Model": "Picanto",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "420,000",
+        "Maker": "Suzuki",
+        "Model Year": "2016",
+        "Transmission": "Automatic",
+        "Model": "Celerio",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "65,000 \u20b1",
+        "Maker": "Nissan",
+        "Model Year": "1995",
+        "Type of fuel": "Petrol",
+        "Model": "Sentra",
+        "Fuel Type": "Petrol"
+    },
+    {
+        "Vehicle Price": "324,000",
+        "Maker": "Nissan",
+        "Model Year": "2015",
+        "Mileage": "36.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Almera",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "1,699,000",
+        "Maker": "Subaru",
+        "Model Year": "2015",
+        "Mileage": "20.000 Mileage",
+        "Transmission": "Manual",
+        "Model": "Wrx",
+        "Transmission Type": "Manual"
+    },
+    {
+        "Vehicle Price": "160,000",
+        "Maker": "Toyota",
+        "Model Year": "1997",
+        "Transmission": "Automatic",
+        "Model": "Altis",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "1,980,000",
+        "Maker": "Audi",
+        "Model Year": "2016",
+        "Mileage": "26.000 Mileage",
+        "Transmission": "Automatic",
+        "Model": "A6",
+        "Transmission Type": "Automatic"
+    },
+    {
+        "Vehicle Price": "147,500",
+        "Maker": "Mitsubishi",
+        "Model Year": "2000",
+        "Transmission": "Manual",
+        "Model": "Lancer",
+        "Transmission Type": "Manual"
+    }
+]

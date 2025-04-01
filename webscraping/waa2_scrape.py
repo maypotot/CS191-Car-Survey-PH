@@ -108,7 +108,7 @@ def navigate():
     )
 
     # thumbnails: list = []
-    service = Service(executable_path="chromedriver.exe")
+    service = Service(executable_path="webscraping/chromedriver.exe")
     driver = webdriver.Chrome(options=option, service=service)
     driver.set_window_size(1024, 600)
     driver.maximize_window()
@@ -137,20 +137,15 @@ def navigate():
                     driver.switch_to.window(driver.window_handles[0])
                     print(e)
             driver.switch_to.window(driver.window_handles[0])
-            driver.get("https://cars.waa2.ph/search?q=truck&list_type=row&page=" + str(i))
+            driver.get("https://cars.waa2.ph/search?q=motorcycle&list_type=row&page=" + str(i))
         except Exception as e:
             driver.switch_to.window(driver.window_handles[0])
-            driver.get("https://cars.waa2.ph/search?q=truck&list_type=row&page=" + str(i))
+            driver.get("https://cars.waa2.ph/search?q=motorcycl&list_type=row&page=" + str(i))
             i -= 1
             print(e)
         print("I am on page " + str(i))
 
-
-    
-    
-    
-
-
-
 navigate()
-json_data = json.dumps(final_data, indent=4)
+
+with open("webscraping/data_dump/waa2_motorcycle_data.json", "w", encoding="utf-8") as json_file:
+    json.dump(final_data, json_file, indent=4, ensure_ascii=False)
