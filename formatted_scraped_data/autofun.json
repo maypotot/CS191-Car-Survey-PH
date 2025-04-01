@@ -1,0 +1,152 @@
+[
+    {
+        "Maker": "Honda",
+        "Model": "Beat",
+        "Variant": "Street",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 69900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Beat",
+        "Variant": "Premium Isscbs",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 72900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Beat",
+        "Variant": "Fashion Sport",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 69900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX 160",
+        "Variant": "ABS",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 145900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX 160",
+        "Variant": "CBS",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 127900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Genio",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 72900
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 400",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 331000
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Dio",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 57500
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio i 125",
+        "Variant": "Standard",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 75900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio i 125",
+        "Variant": "S",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 80400
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Nmax",
+        "Variant": "Standard",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 119900
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Nmax",
+        "Variant": "ABS",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 151900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click 125i",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 79900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Click 150i",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 99900
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV 150",
+        "Variant": "",
+        "Transmission": "",
+        "Engine": "Gasoline",
+        "Year": 2021,
+        "Mileage": -1,
+        "Price": 150900
+    }
+]
