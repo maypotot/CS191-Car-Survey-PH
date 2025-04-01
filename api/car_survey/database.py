@@ -3,7 +3,8 @@ import re
 import json
 
 # conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "gaesunflower6283")
-conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+# conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
 cur = conn.cursor()
 
 cur.execute("TRUNCATE TABLE motors RESTART IDENTITY CASCADE;")
