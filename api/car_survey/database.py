@@ -418,6 +418,32 @@ for motor in data:
             )
     """)
 
+# motorcyclecity
+with open('./formatted_scraped_data/motorcyclecity_motorcycles.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{str(motor["Mileage"])}',
+            '{round(motor["Price"])}'
+            )
+    """)
+
 conn.commit()
 
 cur.close()
