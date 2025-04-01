@@ -366,6 +366,32 @@ for motor in data:
             )
     """)
 
+# carmudi
+with open('./formatted_scraped_data/carmudi_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            '{str(motor["Variant"])}',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            '{str(motor["Mileage"])}',
+            '{str(motor["Price"])}'
+            )
+    """)
+
 conn.commit()
 
 cur.close()
