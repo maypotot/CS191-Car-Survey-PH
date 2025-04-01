@@ -392,6 +392,32 @@ for motor in data:
             )
     """)
 
+# repodeals
+with open('./formatted_scraped_data/repodeals_data.json', 'r') as file:
+    data = json.load(file)
+for motor in data:
+    cur.execute(f"""INSERT INTO motors (
+            maker,
+            model,
+            variant,
+            transmission,
+            engine,
+            year,
+            mileage,
+            price
+        )
+        VALUES (
+            '{str(motor["Maker"])}',
+            '{str(motor["Model"])}',
+            'NULL',
+            'NULL',
+            'NULL',
+            '{str(motor["Year"])}',
+            -1,
+            '{str(motor["Price"])}'
+            )
+    """)
+
 conn.commit()
 
 cur.close()
