@@ -85,31 +85,31 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     depreciation_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    plt.figure(figsize=(10, 6))
-    scatter_years = [year for year in years if year in scraped_data]
-    for year in scatter_years:
-        for price in scraped_data[year]:
-            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
+    # plt.figure(figsize=(10, 6))
+    # scatter_years = [year for year in years if year in scraped_data]
+    # for year in scatter_years:
+    #     for price in scraped_data[year]:
+    #         plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    # plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    plt.xlabel("Year")
-    plt.ylabel("Price")
-    plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
-    plt.legend()
-    plt.grid(True, linestyle="--", alpha=0.5)
-    plt.gca().invert_xaxis()
-    plt.show()
+    # plt.xlabel("Year")
+    # plt.ylabel("Price")
+    # plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
+    # plt.legend()
+    # plt.grid(True, linestyle="--", alpha=0.5)
+    # plt.gca().invert_xaxis()
+    # plt.show()
     
     return predicted_year[0], depreciation_interp
 
-input_maker = "Yamaha"
-input_model = "Mio Gear"
-input_year = 2021
-input_mileage = 55000
-input_transmission = "Manual"
+# input_maker = "Yamaha"
+# input_model = "Mio Gear"
+# input_year = 2021
+# input_mileage = 55000
+# input_transmission = "Manual"
 
-predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
-predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
-# print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
-print(predicted_fmv_lst[10])
+# predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
+# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
+# # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+# print(predicted_fmv_lst[10])
