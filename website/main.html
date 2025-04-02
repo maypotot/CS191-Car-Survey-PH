@@ -10,7 +10,7 @@
     const mileage = document.getElementById("mileage").value.replace(" ", "+");
     const fuel = document.getElementById("fuel").value.replace(" ", "+");
 
-    const apiUrl = "http://127.0.0.1:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year 
+    const apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year 
     + "&variant=" + variant + "&transmission=" + transmission + "&mileage=" + mileage + "&fuel=" + fuel + "&vehicle=" + vehicleInput;
 
     console.log("Requesting:", apiUrl);
