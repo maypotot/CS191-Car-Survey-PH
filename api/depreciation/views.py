@@ -20,20 +20,20 @@ def secure_data(request):
 def home(request):
     maker = request.GET.get('maker', 'Unknown Maker')
     model = request.GET.get('model', 'Unknown Model')
-    transmission = request.GET.get('transmission', 'Any Transmission')
+    # transmission = request.GET.get('transmission', 'Any Transmission')
     year = request.GET.get('year', 'Unknown Year')
     mileage = request.GET.get('mileage', 'Unknown Odometer')
-    variant = request.GET.get('variant', 'Unknown Odometer')
-    fuel = request.GET.get('fuel', 'Unknown Odometer')
-    vehicle = request.GET.get('vehicle', 'Unknown Odometer')
+    # variant = request.GET.get('variant', 'Unknown Odometer')
+    # fuel = request.GET.get('fuel', 'Unknown Odometer')
+    # vehicle = request.GET.get('vehicle', 'Unknown Odometer')
 
     userinput = {"maker": maker, 
              "model": model, 
-             "transmission": transmission,
+            #  "transmission": transmission,
              "year": year,
-             "vehicle": vehicle,
-             "variant": variant,
-             "fuel": fuel,
+            #  "vehicle": vehicle,
+            #  "variant": variant,
+            #  "fuel": fuel,
              "mileage": mileage}
     if year == "":
         year = 0
@@ -44,7 +44,7 @@ def home(request):
     else:
         mileage = int(mileage)
     try:
-        predicted_depreciation, predicted_depreciation_lst = predict_depreciation(maker, model, year, variant, mileage, transmission, fuel, vehicle)
+        predicted_depreciation, predicted_depreciation_lst = predict_depreciation(input_maker=maker, input_model=model, input_year=year, input_mileage=mileage)
     except Error:
         return HttpResponse("Invalid input. Please check your input and try again.")
     value = {'maker': maker, 'model': model,'value_price': predicted_depreciation, "highest_value": predicted_depreciation_lst.max(), "lowest_value": predicted_depreciation_lst.min()}
