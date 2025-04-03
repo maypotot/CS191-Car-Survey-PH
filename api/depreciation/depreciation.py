@@ -102,14 +102,14 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     
     return predicted_year[0].round(2), np.asarray([i.round(2) for i in depreciation_interp]).tolist()
 
-input_maker = "Honda"
-input_model = "Click 125i"
-input_year = 2021
-# input_variant = "ABS"
-# input_mileage = 55000
-# input_transmission = "Manual"
+# input_maker = "Honda"
+# input_model = "Click 125i"
+# input_year = 2021
+# # input_variant = "ABS"
+# # input_mileage = 55000
+# # input_transmission = "Manual"
 
-predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
-# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
-# # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
-# print(predicted_fmv_lst[10])
+# predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
+# # predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
+# # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+# # print(predicted_fmv_lst[10])
