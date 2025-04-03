@@ -40,8 +40,7 @@
           `Highest Value: ${userData.highest_value}\n` +
           `Lowest Value: ${userData.lowest_value}`;
       } else if (requestType === "depreciation") {
-        message = `Depreciation Value: ${userData.depreciation_value}\n` +
-          `Values: ${userData.values.join(", ")}`;
+        message = `Depreciation Value: ${userData.depreciation_value}\n`
       }
 
       alert(message);
