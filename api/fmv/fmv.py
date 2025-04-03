@@ -41,7 +41,7 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
             continue
         if not engine.lower() == input_fuel.lower() and not input_fuel == "":
             continue
-        if mileage < input_mileage - 5000 and mileage > input_mileage + 5000 or mileage <= 100:
+        if mileage < input_mileage - 5000 or mileage > input_mileage + 5000 or mileage <= 100 or input_mileage == -1:
             continue
         if model_year <= 100:
             continue
@@ -86,28 +86,28 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
     fmv_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    # plt.figure(figsize=(10, 6))
-    # scatter_years = [year for year in years if year in scraped_data]
-    # for year in scatter_years:
-    #     for price in scraped_data[year]:
-    #         plt.scatter(year, price, color='blue', alpha=0.5, s=10)
+    plt.figure(figsize=(10, 6))
+    scatter_years = [year for year in years if year in scraped_data]
+    for year in scatter_years:
+        for price in scraped_data[year]:
+            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    # plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.plot(years_interp, fmv_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    # plt.xlabel("Year")
-    # plt.ylabel("Price")
-    # plt.title("Interpolated FMV of Motor (Polynomial Regression)")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
+    plt.xlabel("Year")
+    plt.ylabel("Price")
+    plt.title("Interpolated FMV of Motor (Polynomial Regression)")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
 
-    # plt.show()
+    plt.show()
     return predicted_year[0].round(2), np.asarray([i.round(2) for i in fmv_interp]).tolist()
 
 # input_maker = "Honda"
 # input_model = "Click 125i"
 # input_year = 2022
 # # input_variant = "ABS"
-# input_mileage = 55000
+# input_mileage = -1
 # # input_transmission = "Manual"
 # # input_fuel = "Gasoline"
 
