@@ -101,7 +101,7 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
     plt.grid(True, linestyle="--", alpha=0.5)
 
     plt.show()
-    return predicted_year[0].round(2), np.asarray([i.round(2) for i in fmv_interp]).tolist()
+    return predicted_year[0].round(2), np.asarray([i.round(2) for i in fmv_interp])
 
 # input_maker = "Honda"
 # input_model = "Click 125i"
