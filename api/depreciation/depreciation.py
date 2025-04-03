@@ -100,7 +100,7 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     # plt.gca().invert_xaxis()
     # plt.show()
     
-    return predicted_year[0].round(2), np.asarray([i.round(2) for i in depreciation_interp]).tolist()
+    return predicted_year[0].round(2), np.asarray([i.round(2) for i in depreciation_interp])
 
 # input_maker = "Honda"
 # input_model = "Click 125i"

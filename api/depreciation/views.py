@@ -47,7 +47,7 @@ def home(request):
         predicted_depreciation, predicted_depreciation_lst = predict_depreciation(input_maker=maker, input_model=model, input_year=year, input_mileage=mileage)
     except Error:
         return HttpResponse("Invalid input. Please check your input and try again.")
-    value = {'maker': maker, 'model': model,'value_price': predicted_depreciation, "highest_value": predicted_depreciation_lst.max(), "lowest_value": predicted_depreciation_lst.min()}
+    value = {'maker': maker, 'model': model,'value_price': predicted_depreciation, "list_values": predicted_depreciation_lst[:10]}
     return JsonResponse(value)
 
 def data(request):
