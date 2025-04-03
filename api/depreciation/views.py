@@ -22,20 +22,32 @@ def home(request):
     model = request.GET.get('model', 'Unknown Model')
     transmission = request.GET.get('transmission', 'Any Transmission')
     year = request.GET.get('year', 'Unknown Year')
-    odometer = request.GET.get('odometer', 'Unknown Odometer')
+    mileage = request.GET.get('mileage', 'Unknown Odometer')
+    variant = request.GET.get('variant', 'Unknown Odometer')
+    fuel = request.GET.get('fuel', 'Unknown Odometer')
     vehicle = request.GET.get('vehicle', 'Unknown Odometer')
 
-    userinput = {"maker": maker,
-                 "model": model,
-                 "transmission": transmission,
-                 "year": year,
-                 "vehicle": vehicle,
-                 "odometer": odometer}
+    userinput = {"maker": maker, 
+             "model": model, 
+             "transmission": transmission,
+             "year": year,
+             "vehicle": vehicle,
+             "variant": variant,
+             "fuel": fuel,
+             "mileage": mileage}
+    if year == "":
+        year = 0
+    else:
+        year = int(year)
+    if mileage == "":
+        mileage = 0
+    else:
+        mileage = int(mileage)
     try:
-        predicted_depreciation, predicted_depreciation_lst = predict_depreciation(maker, model, int(year), vehicle)
+        predicted_depreciation, predicted_depreciation_lst = predict_depreciation(maker, model, year, variant, mileage, transmission, fuel, vehicle)
     except Error:
         return HttpResponse("Invalid input. Please check your input and try again.")
-    value = {'depreciation_value': predicted_depreciation, "values": predicted_depreciation_lst}
+    value = {'maker': maker, 'model': model,'value_price': predicted_depreciation, "highest_value": predicted_depreciation_lst.max(), "lowest_value": predicted_depreciation_lst.min()}
     return JsonResponse(value)
 
 def data(request):

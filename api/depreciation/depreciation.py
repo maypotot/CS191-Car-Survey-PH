@@ -7,7 +7,7 @@ import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str = "", input_year: int = -1, input_variant: str = "", input_mileage: int = -1, 
                          input_transmission: str = "", input_fuel: str = "", vehicle_type: str = "motors"):
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -57,7 +57,6 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
             return "No data found for this vehicle."
     
     model_years = [i["year"] for i in scraped_vehicles]
-    print(model_years)
     min_year = min(model_years)
     years = np.arange(min_year, 2025)
     scraped_data = {}
@@ -85,33 +84,33 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     depreciation_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    # plt.figure(figsize=(10, 6))
-    # scatter_years = [year for year in years if year in scraped_data]
-    # for year in scatter_years:
-    #     for price in scraped_data[year]:
-    #         plt.scatter(year, price, color='blue', alpha=0.5, s=10)
+    plt.figure(figsize=(10, 6))
+    scatter_years = [year for year in years if year in scraped_data]
+    for year in scatter_years:
+        for price in scraped_data[year]:
+            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    # plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    # plt.xlabel("Year")
-    # plt.ylabel("Price")
-    # plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
-    # plt.gca().invert_xaxis()
-    # plt.show()
+    plt.xlabel("Year")
+    plt.ylabel("Price")
+    plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
+    plt.gca().invert_xaxis()
+    plt.show()
     
-    return predicted_year[0], depreciation_interp
+    return predicted_year[0].round(2), np.asarray([i.round(2) for i in depreciation_interp]).tolist()
 
-# input_maker = "Honda"
-# input_model = "Click 125i"
-# input_year = 2021
+input_maker = "Honda"
+input_model = "Click 125i"
+input_year = 2021
 # input_variant = "ABS"
 # input_mileage = 55000
 # input_transmission = "Manual"
 # input_fuel = "Gasoline"
 
-# predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
+predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
 # predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
 # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 # print(predicted_fmv_lst[10])

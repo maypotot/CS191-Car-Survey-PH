@@ -23,7 +23,9 @@ def home(request):
     model = request.GET.get('model', 'Unknown Model')
     transmission = request.GET.get('transmission', 'Any Transmission')
     year = request.GET.get('year', 'Unknown Year')
-    odometer = request.GET.get('odometer', 'Unknown Odometer')
+    mileage = request.GET.get('mileage', 'Unknown Odometer')
+    variant = request.GET.get('variant', 'Unknown Odometer')
+    fuel = request.GET.get('fuel', 'Unknown Odometer')
     vehicle = request.GET.get('vehicle', 'Unknown Odometer')
 
     userinput = {"maker": maker, 
@@ -31,9 +33,19 @@ def home(request):
              "transmission": transmission,
              "year": year,
              "vehicle": vehicle,
-             "odometer": odometer}
+             "variant": variant,
+             "fuel": fuel,
+             "mileage": mileage}
+    if year == "":
+        year = 0
+    else:
+        year = int(year)
+    if mileage == "":
+        mileage = 0
+    else:
+        mileage = int(mileage)
     try:
-        predicted_fmv, predicted_fmv_lst = predict_fmv(maker, model, int(year), vehicle)
+        predicted_fmv, predicted_fmv_lst = predict_fmv(maker, model, year, variant, mileage, transmission, fuel, vehicle)
     except Error:
         print("Invalid input. Please check your input and try again.")
         return HttpResponse("Invalid input. Please check your input and try again.")
