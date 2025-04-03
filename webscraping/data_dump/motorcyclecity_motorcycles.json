@@ -1,0 +1,1114 @@
+[
+    {
+        "Maker": "Benelli",
+        "Model": "Panarea 125",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 95000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Motobi Evo 200",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 125000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TRK 502",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 379000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TRK 502X",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 399000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500 Trail",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 415800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "TNT 600i",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 468000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "200 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 178000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 289000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 599000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z H2",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 950000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 500",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 355600.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "150NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 148900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "300SR",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 169900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "300NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 183900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "300CL-X",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 196900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "400NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 248900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 262800.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "400GT",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 267000.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450CL-C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 287900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450SR",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 299900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "650NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 299900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450SR-S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 318900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450MT",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 328900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "650MT",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 328900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "650GT",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 338900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "700CL-X Heritage",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 378900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "700CL-X Sport",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 399900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "800NK",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 458900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "800MT Sport",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 535900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "800MT Touring",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 578900.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "200 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 178000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 289000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 599000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z H2",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 950000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 500",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 355600.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "HUSQVARNA",
+        "Model": "Vitpilen 401",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 290000.0
+    },
+    {
+        "Maker": "HUSQVARNA",
+        "Model": "Svartpilen 401",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 290000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Motobi Evo 200",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 125000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "300CL-X",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 196900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "450CL-C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 287900.0
+    },
+    {
+        "Maker": "CFMOTO",
+        "Model": "700CL-X Heritage",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 378900.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 329800.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 500",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 355600.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 650",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 433000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 900",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 566500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 900",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 618000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 1000-R",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 710000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z H2",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 950000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 340900.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 353800.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 500",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 379600.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 650",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 452000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja 1000-SX",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 718000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-25R",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 406000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-25R",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 442000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-4RR",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 499000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-4RR",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 514000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-6R",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 707000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-6R",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 729000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-10R",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 999800.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-10R",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 1030000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-10RR",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 1550000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC 200",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 198000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC 390",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 335000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-4RR",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 514000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-6R",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 729000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Ninja ZX-10R",
+        "Variant": "40th-LE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 1030000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "200 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 178000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC 200",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 198000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 289000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "RC 390",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 335000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390 ADVENTURE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 338000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 599000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790 ADVENTURE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 748000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "200 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 178000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "390 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 289000.0
+    },
+    {
+        "Maker": "KTM",
+        "Model": "790 DUKE",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 599000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z H2",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 950000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "Z 500",
+        "Variant": "SE",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 355600.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Mono-tone",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 199000.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Stripes",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 205800.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Two-tone",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 216800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Panarea 125",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 95000.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Mono-tone",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 199000.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Two-tone",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 216800.0
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Django 150",
+        "Variant": "Stripes",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 205800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "302S",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 219000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "502C",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 349000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Imperiale 400",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 241000.0
+    },
+    {
+        "Maker": "Benelli",
+        "Model": "Leoncino 500",
+        "Variant": "",
+        "Mileage": -1,
+        "Year": -1,
+        "Price": 395800.0
+    }
+]

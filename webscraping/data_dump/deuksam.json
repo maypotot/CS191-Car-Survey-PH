@@ -1,0 +1,1082 @@
+[
+    {
+        "Maker": "Kawasaki",
+        "Model": "BRUSKY 125",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 76000.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Burgman Street 125 EX",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 93500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "PG-1",
+        "Variant": "",
+        "Transmission": "Auto Clutch",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 96400.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The All-New Winner X",
+        "Variant": "ABS Racing",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 131900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The All-New Winner X",
+        "Variant": "ABS Premium",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 129900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The All-New Winner X",
+        "Variant": "Standard",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 123900.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "BARAKO III",
+        "Variant": "ELECTRIC START",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 102000.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "BARAKO III",
+        "Variant": "KICK START",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 97500.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The New CLICK125",
+        "Variant": "Limited Edition",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The All-New BeAT",
+        "Variant": "Limited Edition",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 76000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "The All-New BeAT",
+        "Variant": "Playful",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "ADV160",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 166900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "AIRBLADE 160",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 125900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MT-03",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 286000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK160",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 122900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Avenis",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Fazzio",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 93900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "YZF-R15 WHITE/RED",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 199000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CB150X",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 173900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 CBS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 131900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 149900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250 RX",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 469000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 79400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S FindURTrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85500.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "RS125 FI",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 77000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300 RALLY",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 309900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300L",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 269900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 183900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 150i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 99900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 125i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 83000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Dio",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 64500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s MATTE BLACK",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 70500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SOUL I 125S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SPORTY",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO GRAVIS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 92900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S findURtrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 140400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S MONSTER",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 135400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 155900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 149900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250 RX",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 469000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 79400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S FindURTrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85500.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "RS125 FI",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 77000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300 RALLY",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 309900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300L",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 269900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 183900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 150i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 99900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 125i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 83000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Dio",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 64500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s MATTE BLACK",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 70500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SOUL I 125S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SPORTY",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO GRAVIS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 92900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S findURtrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 140400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S MONSTER",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 135400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 155900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "WR155R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 180000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s GRAY",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 155R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 145900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 155",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 125900.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT100",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 59500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT125",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 61500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 136900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "SMASH FI",
+        "Variant": "Mags/Disc",
+        "Transmission": "Semi-Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73500.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER 250",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 179900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER SF 250",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 189900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "SKYDRIVE CROSSOVER",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 74500.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "BURGMAN STREET",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "ROUSER RS200 ABS",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 149500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XSR155",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 182000.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "RAIDER J115 Fi",
+        "Variant": "Spokes",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 67900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER 150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 105000.0
+    },
+    {
+        "Maker": "Black",
+        "Model": "Dominar 400 UG2",
+        "Variant": "",
+        "Transmission": "Leisure Bikes",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 208900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SIGHT CAST",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 63500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SIGHT SPOKE",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 60500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 102900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "PCX160 ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 149900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF250 RX",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 469000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 79400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "Mio Gear S FindURTrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85500.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "RS125 FI",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 77000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300 RALLY",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 309900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CRF300L",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 269900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CBR150R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 183900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 150i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 99900.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CLICK 125i",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 83000.0
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Dio",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 64500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s MATTE BLACK",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 70500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SOUL I 125S",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 84500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO SPORTY",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO GRAVIS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 92900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S findURtrip",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 140400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO AEROX S MONSTER",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 135400.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "NMAX ABS",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 155900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "WR155R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 180000.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "MIO i 125s GRAY",
+        "Variant": "2021",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 81500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 155R",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 145900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 155",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 125900.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT100",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 59500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "CT125",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 61500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "KLX150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 136900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "SMASH FI",
+        "Variant": "Mags/Disc",
+        "Transmission": "Semi-Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 73500.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER 250",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 179900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER SF 250",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 189900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "SKYDRIVE CROSSOVER",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 74500.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "BURGMAN STREET",
+        "Variant": "",
+        "Transmission": "Automatic",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 85500.0
+    },
+    {
+        "Maker": "Kawasaki",
+        "Model": "ROUSER RS200 ABS",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 149500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "XSR155",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 182000.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "RAIDER J115 Fi",
+        "Variant": "Spokes",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 67900.0
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "GIXXER 150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 105000.0
+    },
+    {
+        "Maker": "Black",
+        "Model": "Dominar 400 UG2",
+        "Variant": "",
+        "Transmission": "Leisure Bikes",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 208900.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SIGHT CAST",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 63500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SIGHT SPOKE",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 60500.0
+    },
+    {
+        "Maker": "Yamaha",
+        "Model": "SNIPER 150",
+        "Variant": "",
+        "Transmission": "Manual",
+        "Year": -1,
+        "Mileage": -1,
+        "Price": 102900.0
+    }
+]
