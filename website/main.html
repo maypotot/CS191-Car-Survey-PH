@@ -5,13 +5,10 @@
     const maker = document.getElementById("maker").value.replace(" ", "+");
     const model = document.getElementById("model").value.replace(" ", "+");
     const year = document.getElementById("year").value.replace(" ", "+");
-    const variant = document.getElementById("variant").value.replace(" ", "+");
-    const transmission = document.getElementById("transmission").value.replace(" ", "+");
     const mileage = document.getElementById("mileage").value.replace(" ", "+");
-    const fuel = document.getElementById("fuel").value.replace(" ", "+");
 
     const apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year 
-    + "&variant=" + variant + "&transmission=" + transmission + "&mileage=" + mileage + "&fuel=" + fuel + "&vehicle=" + vehicleInput;
+    + "&mileage=" + mileage + "&vehicle=" + vehicleInput;
 
     console.log("Requesting:", apiUrl);
 
@@ -110,6 +107,17 @@
                 type="text"
                 name="year"
                 id="year"
+                class="formbold-form-input"
+              />
+            </div>  
+            <div>
+              <label for="year" class="formbold-form-label">
+                Mileage
+              </label>
+              <input
+                type="text"
+                name="mileage"
+                id="mileage"
                 class="formbold-form-input"
               />
             </div>  

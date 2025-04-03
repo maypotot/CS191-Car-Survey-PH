@@ -39,7 +39,7 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
             continue
         if not engine.lower() == input_fuel.lower() and not input_fuel == "":
             continue
-        if mileage < input_mileage - 5000 and mileage > input_mileage + 5000  and not input_mileage == -1:
+        if mileage < input_mileage - 5000 and mileage > input_mileage + 5000 or mileage <= 100:
             continue
         if model_year <= 100:
             continue

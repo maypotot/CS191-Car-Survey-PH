@@ -41,7 +41,7 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
             continue
         if not engine.lower() == input_fuel.lower() and not input_fuel == "":
             continue
-        if mileage < input_mileage - 5000 and mileage > input_mileage + 5000  and not input_mileage == -1:
+        if mileage < input_mileage - 5000 and mileage > input_mileage + 5000 or mileage <= 100:
             continue
         if model_year <= 100:
             continue
@@ -103,15 +103,15 @@ def predict_fmv(input_maker: str, input_model: str = "", input_year: int = -1, i
     plt.show()
     return predicted_year[0].round(2), np.asarray([i.round(2) for i in fmv_interp]).tolist()
 
-# input_maker = "Yamaha"
-# input_model = "Mio Gear"
-# input_year = 2024
+input_maker = "Honda"
+input_model = "Click 125i"
+input_year = 2022
 # input_variant = "ABS"
-# input_mileage = 55000
+input_mileage = 55000
 # input_transmission = "Manual"
 # input_fuel = "Gasoline"
 
-# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model=input_model, input_year=input_year)
+predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_model=input_model, input_mileage=input_mileage, input_year=input_year)
 # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
 # print(predicted_fmv_lst[10])
 
