@@ -7,7 +7,7 @@ import psycopg2
 
 def predict_depreciation(input_maker: str, input_model: str = "", input_year: int = -1, input_variant: str = "", input_mileage: int = -1, 
                          input_transmission: str = "", input_fuel: str = "", vehicle_type: str = "motors"):
-    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "i<3sunflowers")
+    conn = psycopg2.connect(host = "localhost", port = 5432, dbname = "vehicle", user = "postgres", password = "password")
     cur = conn.cursor()
 
     cur.execute(f"""
@@ -39,7 +39,7 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
             continue
         if not engine.lower() == input_fuel.lower() and not input_fuel == "":
             continue
-        if mileage < input_mileage - 5000 or mileage > input_mileage + 5000 or mileage <= 100 or input_mileage == -1:
+        if mileage < input_mileage - 5000 or mileage > input_mileage + 5000 or mileage <= 100:
             continue
         if model_year <= 100:
             continue
@@ -58,7 +58,7 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     
     model_years = [i["year"] for i in scraped_vehicles]
     min_year = min(model_years)
-    years = np.arange(min_year, 2025)
+    years = np.arange(min_year, 2026)
     scraped_data = {}
     for year in years:
         for vehicle in scraped_vehicles:
@@ -66,7 +66,7 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
                 if year not in scraped_data:
                     scraped_data[year] = []
                 scraped_data[year].append(vehicle["price"])
-
+    scraped_data[2025] = [x * 1.1 for x in scraped_data[list(scraped_data.keys())[-1]]]
 
     X = np.concatenate([[year] * len(scraped_data[year]) for year in years if year in scraped_data]).reshape(-1, 1)
     y = np.concatenate([scraped_data[year] for year in years if year in scraped_data])  
@@ -84,32 +84,32 @@ def predict_depreciation(input_maker: str, input_model: str = "", input_year: in
     depreciation_interp = model.predict(X_interp_poly)
     predicted_year = model.predict(poly.fit_transform([[input_year]]))
 
-    # plt.figure(figsize=(10, 6))
-    # scatter_years = [year for year in years if year in scraped_data]
-    # for year in scatter_years:
-    #     for price in scraped_data[year]:
-    #         plt.scatter(year, price, color='blue', alpha=0.5, s=10)
+    plt.figure(figsize=(10, 6))
+    scatter_years = [year for year in years if year in scraped_data]
+    for year in scatter_years:
+        for price in scraped_data[year]:
+            plt.scatter(year, price, color='blue', alpha=0.5, s=10)
 
-    # plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
+    plt.plot(years_interp, depreciation_interp, color='red', linewidth=2, label=f"Polynomial Regression (Degree {degree})")
 
-    # plt.xlabel("Year")
-    # plt.ylabel("Price")
-    # plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
-    # plt.legend()
-    # plt.grid(True, linestyle="--", alpha=0.5)
-    # plt.gca().invert_xaxis()
-    # plt.show()
+    plt.xlabel("Year")
+    plt.ylabel("Price")
+    plt.title("Interpolated Depreciation of Motor (Polynomial Regression)")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
+    plt.gca().invert_xaxis()
+    plt.show()
     
     return predicted_year[0].round(2), np.asarray([i.round(2) for i in depreciation_interp]).tolist()
 
-# input_maker = "Honda"
-# input_model = "Click 125i"
-# input_year = 2021
-# # input_variant = "ABS"
-# # input_mileage = 55000
-# # input_transmission = "Manual"
+input_maker = "Honda"
+input_model = "Click 125i"
+input_year = 2025
+# input_variant = "ABS"
+input_mileage = 12000
+# input_transmission = "Manual"
 
-# predict_depreciation(input_maker, input_model=input_model, input_year=input_year)
-# # predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
-# # # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
-# # print(predicted_fmv_lst[10])
+predict_depreciation(input_maker, input_model=input_model, input_year=input_year, input_mileage=input_mileage)
+# predicted_fmv, predicted_fmv_lst = predict_fmv(input_maker, input_year=input_year)
+# # print(predicted_fmv, predicted_fmv_lst.max(), predicted_fmv_lst.min())
+# print(predicted_fmv_lst[10])
