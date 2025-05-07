@@ -8,7 +8,7 @@
     const mileage = document.getElementById("mileage").value.replace(" ", "+");
 
     const apiUrl = "http://3.26.1.211:8000/" + urlInput + "?maker=" + maker + "&model=" + model + "&year=" + year 
-    + "&mileage=" + mileage + "&vehicle=" + vehicleInput;
+    + "&mileage=" + mileage + "&vehicle=motors";
 
     console.log("Requesting:", apiUrl);
 
@@ -64,15 +64,6 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt.
           </p>
-        </div>
-        <div class="formbold-input-group">
-          <label class="formbold-form-label">
-            Motor or Truck?
-          </label>          
-            <select id="vehicleInput" class="formbold-form-select">
-              <option value="motors">Motor</option>
-              <option value="trucks">Truck</option>
-            </select>
         </div>
         <div class="formbold-input-flex">
           <div>
