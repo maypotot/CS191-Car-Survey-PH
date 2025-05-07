@@ -39,7 +39,12 @@
           `Highest Value: ${userData.highest_value}\n` +
           `Lowest Value: ${userData.lowest_value}`;
       } else if (requestType === "depreciation") {
-        message = `Values: ${userData.list_values.join(", ")}`;
+        message = `Depreciation Price in years:\n`
+        const keys = Object.keys(userData.list_values);
+        for (let i = 0; i < keys.length; i++) {
+          const key = keys[i];
+          message += `${keys[i]}: ${userData.list_values[key]}\n`;
+        }
       }
 
       alert(message);
